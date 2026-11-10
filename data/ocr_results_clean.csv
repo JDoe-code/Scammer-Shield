@@ -1,0 +1,1463 @@
+file,folder,label,text,error,clean_text
+assassin_legit_email_0.png,assassin_legit,0,"Re: New Sequences Window
+
+From: Robert Elz <kre@munnari.OZ.AU>
+
+Date: Wed, 21 Aug 2002 10:54:46 -0500_ From: Chris Garrigues Message-ID:
+<1029945287.4797.TMDA@deepeddy.vircio.com> || can't reproduce this error. For me it is very
+repeatable... (like every time, without fail). This is the debug log of the pick happening ... 18:19:03 Pick_It
+{exec pick +inbox -list -Ibrace -lbrace -subject ftp -rbrace -rbrace} {4852-4852 -sequence mercury}
+18:19:03 exec pick +inbox -list -lbrace -lbrace -subject ftp -rbrace -rbrace 4852-4852 -sequence mercury
+18:19:04 Ftoc_PickMsgs {{1 hit}} 18:19:04 Marking 1 hits 18:19:04 tkerror: syntax error in expression ""int ...
+Note, if | run the pick command by hand ... delta$ pick +inbox -list -lbrace -lbrace -subject ftp -rbrace -
+rbrace 4852-4852 -sequence mercury 1 hit That's where the ""1 hit"" comes from (obviously). The version of
+nmh I'm using is ... delta$ pick -version pick -- nmh-1.0.4 [compiled on fuchsia.cs.mu.OZ.AU at Sun Mar 17
+14:55:56 ICT 2002] And the relevant part of my .mh_profile ... delta$ mhparam pick -seq sel -list Since the
+pick command works, the sequence (actually, both of them, the one that's explicit on the command line,
+from the search popup, and the one that comes from .mh_profile) do get created. kre ps: this is still using
+the version of the code form a day ago, | haven't been able to reach the cvs repository today (local routing
+issue | think). Exmh-workers mailing list Exmh-
+workers@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-workers",,re: new sequences window from: robert elz kre@munnari.oz.au date: wed 21 aug 2002 10:54:46 -0500_ from: chris garrigues message-id: 1029945287.4797.tmda@deepeddy.vircio.com can't reproduce this error. for me it is very repeatable... like every time without fail . this is the debug log of the pick happening ... 18:19:03 pick_it exec pick inbox -list -ibrace -lbrace -subject ftp -rbrace -rbrace 4852-4852 -sequence mercury 18:19:03 exec pick inbox -list -lbrace -lbrace -subject ftp -rbrace -rbrace 4852-4852 -sequence mercury 18:19:04 ftoc_pickmsgs 1 hit 18:19:04 marking 1 hits 18:19:04 tkerror: syntax error in expression int ... note if run the pick command by hand ... delta$ pick inbox -list -lbrace -lbrace -subject ftp -rbrace rbrace 4852-4852 -sequence mercury 1 hit that's where the 1 hit comes from obviously . the version of nmh i'm using is ... delta$ pick -version pick -- nmh-1.0.4 compiled on fuchsia.cs.mu.oz.au at sun mar 17 14:55:56 ict 2002 and the relevant part of my .mh_profile ... delta$ mhparam pick -seq sel -list since the pick command works the sequence actually both of them the one that's explicit on the command line from the search popup and the one that comes from .mh_profile do get created. kre ps: this is still using the version of the code form a day ago haven't been able to reach the cvs repository today local routing issue think . exmh-workers mailing list exmhworkers@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-workers
+assassin_legit_email_1.png,assassin_legit,0,"[zzzzteana] RE: Alexander
+
+From: Steve Burt <Steve_Burt@cursor-system.com>
+
+Martin A posted:
+
+Tassos Papadopoulos, the Greek sculptor behind the plan, judged that the
+limestone of Mount Kerdylio, 70 miles east of Salonika and not far from the
+Mount Athos monastic community, was ideal for the patriotic sculpture.
+
+As well as Alexander's granite features, 240 ft high and 170 ft wide, a
+museum, a restored amphitheatre and car park for admiring crowds are
+
+planned
+
+So is this mountain limestone or granite?
+If it's limestone, it'll weather pretty fast.
+
+wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
+
+To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,zzzzteana re: alexander from: steve burt steve_burt@cursor-system.com martin a posted: tassos papadopoulos the greek sculptor behind the plan judged that the limestone of mount kerdylio 70 miles east of salonika and not far from the mount athos monastic community was ideal for the patriotic sculpture. as well as alexander's granite features 240 ft high and 170 ft wide a museum a restored amphitheatre and car park for admiring crowds are planned so is this mountain limestone or granite? if it's limestone it'll weather pretty fast. wenn nn nenn-------------- yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsolb/tm to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_legit_email_2.png,assassin_legit,0,"[zzzzteana] Moscow bomber
+
+From: ""Tim Chapman"" <timc@2ubh.com>
+
+Man Threatens Explosion In Moscow
+
+Thursday August 22, 2002 1:40 PM
+
+MOSCOW (AP) - Security officers on Thursday seized an unidentified man who
+said he was armed with explosives and threatened to blow up his truck in
+front of Russia's Federal Security Services headquarters in Moscow, NTV
+television reported.
+
+The officers seized an automatic rifle the man was carrying, then the man
+got out of the truck and was taken into custody, NTV said. No other details
+were immediately available.
+
+The man had demanded talks with high government officials, the Interfax and
+ITAR-Tass news agencies said. Ekho Moskvy radio reported that he wanted to
+talk with Russian President Vladimir Putin.
+
+Police and security forces rushed to the Security Service building, within
+blocks of the Kremlin, Red Square and the Bolshoi Ballet, and surrounded the
+man, who claimed to have one and a half tons of explosives, the news
+agencies said. Negotiations continued for about one and a half hours outside
+the building, ITAR-Tass and Interfax reported, citing witnesses.
+
+The man later drove away from the building, under police escort, and drove
+to a street near Moscow's Olympic Penta Hotel, where authorities held
+further negotiations with him, the Moscow police press service said. The
+move appeared to be an attempt by security services to get him to a more
+secure location.
+
+women reennenenencnnnnn= Yahoo! Groups Sponsor ---------------------~-->
+
+4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
+
+To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,zzzzteana moscow bomber from: tim chapman timc@2ubh.com man threatens explosion in moscow thursday august 22 2002 1:40 pm moscow ap - security officers on thursday seized an unidentified man who said he was armed with explosives and threatened to blow up his truck in front of russia's federal security services headquarters in moscow ntv television reported. the officers seized an automatic rifle the man was carrying then the man got out of the truck and was taken into custody ntv said. no other details were immediately available. the man had demanded talks with high government officials the interfax and itar-tass news agencies said. ekho moskvy radio reported that he wanted to talk with russian president vladimir putin. police and security forces rushed to the security service building within blocks of the kremlin red square and the bolshoi ballet and surrounded the man who claimed to have one and a half tons of explosives the news agencies said. negotiations continued for about one and a half hours outside the building itar-tass and interfax reported citing witnesses. the man later drove away from the building under police escort and drove to a street near moscow's olympic penta hotel where authorities held further negotiations with him the moscow police press service said. the move appeared to be an attempt by security services to get him to a more secure location. women reennenenencnnnnn yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsolb/tm to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_legit_email_3.png,assassin_legit,0,"[IRR] Klez: The Virus That Won't Die
+
+From: Monty Solomon <monty@roscom.com>
+
+Klez: The Virus That Won't Die
+Already the most prolific virus ever, Klez continues to wreak havoc.
+
+Andrew Brandt
+>>From the September 2002 issue of PC World magazine
+Posted Thursday, August 01, 2002
+
+The Klez worm is approaching its seventh month of wriggling across
+the Web, making it one of the most persistent viruses ever. And
+experts warn that it may be a harbinger of new viruses that use a
+combination of pernicious approaches to go from PC to PC.
+
+Antivirus software makers Symantec and McAfee both report more than
+2000 new infections daily, with no sign of letup at press time. The
+British security firm MessageLabs estimates that 1 in every 300
+
+e-mail messages holds a variation of the Klez virus, and says that
+
+Klez has already surpassed last summer's SirCam as the most prolific
+virus ever.
+
+And some newer Klez variants aren't merely nuisances--they can carry
+other viruses in them that corrupt your data.
+
+http://www.pcworld.com/news/article/0,aid,103259,00.asp
+
+Irregulars mailing list
+Irregulars@tb.tf
+http://tb.tf/mailman/listinfo/irregulars",,irr klez: the virus that won't die from: monty solomon monty@roscom.com klez: the virus that won't die already the most prolific virus ever klez continues to wreak havoc. andrew brandt from the september 2002 issue of pc world magazine posted thursday august 01 2002 the klez worm is approaching its seventh month of wriggling across the web making it one of the most persistent viruses ever. and experts warn that it may be a harbinger of new viruses that use a combination of pernicious approaches to go from pc to pc. antivirus software makers symantec and mcafee both report more than 2000 new infections daily with no sign of letup at press time. the british security firm messagelabs estimates that 1 in every 300 e-mail messages holds a variation of the klez virus and says that klez has already surpassed last summer's sircam as the most prolific virus ever. and some newer klez variants aren't merely nuisances--they can carry other viruses in them that corrupt your data. http://www.pcworld.com/news/article/0 aid 103259 00.asp irregulars mailing list irregulars@tb.tf http://tb.tf/mailman/listinfo/irregulars
+assassin_legit_email_4.png,assassin_legit,0,"Re: [zzzzteana] Nothing like mama used to make
+
+From: Stewart Smith <Stewart.Smith@ee.ed.ac.uk>
+
+> in adding cream to spaghetti carbonara, which has the same effect on pasta as
+> making a pizza a deep-pie;
+
+| just had to jump in here as Carbonara is one of my favourites to make and ask
+what the hell are you supposed to use instead of cream? I've never seen a
+recipe that hasn't used this. Personally | use low fat creme fraiche because it
+works quite nicely but the only time I've seen an supposedly authentic recipe
+for carbonara it was identical to mine (cream, eggs and lots of fresh parmesan)
+except for the creme fraiche.
+
+Stew
+
+Stewart Smith
+
+Scottish Microelectronics Centre, University of Edinburgh.
+http://www.ee.ed.ac.uk/~sxs/
+
+wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
+
+To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,re: zzzzteana nothing like mama used to make from: stewart smith stewart.smith@ee.ed.ac.uk in adding cream to spaghetti carbonara which has the same effect on pasta as making a pizza a deep-pie just had to jump in here as carbonara is one of my favourites to make and ask what the hell are you supposed to use instead of cream? i've never seen a recipe that hasn't used this. personally use low fat creme fraiche because it works quite nicely but the only time i've seen an supposedly authentic recipe for carbonara it was identical to mine cream eggs and lots of fresh parmesan except for the creme fraiche. stew stewart smith scottish microelectronics centre university of edinburgh. http://www.ee.ed.ac.uk/ sxs/ wenn nn nenn-------------- yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsolb/tm to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_legit_email_5.png,assassin_legit,0,"Re: [zzzzteana] Nothing like mama used to make
+
+From: ""Martin Adamson"" <martin@srv0.ems.ed.ac.uk>
+
+> | just had to jump in here as Carbonara is one of my favourites to make and
+> ask
+> what the hell are you supposed to use instead of cream?
+
+Isn't it just basically a mixture of beaten egg and bacon (or pancetta,
+
+really)? You mix in the raw egg to the cooked pasta and the heat of the pasta
+cooks the egg. That's my understanding.
+
+Martin
+
+wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+
+4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
+
+To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,re: zzzzteana nothing like mama used to make from: martin adamson martin@srv0.ems.ed.ac.uk just had to jump in here as carbonara is one of my favourites to make and ask what the hell are you supposed to use instead of cream? isn't it just basically a mixture of beaten egg and bacon or pancetta really ? you mix in the raw egg to the cooked pasta and the heat of the pasta cooks the egg. that's my understanding. martin wenn nn nenn-------------- yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsolb/tm to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_legit_email_6.png,assassin_legit,0,"[zzzzteana] Playboy wants to go out with a bang
+
+From: ""Martin Adamson"" <martin@srv0.ems.ed.ac.uk>
+
+The Scotsman - 22 August 2002
+
+Playboy wants to go out with a bang
+
+AN AGEING Berlin playboy has come up with an unusual offer to lure women into
+his bed - by promising the last woman he sleeps with an inheritance of 250,000
+(160,000).
+
+Rolf Eden, 72, a Berlin disco owner famous for his countless sex partners,
+said he could imagine no better way to die than in the arms of an attractive
+young woman - preferably under 30.
+
+""| put it all in my last will and testament - the last woman who sleeps with
+me gets all the money,"" Mr Eden told Bild newspaper.
+
+""| want to pass away in the most beautiful moment of my life. First a lot of
+fun with a beautiful woman, then wild sex, a final orgasm - and it will all
+end with a heart attack and then Im gone.”
+
+Mr Eden, who is selling his nightclub this year, said applications should be
+sent in quickly because of his age. ""It could end very soon,"" he said.
+
+wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
+
+To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,zzzzteana playboy wants to go out with a bang from: martin adamson martin@srv0.ems.ed.ac.uk the scotsman - 22 august 2002 playboy wants to go out with a bang an ageing berlin playboy has come up with an unusual offer to lure women into his bed - by promising the last woman he sleeps with an inheritance of 250 000 160 000 . rolf eden 72 a berlin disco owner famous for his countless sex partners said he could imagine no better way to die than in the arms of an attractive young woman - preferably under 30. put it all in my last will and testament - the last woman who sleeps with me gets all the money mr eden told bild newspaper. want to pass away in the most beautiful moment of my life. first a lot of fun with a beautiful woman then wild sex a final orgasm - and it will all end with a heart attack and then im gone. mr eden who is selling his nightclub this year said applications should be sent in quickly because of his age. it could end very soon he said. wenn nn nenn-------------- yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsolb/tm to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_legit_email_7.png,assassin_legit,0,"Re: [zzzzteana] Nothing like mama used to make
+
+From: Stewart Smith <Stewart.Smith@ee.ed.ac.uk>
+
+Martin Adamson wrote: > > Isn't it just basically a mixture of beaten egg and bacon (or pancetta, > really)?
+You mix in the raw egg to the cooked pasta and the heat of the pasta > cooks the egg. That's my
+understanding. > You're probably right, mine's just the same but with the cream added to the eggs. |
+guess | should try it without. Actually looking on the internet for a recipe | found this one from possibly one
+of the scariest people I've ever seen, and he's a US Congressman: That's one of the worst non-smiles ever.
+Stew ps. Apologies if any of the list's Maine residents voted for this man, you won't do it again once you've
+seen this pic. -- Stewart Smith Scottish Microelectronics Centre, University of Edinburgh.
+http://www.ee.ed.ac.uk/~sxs/ ------------------------ Yahoo! Groups Sponsor ---------------------~-- >4
+DVDs Free +s&p Join Now http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSoIB/TM ------------------
+> To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com Your use of Yahoo! Groups is subject to
+http://docs.yahoo.com/info/terms/",,re: zzzzteana nothing like mama used to make from: stewart smith stewart.smith@ee.ed.ac.uk martin adamson wrote: isn't it just basically a mixture of beaten egg and bacon or pancetta really ? you mix in the raw egg to the cooked pasta and the heat of the pasta cooks the egg. that's my understanding. you're probably right mine's just the same but with the cream added to the eggs. guess should try it without. actually looking on the internet for a recipe found this one from possibly one of the scariest people i've ever seen and he's a us congressman: that's one of the worst non-smiles ever. stew ps. apologies if any of the list's maine residents voted for this man you won't do it again once you've seen this pic. -- stewart smith scottish microelectronics centre university of edinburgh. http://www.ee.ed.ac.uk/ sxs/ ------------------------ yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsoib/tm ----------------- to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_legit_email_8.png,assassin_legit,0,"[zzzzteana] Meaningful sentences
+
+From: ""Martin Adamson"" <martin@srv0.ems.ed.ac.uk>
+
+The Scotsman
+Thu 22 Aug 2002
+Meaningful sentences
+
+Tracey Lawson
+
+If you ever wanted to look like ""one of the most dangerous inmates in prison
+history"", as one judge described Charles Bronson, nows your chance. Bronson -
+the serial hostage taker, not the movie star - has written a health and
+
+fitness guide in which he shares some of the secrets behind his legendary
+muscle power.
+
+Solitary Fitness - a title which bears testament to the fact that Bronson, 48,
+has spent 24 of his 28 prison years in solitary confinement - explains how he
+has turned himself into a lean, mean, fitness machine while living 23 hours a
+day in a space just 12 feet by eight feet, on a diet of scrubs grub and at
+virtually no cost.
+
+The book is aimed at those who want to get fabulously fit without spending a
+fortune on gym memberships, protein supplements or designer trainers, and
+starts with a fierce attack on some of the expensive myths churned out by the
+exercise industry.
+
+""| pick up a fitness mag, | start to laugh and | wipe my arse with it,"" is the
+opening paragraph penned by Bronson. ""Its a joke and a big con and they call
+me a criminal!"" You cant help feeling he has a point.
+
+This is not the first book that Bronson has written from behind bars, having
+already published Birdman Opens His Mind, which features drawings and poems
+created by Bronson while in prison. And he is not the first prisoner to
+
+discover creative expression while residing at Her Majestys pleasure.
+
+Jimmy Boyle, the Scots sculptor and novelist, discovered his artistic talents
+
+when he was sent to Barlinnie Prisons famous special unit, which aimed to
+
+help inmates put their violent pasts behind them by teaching them how to
+
+express their emotions artistically. Boyle was sentenced to life for the
+
+murder of ""Babs"" Rooney in 1967. Once released, he moved to Edinburgh where he
+has become a respected artist. His first novel, Hero of the Underworld, was
+published in 1999 and his autobiography, A Sense of Freedom, was made into an
+award-winning film.
+
+Hugh Collins was jailed for life in 1977 for the murder of William Mooney in
+Glasgow, and in his first year in Barlinnie prison stabbed three prison
+officers, earning him an extra seven-year sentence. But, after being
+transferred to the same unit that Boyle attended, he learned to sculpt and
+developed an interest in art. He later published Autobiography of a Murderer,
+a frank account of Glasgows criminal culture in the 1960s, which received
+critical praise.
+
+And Lord Archer doesnt seem to have had trouble continuing to write the books
+that have made him millions while in jail. He recently signed a three-book
+
+deal with Macmillan publishers worth a reported 10 million, and is no doubt
+scribbling away as we speak.
+
+So why is it that men like Collins, Bronson and Boyle, who can be so
+destructive towards society on the outside, can become So creative once stuck
+on the inside? Steve Richards, Bronsons publisher, has published many books
+about criminal figures and believes the roots of this phenomenon are both
+pragmatic and profound.
+
+He says: ""Prison is sometimes the first time some criminals will ever have
+known a stable environment, and this can be the first time they have the
+chance to focus on their creative skills.
+
+""It may also be the first time that they have really had the chance of an
+education, if their early years have been hard. It could be the first time
+anyone has offered them the chance to explore their creative talents.""
+
+However, Richards believes the reasons are also deeper than that. He says:
+""Once they are behind bars, the cold light of day hits them, and they examine
+the very essence of who they are.
+
+""They ask themselves, am | a man who wants to be remembered for violence? Or
+am | aman who can contribute to society, who can be remembered for something
+good?""
+
+Bronson - who was born Michael Gordon Peterson, but changed his name to that
+of the Hollywood star of the Death Wish films - has, so far, been remembered
+mainly for things bad. He was originally jailed for seven years for armed
+
+robbery in 1974, and has had a series of sentences added to his original term
+over the years as a result of attacking people in prison. In 2000 he was
+
+jailed for life after being convicted of holding a teacher hostage for nearly
+
+two days during a jail siege.
+
+Standing five feet ten and a half inches tall and weighing 210lbs, he is
+renowned for his strength. He has bent metal cell doors with his bare hands
+and does up to 3,000 - yes, 3,000 - press-ups a day. As he puts it: ""| can hit
+aman 20 times in four seconds, | can push 132 press ups in 60 seconds.""
+
+But judging by our current obsession with health and exercise, Solitary
+Fitness might be the book which will see Bronsons face sitting on every
+coffee table in the land. He might be the man to give us the dream body which
+so many so-called fitness gurus promise but fail to motivate us into. Because
+Bronson has learned to use words as powerfully as he can use his fists.
+
+""All this crap about high-protein drinks, pills, diets, its just a load of
+bollocks and a multi-million-pound racket,"" he writes, in what can only be
+described as a refreshingly honest style. ""We can all be fat lazy bastards,
+its our choice, Im sick of hearing and reading about excuses, if you stuff
+your face with shit you become shit, thats logical to me.""
+
+As motivational mantras go, that might be just the kick up the, er, backside
+
+we all needed.
+
+Solitary Fitness by Charles Bronson is published by Mirage Publishing and will
+be available in bookstores from October at 7.99
+
+women reennenenencnnnnn= Yahoo! Groups Sponsor ---------------------~-->
+4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
+
+To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,zzzzteana meaningful sentences from: martin adamson martin@srv0.ems.ed.ac.uk the scotsman thu 22 aug 2002 meaningful sentences tracey lawson if you ever wanted to look like one of the most dangerous inmates in prison history as one judge described charles bronson nows your chance. bronson the serial hostage taker not the movie star - has written a health and fitness guide in which he shares some of the secrets behind his legendary muscle power. solitary fitness - a title which bears testament to the fact that bronson 48 has spent 24 of his 28 prison years in solitary confinement - explains how he has turned himself into a lean mean fitness machine while living 23 hours a day in a space just 12 feet by eight feet on a diet of scrubs grub and at virtually no cost. the book is aimed at those who want to get fabulously fit without spending a fortune on gym memberships protein supplements or designer trainers and starts with a fierce attack on some of the expensive myths churned out by the exercise industry. pick up a fitness mag start to laugh and wipe my arse with it is the opening paragraph penned by bronson. its a joke and a big con and they call me a criminal! you cant help feeling he has a point. this is not the first book that bronson has written from behind bars having already published birdman opens his mind which features drawings and poems created by bronson while in prison. and he is not the first prisoner to discover creative expression while residing at her majestys pleasure. jimmy boyle the scots sculptor and novelist discovered his artistic talents when he was sent to barlinnie prisons famous special unit which aimed to help inmates put their violent pasts behind them by teaching them how to express their emotions artistically. boyle was sentenced to life for the murder of babs rooney in 1967. once released he moved to edinburgh where he has become a respected artist. his first novel hero of the underworld was published in 1999 and his autobiography a sense of freedom was made into an award-winning film. hugh collins was jailed for life in 1977 for the murder of william mooney in glasgow and in his first year in barlinnie prison stabbed three prison officers earning him an extra seven-year sentence. but after being transferred to the same unit that boyle attended he learned to sculpt and developed an interest in art. he later published autobiography of a murderer a frank account of glasgows criminal culture in the 1960s which received critical praise. and lord archer doesnt seem to have had trouble continuing to write the books that have made him millions while in jail. he recently signed a three-book deal with macmillan publishers worth a reported 10 million and is no doubt scribbling away as we speak. so why is it that men like collins bronson and boyle who can be so destructive towards society on the outside can become so creative once stuck on the inside? steve richards bronsons publisher has published many books about criminal figures and believes the roots of this phenomenon are both pragmatic and profound. he says: prison is sometimes the first time some criminals will ever have known a stable environment and this can be the first time they have the chance to focus on their creative skills. it may also be the first time that they have really had the chance of an education if their early years have been hard. it could be the first time anyone has offered them the chance to explore their creative talents. however richards believes the reasons are also deeper than that. he says: once they are behind bars the cold light of day hits them and they examine the very essence of who they are. they ask themselves am a man who wants to be remembered for violence? or am aman who can contribute to society who can be remembered for something good? bronson - who was born michael gordon peterson but changed his name to that of the hollywood star of the death wish films - has so far been remembered mainly for things bad. he was originally jailed for seven years for armed robbery in 1974 and has had a series of sentences added to his original term over the years as a result of attacking people in prison. in 2000 he was jailed for life after being convicted of holding a teacher hostage for nearly two days during a jail siege. standing five feet ten and a half inches tall and weighing 210lbs he is renowned for his strength. he has bent metal cell doors with his bare hands and does up to 3 000 - yes 3 000 - press-ups a day. as he puts it: can hit aman 20 times in four seconds can push 132 press ups in 60 seconds. but judging by our current obsession with health and exercise solitary fitness might be the book which will see bronsons face sitting on every coffee table in the land. he might be the man to give us the dream body which so many so-called fitness gurus promise but fail to motivate us into. because bronson has learned to use words as powerfully as he can use his fists. all this crap about high-protein drinks pills diets its just a load of bollocks and a multi-million-pound racket he writes in what can only be described as a refreshingly honest style. we can all be fat lazy bastards its our choice im sick of hearing and reading about excuses if you stuff your face with shit you become shit thats logical to me. as motivational mantras go that might be just the kick up the er backside we all needed. solitary fitness by charles bronson is published by mirage publishing and will be available in bookstores from october at 7.99 women reennenenencnnnnn yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsolb/tm to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_legit_email_9.png,assassin_legit,0,"[SAtalk] SA CGI Configurator Scripts
+
+From: ""NOI Administrator"" <admin@networksonline.com>
+
+| have been trying to research via SA mirrors and search engines if a canned
+script exists giving clients access to their user_prefs options via a
+web-based CGI interface. Numerous ISPs provide this feature to clients, but
+so far | can find nothing. Our configuration uses Amavis-Postfix and ClamAV
+for virus filtering and Procmail with SpamAssassin for spam filtering. |
+
+would prefer not to have to write a script myself, but will appreciate any
+suggestions.
+
+This sf.net email is sponsored by: OSDN - Tired of that same old
+cell phone? Get a new here for FREE!
+https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
+
+Spamassassin-talk mailing list
+Spamassassin-talk@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-talk",,satalk sa cgi configurator scripts from: noi administrator admin@networksonline.com have been trying to research via sa mirrors and search engines if a canned script exists giving clients access to their user_prefs options via a web-based cgi interface. numerous isps provide this feature to clients but so far can find nothing. our configuration uses amavis-postfix and clamav for virus filtering and procmail with spamassassin for spam filtering. would prefer not to have to write a script myself but will appreciate any suggestions. this sf.net email is sponsored by: osdn - tired of that same old cell phone? get a new here for free! https://www.inphonic.com/r.asp?r sourceforge1 refcode1 vs3390 spamassassin-talk mailing list spamassassin-talk@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
+assassin_legit_email_10.png,assassin_legit,0,"[SAdev] Interesting approach to Spam handling..
+From: David H=?ISO-8859-1?B?9g==?=hn <dh@uptime.at>
+
+Hello, have you seen and discussed this article and his approach?
+Thank you
+
+http://www.paulgraham.com/spam.html
+-- ""Hell, there are no rules here-- we're trying to accomplish something.""
+-- Thomas Alva Edison
+
+This sf.net email is sponsored by: OSDN - Tired of that same old
+cell phone? Get a new here for FREE!
+https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
+
+Spamassassin-devel mailing list
+Spamassassin-devel@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",,sadev interesting approach to spam handling.. from: david h ?iso-8859-1?b?9g ? hn dh@uptime.at hello have you seen and discussed this article and his approach? thank you http://www.paulgraham.com/spam.html -- hell there are no rules here-- we're trying to accomplish something. -- thomas alva edison this sf.net email is sponsored by: osdn - tired of that same old cell phone? get a new here for free! https://www.inphonic.com/r.asp?r sourceforge1 refcode1 vs3390 spamassassin-devel mailing list spamassassin-devel@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-devel
+assassin_legit_email_11.png,assassin_legit,0,"Re: [SAdev] Live Rule Updates after Release ???
+
+From: Marc Perkel <marc@perkel.com>
+
+Yes - great minds think alike. But even withput eval rules it would be very
+useful. It would allow us to respond quickly to spammer's tricks.
+
+Theo Van Dinter wrote:
+
+> On Thu, Aug 22, 2002 at 07:27:52AM -0700, Marc Perkel wrote:
+
+>
+
+>>Has anyone though of the idea of live updates of rules after release? The
+>>idea being that the user can run a cron job once a week or so and get the
+>>new default rule set. This would allow us to react faster to:
+
+>
+
+>
+
+> | suggested this a few months ago. | don't remember the details of what
+> came out of it except that it would only be useful for non-eval rules
+
+> since those require code changes.
+
+>
+
+This sf.net email is sponsored by: OSDN - Tired of that same old
+cell phone? Get a new here for FREE!
+https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
+
+Spamassassin-devel mailing list
+Spamassassin-devel@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",,re: sadev live rule updates after release ??? from: marc perkel marc@perkel.com yes - great minds think alike. but even withput eval rules it would be very useful. it would allow us to respond quickly to spammer's tricks. theo van dinter wrote: on thu aug 22 2002 at 07:27:52am -0700 marc perkel wrote: has anyone though of the idea of live updates of rules after release? the idea being that the user can run a cron job once a week or so and get the new default rule set. this would allow us to react faster to: suggested this a few months ago. don't remember the details of what came out of it except that it would only be useful for non-eval rules since those require code changes. this sf.net email is sponsored by: osdn - tired of that same old cell phone? get a new here for free! https://www.inphonic.com/r.asp?r sourceforge1 refcode1 vs3390 spamassassin-devel mailing list spamassassin-devel@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-devel
+assassin_legit_email_12.png,assassin_legit,0,"[ILUG] Re: Problems with RAID1 on cobalt raq3
+
+From: ""John P. Looney"" <valen@tuatha.org>
+
+On Mon, Aug 19, 2002 at 03:08:16PM +0100, John P. Looney mentioned:
+> This is likely because to get it to boot, like the cobalt, I'm actually
+> passing root=/dev/hda5 to the kernel, not /dev/mdo.
+
+Just to solve this...the reason | was booting the box with
+root=/dev/hda5, not /dev/mdO was because /dev/mdO wasn't booting - it
+would barf with 'can't find init’.
+
+It turns out that this is because | was populating mdO with tar. Which
+seems to have 'issues' with crosslinked files - for instance, it was
+trying to make a hard link of glibc.so to hda - and failing. It was only
+as | did it again with a friend present, that he spotted the errors, and
+queried them. We noticed that the hard linked files just didn't exist on
+the new rootfs.
+
+When we duplicated the filesystems with dump instead of tar, it worked
+fine, | was able to tell lilo to use root=/dev/mdO and everything worked.
+
+Woohoo.
+Kate
+
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie",,ilug re: problems with raid1 on cobalt raq3 from: john p. looney valen@tuatha.org on mon aug 19 2002 at 03:08:16pm 0100 john p. looney mentioned: this is likely because to get it to boot like the cobalt i'm actually passing root /dev/hda5 to the kernel not /dev/mdo. just to solve this...the reason was booting the box with root /dev/hda5 not /dev/mdo was because /dev/mdo wasn't booting - it would barf with 'can't find init . it turns out that this is because was populating mdo with tar. which seems to have 'issues' with crosslinked files - for instance it was trying to make a hard link of glibc.so to hda - and failing. it was only as did it again with a friend present that he spotted the errors and queried them. we noticed that the hard linked files just didn't exist on the new rootfs. when we duplicated the filesystems with dump instead of tar it worked fine was able to tell lilo to use root /dev/mdo and everything worked. woohoo. kate irish linux users' group: ilug@linux.ie http://www.linux.ie/mailman/listinfo/ilug for un subscription information. list maintainer: listmaster@linux.ie
+assassin_phishing_email_0.png,assassin_phishing,1,"Re: New Sequences Window
+
+From: Robert Elz <kre@munnari.OZ.AU>
+
+Date: Wed, 21 Aug 2002 10:54:46 -0500_ From: Chris Garrigues Message-ID:
+<1029945287.4797.TMDA@deepeddy.vircio.com> || can't reproduce this error. For me it is very
+repeatable... (like every time, without fail). This is the debug log of the pick happening ... 18:19:03 Pick_It
+{exec pick +inbox -list -Ibrace -lbrace -subject ftp -rbrace -rbrace} {4852-4852 -sequence mercury}
+18:19:03 exec pick +inbox -list -lbrace -lbrace -subject ftp -rbrace -rbrace 4852-4852 -sequence mercury
+18:19:04 Ftoc_PickMsgs {{1 hit}} 18:19:04 Marking 1 hits 18:19:04 tkerror: syntax error in expression ""int ...
+Note, if | run the pick command by hand ... delta$ pick +inbox -list -lbrace -lbrace -subject ftp -rbrace -
+rbrace 4852-4852 -sequence mercury 1 hit That's where the ""1 hit"" comes from (obviously). The version of
+nmh I'm using is ... delta$ pick -version pick -- nmh-1.0.4 [compiled on fuchsia.cs.mu.OZ.AU at Sun Mar 17
+14:55:56 ICT 2002] And the relevant part of my .mh_profile ... delta$ mhparam pick -seq sel -list Since the
+pick command works, the sequence (actually, both of them, the one that's explicit on the command line,
+from the search popup, and the one that comes from .mh_profile) do get created. kre ps: this is still using
+the version of the code form a day ago, | haven't been able to reach the cvs repository today (local routing
+issue | think). Exmh-workers mailing list Exmh-
+workers@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-workers",,re: new sequences window from: robert elz kre@munnari.oz.au date: wed 21 aug 2002 10:54:46 -0500_ from: chris garrigues message-id: 1029945287.4797.tmda@deepeddy.vircio.com can't reproduce this error. for me it is very repeatable... like every time without fail . this is the debug log of the pick happening ... 18:19:03 pick_it exec pick inbox -list -ibrace -lbrace -subject ftp -rbrace -rbrace 4852-4852 -sequence mercury 18:19:03 exec pick inbox -list -lbrace -lbrace -subject ftp -rbrace -rbrace 4852-4852 -sequence mercury 18:19:04 ftoc_pickmsgs 1 hit 18:19:04 marking 1 hits 18:19:04 tkerror: syntax error in expression int ... note if run the pick command by hand ... delta$ pick inbox -list -lbrace -lbrace -subject ftp -rbrace rbrace 4852-4852 -sequence mercury 1 hit that's where the 1 hit comes from obviously . the version of nmh i'm using is ... delta$ pick -version pick -- nmh-1.0.4 compiled on fuchsia.cs.mu.oz.au at sun mar 17 14:55:56 ict 2002 and the relevant part of my .mh_profile ... delta$ mhparam pick -seq sel -list since the pick command works the sequence actually both of them the one that's explicit on the command line from the search popup and the one that comes from .mh_profile do get created. kre ps: this is still using the version of the code form a day ago haven't been able to reach the cvs repository today local routing issue think . exmh-workers mailing list exmhworkers@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-workers
+assassin_phishing_email_1.png,assassin_phishing,1,"[zzzzteana] RE: Alexander
+
+From: Steve Burt <Steve_Burt@cursor-system.com>
+
+Martin A posted:
+
+Tassos Papadopoulos, the Greek sculptor behind the plan, judged that the
+limestone of Mount Kerdylio, 70 miles east of Salonika and not far from the
+Mount Athos monastic community, was ideal for the patriotic sculpture.
+
+As well as Alexander's granite features, 240 ft high and 170 ft wide, a
+museum, a restored amphitheatre and car park for admiring crowds are
+
+planned
+
+So is this mountain limestone or granite?
+If it's limestone, it'll weather pretty fast.
+
+wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
+
+To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,zzzzteana re: alexander from: steve burt steve_burt@cursor-system.com martin a posted: tassos papadopoulos the greek sculptor behind the plan judged that the limestone of mount kerdylio 70 miles east of salonika and not far from the mount athos monastic community was ideal for the patriotic sculpture. as well as alexander's granite features 240 ft high and 170 ft wide a museum a restored amphitheatre and car park for admiring crowds are planned so is this mountain limestone or granite? if it's limestone it'll weather pretty fast. wenn nn nenn-------------- yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsolb/tm to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_phishing_email_2.png,assassin_phishing,1,"[zzzzteana] Moscow bomber
+
+From: ""Tim Chapman"" <timc@2ubh.com>
+
+Man Threatens Explosion In Moscow
+
+Thursday August 22, 2002 1:40 PM
+
+MOSCOW (AP) - Security officers on Thursday seized an unidentified man who
+said he was armed with explosives and threatened to blow up his truck in
+front of Russia's Federal Security Services headquarters in Moscow, NTV
+television reported.
+
+The officers seized an automatic rifle the man was carrying, then the man
+got out of the truck and was taken into custody, NTV said. No other details
+were immediately available.
+
+The man had demanded talks with high government officials, the Interfax and
+ITAR-Tass news agencies said. Ekho Moskvy radio reported that he wanted to
+talk with Russian President Vladimir Putin.
+
+Police and security forces rushed to the Security Service building, within
+blocks of the Kremlin, Red Square and the Bolshoi Ballet, and surrounded the
+man, who claimed to have one and a half tons of explosives, the news
+agencies said. Negotiations continued for about one and a half hours outside
+the building, ITAR-Tass and Interfax reported, citing witnesses.
+
+The man later drove away from the building, under police escort, and drove
+to a street near Moscow's Olympic Penta Hotel, where authorities held
+further negotiations with him, the Moscow police press service said. The
+move appeared to be an attempt by security services to get him to a more
+secure location.
+
+women reennenenencnnnnn= Yahoo! Groups Sponsor ---------------------~-->
+
+4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
+
+To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,zzzzteana moscow bomber from: tim chapman timc@2ubh.com man threatens explosion in moscow thursday august 22 2002 1:40 pm moscow ap - security officers on thursday seized an unidentified man who said he was armed with explosives and threatened to blow up his truck in front of russia's federal security services headquarters in moscow ntv television reported. the officers seized an automatic rifle the man was carrying then the man got out of the truck and was taken into custody ntv said. no other details were immediately available. the man had demanded talks with high government officials the interfax and itar-tass news agencies said. ekho moskvy radio reported that he wanted to talk with russian president vladimir putin. police and security forces rushed to the security service building within blocks of the kremlin red square and the bolshoi ballet and surrounded the man who claimed to have one and a half tons of explosives the news agencies said. negotiations continued for about one and a half hours outside the building itar-tass and interfax reported citing witnesses. the man later drove away from the building under police escort and drove to a street near moscow's olympic penta hotel where authorities held further negotiations with him the moscow police press service said. the move appeared to be an attempt by security services to get him to a more secure location. women reennenenencnnnnn yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsolb/tm to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_phishing_email_3.png,assassin_phishing,1,"[IRR] Klez: The Virus That Won't Die
+
+From: Monty Solomon <monty@roscom.com>
+
+Klez: The Virus That Won't Die
+Already the most prolific virus ever, Klez continues to wreak havoc.
+
+Andrew Brandt
+>>From the September 2002 issue of PC World magazine
+Posted Thursday, August 01, 2002
+
+The Klez worm is approaching its seventh month of wriggling across
+the Web, making it one of the most persistent viruses ever. And
+experts warn that it may be a harbinger of new viruses that use a
+combination of pernicious approaches to go from PC to PC.
+
+Antivirus software makers Symantec and McAfee both report more than
+2000 new infections daily, with no sign of letup at press time. The
+British security firm MessageLabs estimates that 1 in every 300
+
+e-mail messages holds a variation of the Klez virus, and says that
+
+Klez has already surpassed last summer's SirCam as the most prolific
+virus ever.
+
+And some newer Klez variants aren't merely nuisances--they can carry
+other viruses in them that corrupt your data.
+
+http://www.pcworld.com/news/article/0,aid,103259,00.asp
+
+Irregulars mailing list
+Irregulars@tb.tf
+http://tb.tf/mailman/listinfo/irregulars",,irr klez: the virus that won't die from: monty solomon monty@roscom.com klez: the virus that won't die already the most prolific virus ever klez continues to wreak havoc. andrew brandt from the september 2002 issue of pc world magazine posted thursday august 01 2002 the klez worm is approaching its seventh month of wriggling across the web making it one of the most persistent viruses ever. and experts warn that it may be a harbinger of new viruses that use a combination of pernicious approaches to go from pc to pc. antivirus software makers symantec and mcafee both report more than 2000 new infections daily with no sign of letup at press time. the british security firm messagelabs estimates that 1 in every 300 e-mail messages holds a variation of the klez virus and says that klez has already surpassed last summer's sircam as the most prolific virus ever. and some newer klez variants aren't merely nuisances--they can carry other viruses in them that corrupt your data. http://www.pcworld.com/news/article/0 aid 103259 00.asp irregulars mailing list irregulars@tb.tf http://tb.tf/mailman/listinfo/irregulars
+assassin_phishing_email_4.png,assassin_phishing,1,"Re: [zzzzteana] Nothing like mama used to make
+
+From: Stewart Smith <Stewart.Smith@ee.ed.ac.uk>
+
+> in adding cream to spaghetti carbonara, which has the same effect on pasta as
+> making a pizza a deep-pie;
+
+| just had to jump in here as Carbonara is one of my favourites to make and ask
+what the hell are you supposed to use instead of cream? I've never seen a
+recipe that hasn't used this. Personally | use low fat creme fraiche because it
+works quite nicely but the only time I've seen an supposedly authentic recipe
+for carbonara it was identical to mine (cream, eggs and lots of fresh parmesan)
+except for the creme fraiche.
+
+Stew
+
+Stewart Smith
+
+Scottish Microelectronics Centre, University of Edinburgh.
+http://www.ee.ed.ac.uk/~sxs/
+
+wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
+
+To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,re: zzzzteana nothing like mama used to make from: stewart smith stewart.smith@ee.ed.ac.uk in adding cream to spaghetti carbonara which has the same effect on pasta as making a pizza a deep-pie just had to jump in here as carbonara is one of my favourites to make and ask what the hell are you supposed to use instead of cream? i've never seen a recipe that hasn't used this. personally use low fat creme fraiche because it works quite nicely but the only time i've seen an supposedly authentic recipe for carbonara it was identical to mine cream eggs and lots of fresh parmesan except for the creme fraiche. stew stewart smith scottish microelectronics centre university of edinburgh. http://www.ee.ed.ac.uk/ sxs/ wenn nn nenn-------------- yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsolb/tm to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_phishing_email_5.png,assassin_phishing,1,"Re: [zzzzteana] Nothing like mama used to make
+
+From: ""Martin Adamson"" <martin@srv0.ems.ed.ac.uk>
+
+> | just had to jump in here as Carbonara is one of my favourites to make and
+> ask
+> what the hell are you supposed to use instead of cream?
+
+Isn't it just basically a mixture of beaten egg and bacon (or pancetta,
+
+really)? You mix in the raw egg to the cooked pasta and the heat of the pasta
+cooks the egg. That's my understanding.
+
+Martin
+
+wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+
+4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
+
+To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,re: zzzzteana nothing like mama used to make from: martin adamson martin@srv0.ems.ed.ac.uk just had to jump in here as carbonara is one of my favourites to make and ask what the hell are you supposed to use instead of cream? isn't it just basically a mixture of beaten egg and bacon or pancetta really ? you mix in the raw egg to the cooked pasta and the heat of the pasta cooks the egg. that's my understanding. martin wenn nn nenn-------------- yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsolb/tm to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_phishing_email_6.png,assassin_phishing,1,"[zzzzteana] Playboy wants to go out with a bang
+
+From: ""Martin Adamson"" <martin@srv0.ems.ed.ac.uk>
+
+The Scotsman - 22 August 2002
+
+Playboy wants to go out with a bang
+
+AN AGEING Berlin playboy has come up with an unusual offer to lure women into
+his bed - by promising the last woman he sleeps with an inheritance of 250,000
+(160,000).
+
+Rolf Eden, 72, a Berlin disco owner famous for his countless sex partners,
+said he could imagine no better way to die than in the arms of an attractive
+young woman - preferably under 30.
+
+""| put it all in my last will and testament - the last woman who sleeps with
+me gets all the money,"" Mr Eden told Bild newspaper.
+
+""| want to pass away in the most beautiful moment of my life. First a lot of
+fun with a beautiful woman, then wild sex, a final orgasm - and it will all
+end with a heart attack and then Im gone.”
+
+Mr Eden, who is selling his nightclub this year, said applications should be
+sent in quickly because of his age. ""It could end very soon,"" he said.
+
+wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
+
+To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,zzzzteana playboy wants to go out with a bang from: martin adamson martin@srv0.ems.ed.ac.uk the scotsman - 22 august 2002 playboy wants to go out with a bang an ageing berlin playboy has come up with an unusual offer to lure women into his bed - by promising the last woman he sleeps with an inheritance of 250 000 160 000 . rolf eden 72 a berlin disco owner famous for his countless sex partners said he could imagine no better way to die than in the arms of an attractive young woman - preferably under 30. put it all in my last will and testament - the last woman who sleeps with me gets all the money mr eden told bild newspaper. want to pass away in the most beautiful moment of my life. first a lot of fun with a beautiful woman then wild sex a final orgasm - and it will all end with a heart attack and then im gone. mr eden who is selling his nightclub this year said applications should be sent in quickly because of his age. it could end very soon he said. wenn nn nenn-------------- yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsolb/tm to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_phishing_email_7.png,assassin_phishing,1,"Re: [zzzzteana] Nothing like mama used to make
+
+From: Stewart Smith <Stewart.Smith@ee.ed.ac.uk>
+
+Martin Adamson wrote: > > Isn't it just basically a mixture of beaten egg and bacon (or pancetta, > really)?
+You mix in the raw egg to the cooked pasta and the heat of the pasta > cooks the egg. That's my
+understanding. > You're probably right, mine's just the same but with the cream added to the eggs. |
+guess | should try it without. Actually looking on the internet for a recipe | found this one from possibly one
+of the scariest people I've ever seen, and he's a US Congressman: That's one of the worst non-smiles ever.
+Stew ps. Apologies if any of the list's Maine residents voted for this man, you won't do it again once you've
+seen this pic. -- Stewart Smith Scottish Microelectronics Centre, University of Edinburgh.
+http://www.ee.ed.ac.uk/~sxs/ ------------------------ Yahoo! Groups Sponsor ---------------------~-- >4
+DVDs Free +s&p Join Now http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSoIB/TM ------------------
+> To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com Your use of Yahoo! Groups is subject to
+http://docs.yahoo.com/info/terms/",,re: zzzzteana nothing like mama used to make from: stewart smith stewart.smith@ee.ed.ac.uk martin adamson wrote: isn't it just basically a mixture of beaten egg and bacon or pancetta really ? you mix in the raw egg to the cooked pasta and the heat of the pasta cooks the egg. that's my understanding. you're probably right mine's just the same but with the cream added to the eggs. guess should try it without. actually looking on the internet for a recipe found this one from possibly one of the scariest people i've ever seen and he's a us congressman: that's one of the worst non-smiles ever. stew ps. apologies if any of the list's maine residents voted for this man you won't do it again once you've seen this pic. -- stewart smith scottish microelectronics centre university of edinburgh. http://www.ee.ed.ac.uk/ sxs/ ------------------------ yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsoib/tm ----------------- to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_phishing_email_8.png,assassin_phishing,1,"[zzzzteana] Meaningful sentences
+
+From: ""Martin Adamson"" <martin@srv0.ems.ed.ac.uk>
+
+The Scotsman
+Thu 22 Aug 2002
+Meaningful sentences
+
+Tracey Lawson
+
+If you ever wanted to look like ""one of the most dangerous inmates in prison
+history"", as one judge described Charles Bronson, nows your chance. Bronson -
+the serial hostage taker, not the movie star - has written a health and
+
+fitness guide in which he shares some of the secrets behind his legendary
+muscle power.
+
+Solitary Fitness - a title which bears testament to the fact that Bronson, 48,
+has spent 24 of his 28 prison years in solitary confinement - explains how he
+has turned himself into a lean, mean, fitness machine while living 23 hours a
+day in a space just 12 feet by eight feet, on a diet of scrubs grub and at
+virtually no cost.
+
+The book is aimed at those who want to get fabulously fit without spending a
+fortune on gym memberships, protein supplements or designer trainers, and
+starts with a fierce attack on some of the expensive myths churned out by the
+exercise industry.
+
+""| pick up a fitness mag, | start to laugh and | wipe my arse with it,"" is the
+opening paragraph penned by Bronson. ""Its a joke and a big con and they call
+me a criminal!"" You cant help feeling he has a point.
+
+This is not the first book that Bronson has written from behind bars, having
+already published Birdman Opens His Mind, which features drawings and poems
+created by Bronson while in prison. And he is not the first prisoner to
+
+discover creative expression while residing at Her Majestys pleasure.
+
+Jimmy Boyle, the Scots sculptor and novelist, discovered his artistic talents
+
+when he was sent to Barlinnie Prisons famous special unit, which aimed to
+
+help inmates put their violent pasts behind them by teaching them how to
+
+express their emotions artistically. Boyle was sentenced to life for the
+
+murder of ""Babs"" Rooney in 1967. Once released, he moved to Edinburgh where he
+has become a respected artist. His first novel, Hero of the Underworld, was
+published in 1999 and his autobiography, A Sense of Freedom, was made into an
+award-winning film.
+
+Hugh Collins was jailed for life in 1977 for the murder of William Mooney in
+Glasgow, and in his first year in Barlinnie prison stabbed three prison
+officers, earning him an extra seven-year sentence. But, after being
+transferred to the same unit that Boyle attended, he learned to sculpt and
+developed an interest in art. He later published Autobiography of a Murderer,
+a frank account of Glasgows criminal culture in the 1960s, which received
+critical praise.
+
+And Lord Archer doesnt seem to have had trouble continuing to write the books
+that have made him millions while in jail. He recently signed a three-book
+
+deal with Macmillan publishers worth a reported 10 million, and is no doubt
+scribbling away as we speak.
+
+So why is it that men like Collins, Bronson and Boyle, who can be so
+destructive towards society on the outside, can become So creative once stuck
+on the inside? Steve Richards, Bronsons publisher, has published many books
+about criminal figures and believes the roots of this phenomenon are both
+pragmatic and profound.
+
+He says: ""Prison is sometimes the first time some criminals will ever have
+known a stable environment, and this can be the first time they have the
+chance to focus on their creative skills.
+
+""It may also be the first time that they have really had the chance of an
+education, if their early years have been hard. It could be the first time
+anyone has offered them the chance to explore their creative talents.""
+
+However, Richards believes the reasons are also deeper than that. He says:
+""Once they are behind bars, the cold light of day hits them, and they examine
+the very essence of who they are.
+
+""They ask themselves, am | a man who wants to be remembered for violence? Or
+am | aman who can contribute to society, who can be remembered for something
+good?""
+
+Bronson - who was born Michael Gordon Peterson, but changed his name to that
+of the Hollywood star of the Death Wish films - has, so far, been remembered
+mainly for things bad. He was originally jailed for seven years for armed
+
+robbery in 1974, and has had a series of sentences added to his original term
+over the years as a result of attacking people in prison. In 2000 he was
+
+jailed for life after being convicted of holding a teacher hostage for nearly
+
+two days during a jail siege.
+
+Standing five feet ten and a half inches tall and weighing 210lbs, he is
+renowned for his strength. He has bent metal cell doors with his bare hands
+and does up to 3,000 - yes, 3,000 - press-ups a day. As he puts it: ""| can hit
+aman 20 times in four seconds, | can push 132 press ups in 60 seconds.""
+
+But judging by our current obsession with health and exercise, Solitary
+Fitness might be the book which will see Bronsons face sitting on every
+coffee table in the land. He might be the man to give us the dream body which
+so many so-called fitness gurus promise but fail to motivate us into. Because
+Bronson has learned to use words as powerfully as he can use his fists.
+
+""All this crap about high-protein drinks, pills, diets, its just a load of
+bollocks and a multi-million-pound racket,"" he writes, in what can only be
+described as a refreshingly honest style. ""We can all be fat lazy bastards,
+its our choice, Im sick of hearing and reading about excuses, if you stuff
+your face with shit you become shit, thats logical to me.""
+
+As motivational mantras go, that might be just the kick up the, er, backside
+
+we all needed.
+
+Solitary Fitness by Charles Bronson is published by Mirage Publishing and will
+be available in bookstores from October at 7.99
+
+women reennenenencnnnnn= Yahoo! Groups Sponsor ---------------------~-->
+4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
+
+To unsubscribe from this group, send an email to:
+forteana-unsubscribe@egroups.com
+
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,zzzzteana meaningful sentences from: martin adamson martin@srv0.ems.ed.ac.uk the scotsman thu 22 aug 2002 meaningful sentences tracey lawson if you ever wanted to look like one of the most dangerous inmates in prison history as one judge described charles bronson nows your chance. bronson the serial hostage taker not the movie star - has written a health and fitness guide in which he shares some of the secrets behind his legendary muscle power. solitary fitness - a title which bears testament to the fact that bronson 48 has spent 24 of his 28 prison years in solitary confinement - explains how he has turned himself into a lean mean fitness machine while living 23 hours a day in a space just 12 feet by eight feet on a diet of scrubs grub and at virtually no cost. the book is aimed at those who want to get fabulously fit without spending a fortune on gym memberships protein supplements or designer trainers and starts with a fierce attack on some of the expensive myths churned out by the exercise industry. pick up a fitness mag start to laugh and wipe my arse with it is the opening paragraph penned by bronson. its a joke and a big con and they call me a criminal! you cant help feeling he has a point. this is not the first book that bronson has written from behind bars having already published birdman opens his mind which features drawings and poems created by bronson while in prison. and he is not the first prisoner to discover creative expression while residing at her majestys pleasure. jimmy boyle the scots sculptor and novelist discovered his artistic talents when he was sent to barlinnie prisons famous special unit which aimed to help inmates put their violent pasts behind them by teaching them how to express their emotions artistically. boyle was sentenced to life for the murder of babs rooney in 1967. once released he moved to edinburgh where he has become a respected artist. his first novel hero of the underworld was published in 1999 and his autobiography a sense of freedom was made into an award-winning film. hugh collins was jailed for life in 1977 for the murder of william mooney in glasgow and in his first year in barlinnie prison stabbed three prison officers earning him an extra seven-year sentence. but after being transferred to the same unit that boyle attended he learned to sculpt and developed an interest in art. he later published autobiography of a murderer a frank account of glasgows criminal culture in the 1960s which received critical praise. and lord archer doesnt seem to have had trouble continuing to write the books that have made him millions while in jail. he recently signed a three-book deal with macmillan publishers worth a reported 10 million and is no doubt scribbling away as we speak. so why is it that men like collins bronson and boyle who can be so destructive towards society on the outside can become so creative once stuck on the inside? steve richards bronsons publisher has published many books about criminal figures and believes the roots of this phenomenon are both pragmatic and profound. he says: prison is sometimes the first time some criminals will ever have known a stable environment and this can be the first time they have the chance to focus on their creative skills. it may also be the first time that they have really had the chance of an education if their early years have been hard. it could be the first time anyone has offered them the chance to explore their creative talents. however richards believes the reasons are also deeper than that. he says: once they are behind bars the cold light of day hits them and they examine the very essence of who they are. they ask themselves am a man who wants to be remembered for violence? or am aman who can contribute to society who can be remembered for something good? bronson - who was born michael gordon peterson but changed his name to that of the hollywood star of the death wish films - has so far been remembered mainly for things bad. he was originally jailed for seven years for armed robbery in 1974 and has had a series of sentences added to his original term over the years as a result of attacking people in prison. in 2000 he was jailed for life after being convicted of holding a teacher hostage for nearly two days during a jail siege. standing five feet ten and a half inches tall and weighing 210lbs he is renowned for his strength. he has bent metal cell doors with his bare hands and does up to 3 000 - yes 3 000 - press-ups a day. as he puts it: can hit aman 20 times in four seconds can push 132 press ups in 60 seconds. but judging by our current obsession with health and exercise solitary fitness might be the book which will see bronsons face sitting on every coffee table in the land. he might be the man to give us the dream body which so many so-called fitness gurus promise but fail to motivate us into. because bronson has learned to use words as powerfully as he can use his fists. all this crap about high-protein drinks pills diets its just a load of bollocks and a multi-million-pound racket he writes in what can only be described as a refreshingly honest style. we can all be fat lazy bastards its our choice im sick of hearing and reading about excuses if you stuff your face with shit you become shit thats logical to me. as motivational mantras go that might be just the kick up the er backside we all needed. solitary fitness by charles bronson is published by mirage publishing and will be available in bookstores from october at 7.99 women reennenenencnnnnn yahoo! groups sponsor --------------------- -- 4 dvds free s p join now http://us.click.yahoo.com/pt6ybb/nxieaa/mg3haa/7gsolb/tm to unsubscribe from this group send an email to: forteana-unsubscribe@egroups.com your use of yahoo! groups is subject to http://docs.yahoo.com/info/terms/
+assassin_phishing_email_9.png,assassin_phishing,1,"[SAtalk] SA CGI Configurator Scripts
+
+From: ""NOI Administrator"" <admin@networksonline.com>
+
+| have been trying to research via SA mirrors and search engines if a canned
+script exists giving clients access to their user_prefs options via a
+web-based CGI interface. Numerous ISPs provide this feature to clients, but
+so far | can find nothing. Our configuration uses Amavis-Postfix and ClamAV
+for virus filtering and Procmail with SpamAssassin for spam filtering. |
+
+would prefer not to have to write a script myself, but will appreciate any
+suggestions.
+
+This sf.net email is sponsored by: OSDN - Tired of that same old
+cell phone? Get a new here for FREE!
+https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
+
+Spamassassin-talk mailing list
+Spamassassin-talk@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-talk",,satalk sa cgi configurator scripts from: noi administrator admin@networksonline.com have been trying to research via sa mirrors and search engines if a canned script exists giving clients access to their user_prefs options via a web-based cgi interface. numerous isps provide this feature to clients but so far can find nothing. our configuration uses amavis-postfix and clamav for virus filtering and procmail with spamassassin for spam filtering. would prefer not to have to write a script myself but will appreciate any suggestions. this sf.net email is sponsored by: osdn - tired of that same old cell phone? get a new here for free! https://www.inphonic.com/r.asp?r sourceforge1 refcode1 vs3390 spamassassin-talk mailing list spamassassin-talk@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-talk
+assassin_phishing_email_10.png,assassin_phishing,1,"[SAdev] Interesting approach to Spam handling..
+From: David H=?ISO-8859-1?B?9g==?=hn <dh@uptime.at>
+
+Hello, have you seen and discussed this article and his approach?
+Thank you
+
+http://www.paulgraham.com/spam.html
+-- ""Hell, there are no rules here-- we're trying to accomplish something.""
+-- Thomas Alva Edison
+
+This sf.net email is sponsored by: OSDN - Tired of that same old
+cell phone? Get a new here for FREE!
+https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
+
+Spamassassin-devel mailing list
+Spamassassin-devel@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",,sadev interesting approach to spam handling.. from: david h ?iso-8859-1?b?9g ? hn dh@uptime.at hello have you seen and discussed this article and his approach? thank you http://www.paulgraham.com/spam.html -- hell there are no rules here-- we're trying to accomplish something. -- thomas alva edison this sf.net email is sponsored by: osdn - tired of that same old cell phone? get a new here for free! https://www.inphonic.com/r.asp?r sourceforge1 refcode1 vs3390 spamassassin-devel mailing list spamassassin-devel@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-devel
+assassin_phishing_email_11.png,assassin_phishing,1,"Re: [SAdev] Live Rule Updates after Release ???
+
+From: Marc Perkel <marc@perkel.com>
+
+Yes - great minds think alike. But even withput eval rules it would be very
+useful. It would allow us to respond quickly to spammer's tricks.
+
+Theo Van Dinter wrote:
+
+> On Thu, Aug 22, 2002 at 07:27:52AM -0700, Marc Perkel wrote:
+
+>
+
+>>Has anyone though of the idea of live updates of rules after release? The
+>>idea being that the user can run a cron job once a week or so and get the
+>>new default rule set. This would allow us to react faster to:
+
+>
+
+>
+
+> | suggested this a few months ago. | don't remember the details of what
+> came out of it except that it would only be useful for non-eval rules
+
+> since those require code changes.
+
+>
+
+This sf.net email is sponsored by: OSDN - Tired of that same old
+cell phone? Get a new here for FREE!
+https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
+
+Spamassassin-devel mailing list
+Spamassassin-devel@lists.sourceforge.net
+https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",,re: sadev live rule updates after release ??? from: marc perkel marc@perkel.com yes - great minds think alike. but even withput eval rules it would be very useful. it would allow us to respond quickly to spammer's tricks. theo van dinter wrote: on thu aug 22 2002 at 07:27:52am -0700 marc perkel wrote: has anyone though of the idea of live updates of rules after release? the idea being that the user can run a cron job once a week or so and get the new default rule set. this would allow us to react faster to: suggested this a few months ago. don't remember the details of what came out of it except that it would only be useful for non-eval rules since those require code changes. this sf.net email is sponsored by: osdn - tired of that same old cell phone? get a new here for free! https://www.inphonic.com/r.asp?r sourceforge1 refcode1 vs3390 spamassassin-devel mailing list spamassassin-devel@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-devel
+assassin_phishing_email_12.png,assassin_phishing,1,"[ILUG] Re: Problems with RAID1 on cobalt raq3
+
+From: ""John P. Looney"" <valen@tuatha.org>
+
+On Mon, Aug 19, 2002 at 03:08:16PM +0100, John P. Looney mentioned:
+> This is likely because to get it to boot, like the cobalt, I'm actually
+> passing root=/dev/hda5 to the kernel, not /dev/mdo.
+
+Just to solve this...the reason | was booting the box with
+root=/dev/hda5, not /dev/mdO was because /dev/mdO wasn't booting - it
+would barf with 'can't find init’.
+
+It turns out that this is because | was populating mdO with tar. Which
+seems to have 'issues' with crosslinked files - for instance, it was
+trying to make a hard link of glibc.so to hda - and failing. It was only
+as | did it again with a friend present, that he spotted the errors, and
+queried them. We noticed that the hard linked files just didn't exist on
+the new rootfs.
+
+When we duplicated the filesystems with dump instead of tar, it worked
+fine, | was able to tell lilo to use root=/dev/mdO and everything worked.
+
+Woohoo.
+Kate
+
+Irish Linux Users' Group: ilug@linux.ie
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
+List maintainer: listmaster@linux.ie",,ilug re: problems with raid1 on cobalt raq3 from: john p. looney valen@tuatha.org on mon aug 19 2002 at 03:08:16pm 0100 john p. looney mentioned: this is likely because to get it to boot like the cobalt i'm actually passing root /dev/hda5 to the kernel not /dev/mdo. just to solve this...the reason was booting the box with root /dev/hda5 not /dev/mdo was because /dev/mdo wasn't booting - it would barf with 'can't find init . it turns out that this is because was populating mdo with tar. which seems to have 'issues' with crosslinked files - for instance it was trying to make a hard link of glibc.so to hda - and failing. it was only as did it again with a friend present that he spotted the errors and queried them. we noticed that the hard linked files just didn't exist on the new rootfs. when we duplicated the filesystems with dump instead of tar it worked fine was able to tell lilo to use root /dev/mdo and everything worked. woohoo. kate irish linux users' group: ilug@linux.ie http://www.linux.ie/mailman/listinfo/ilug for un subscription information. list maintainer: listmaster@linux.ie
+trec06_legit_email_0.png,trec06_legit,0,"new Catholic mailing list now up and running
+
+From: jhpb@sarto.budd-lake.nj.us
+
+The mailing list | queried about a few weeks ago is now up and
+running. | have also set up an archive server; see below. The
+following is the official welcome to the list message at the moment.
+
+Joe Buehler
+
+This mailing list is for people who desire serious, orthodox
+
+discussion of the Roman Catholic religion. | assume that it will
+
+cater mainly to Catholics, but everyone else is welcome, provided they
+operate within the below guidelines. My own interests have a
+doctrinal bent, but I'm certainly not going to limit this list to just
+
+that sort of discussion.
+
+Having participated in USENET religion groups for about 5 years now,
+one of my primary observations about Catholics on the net is that they
+do not know their religion very well. My hope is that this list might
+
+help remedy this problem to some extent. | would like to make this a
+net resource available for Catholics who want to know more about their
+religion.
+
+As far as moderation policy goes: The Catholic Church is not a
+democracy, it's a monarchy subject to a divinely given constitution.
+
+| don't set the rules in the Church, neither does my parish priest,
+
+nor does my bishop, nor does the Pope. Everyone has to adhere to the
+way Christ set things up. | think it follows that it's not really
+appropriate for someone to call himself a Catholic and argue with this
+state of affairs. If you want to be Catholic, it's simple enough, you
+have to follow the teaching of the Church.
+
+The moderation policy will reflect this way of thinking: there are
+plenty of other places on the net where Catholic doctrine can be
+freely attacked! If in doubt, you can always subscribe, and see
+whether the list is to your taste.
+
+Besides the mailing list, there are a few other things that may be of
+interest:
+
+- | have set up an archive server that we can put interesting things
+in. (It doesn't have anything in it at the moment except some UNIX
+software useful for such endeavors.) Sorry, guys, but nothing that's
+copyrighted goes into it!
+
+- lam planning on setting up a quotation server that can email
+periodic interesting citations from the principal sources of Catholic
+doctrine. (Not done yet.)
+
+- | have obtained permission from the English language publishers of
+the Italian Catholic magazine ""30 Days"" to take material from their
+magazine. | intend to scan some of the more interesting pictures
+(ever seen a Cristero? or St. Pius X?) and put them in the archives,
+and also post extracts from some of the more interesting articles.
+(It's a European magazine, and is of generally higher quality than
+American Catholic material. In my opinion...)
+
+If you have any questions, would like to subscribe, etc., send email
+to
+
+catholic@sarto.budd-lake.nj.us",,new catholic mailing list now up and running from: jhpb@sarto.budd-lake.nj.us the mailing list queried about a few weeks ago is now up and running. have also set up an archive server see below. the following is the official welcome to the list message at the moment. joe buehler this mailing list is for people who desire serious orthodox discussion of the roman catholic religion. assume that it will cater mainly to catholics but everyone else is welcome provided they operate within the below guidelines. my own interests have a doctrinal bent but i'm certainly not going to limit this list to just that sort of discussion. having participated in usenet religion groups for about 5 years now one of my primary observations about catholics on the net is that they do not know their religion very well. my hope is that this list might help remedy this problem to some extent. would like to make this a net resource available for catholics who want to know more about their religion. as far as moderation policy goes: the catholic church is not a democracy it's a monarchy subject to a divinely given constitution. don't set the rules in the church neither does my parish priest nor does my bishop nor does the pope. everyone has to adhere to the way christ set things up. think it follows that it's not really appropriate for someone to call himself a catholic and argue with this state of affairs. if you want to be catholic it's simple enough you have to follow the teaching of the church. the moderation policy will reflect this way of thinking: there are plenty of other places on the net where catholic doctrine can be freely attacked! if in doubt you can always subscribe and see whether the list is to your taste. besides the mailing list there are a few other things that may be of interest: - have set up an archive server that we can put interesting things in. it doesn't have anything in it at the moment except some unix software useful for such endeavors. sorry guys but nothing that's copyrighted goes into it! - lam planning on setting up a quotation server that can email periodic interesting citations from the principal sources of catholic doctrine. not done yet. - have obtained permission from the english language publishers of the italian catholic magazine 30 days to take material from their magazine. intend to scan some of the more interesting pictures ever seen a cristero? or st. pius x? and put them in the archives and also post extracts from some of the more interesting articles. it's a european magazine and is of generally higher quality than american catholic material. in my opinion... if you have any questions would like to subscribe etc. send email to catholic@sarto.budd-lake.nj.us
+trec06_legit_email_1.png,trec06_legit,0,"Greetings
+
+From: Scott Schwartz <schwartz@groucho.cs.psu.edu>
+
+Greetings all. This is to verify your subscription to the plan9-fans list. The charter members (those who
+
+signed up on the first day) are (in order) ""Scott Schwartz"" ""Chuck Rendleman"" ""Michael John
+Haertel"" ""Neil Weisenfeld"" ""Ozan S. Yigit"" ""Sanjeev Y. Dharap"" Eric Krohn ""DaviD W.
+Sanderson"" ""Dennis Colarelli"" Tony Sloane BobGibson Chris Siebenmann ""Roger Peppe""
+""Chet Ramey"" ""Tim Tsai"" Noel Hunt Due to rdist and local politics, it takes a day before changes to
+
+the list take effect.",,greetings from: scott schwartz schwartz@groucho.cs.psu.edu greetings all. this is to verify your subscription to the plan9-fans list. the charter members those who signed up on the first day are in order scott schwartz chuck rendleman michael john haertel neil weisenfeld ozan s. yigit sanjeev y. dharap eric krohn david w. sanderson dennis colarelli tony sloane bobgibson chris siebenmann roger peppe chet ramey tim tsai noel hunt due to rdist and local politics it takes a day before changes to the list take effect.
+trec06_legit_email_2.png,trec06_legit,0,"who wants to start?
+
+From: Scott Schwartz <schwartz@groucho.cs.psu.edu>
+
+It's quiet. Too quiet. Well, how about a straw poll then.
+How many have plan9 running yet?",,who wants to start? from: scott schwartz schwartz@groucho.cs.psu.edu it's quiet. too quiet. well how about a straw poll then. how many have plan9 running yet?
+trec06_legit_email_3.png,trec06_legit,0,"Re: who wants to start?
+
+From: mike@majestix.cs.uoregon.edu
+
+It's working here. | have departed almost totally from the Bell Labs
+recommended configuration. I'm running a hacked version of the
+terminal kernel on Sparcs, booting off local disc, using a remote Unix
+machine running a hacked ""u9fs"" as the file server. Lots of things
+
+don't work yet. | have a TODO list a light-year long. | expect many
+
+of my problems would go away if we had the resources to dedicate a CPU
+server (to run daemons) and a file server.
+
+I'm interested in hearing how others are doing...",,re: who wants to start? from: mike@majestix.cs.uoregon.edu it's working here. have departed almost totally from the bell labs recommended configuration. i'm running a hacked version of the terminal kernel on sparcs booting off local disc using a remote unix machine running a hacked u9fs as the file server. lots of things don't work yet. have a todo list a light-year long. expect many of my problems would go away if we had the resources to dedicate a cpu server to run daemons and a file server. i'm interested in hearing how others are doing...
+trec06_legit_email_4.png,trec06_legit,0,"mass ack
+
+From: Scott Schwartz <schwartz@groucho.cs.psu.edu>
+
+Greetings all. This is a mass acknowledgement to everyone who has
+signed on to the plan9-fans list to date, now that influx has slowed
+down a bit. (There are 75 people on the list right now.)
+
+One person has suggested that the name of the list be changed to
+9fans. There's already an alias for that, in any event.
+
+The list is not being archived (that | Know of). If someone wants to
+do it, that would be great.
+
+-- Scott",,mass ack from: scott schwartz schwartz@groucho.cs.psu.edu greetings all. this is a mass acknowledgement to everyone who has signed on to the plan9-fans list to date now that influx has slowed down a bit. there are 75 people on the list right now. one person has suggested that the name of the list be changed to 9fans. there's already an alias for that in any event. the list is not being archived that know of . if someone wants to do it that would be great. -- scott
+trec06_legit_email_5.png,trec06_legit,0,"Plan 9 beginner's questions
+
+From: vhs@qb.rhein-main.de
+
+Maybe you can answer a few beginner's questions | have:
+What is the equivalent of 'shutdown’, ‘halt’, 'sync' in Plang, i.e.
+how to safely shut the system down
+What are the equivalents of *C, *Q and “S under 8.5, i.e.
+how to cancel a process without deleting it's
+window, and how to stop and resume text output?
+
+Any help, even pointers into TFM appreciated. (IRTFM'ed, but not the whole
+M;-)
+
+Volker
+
+Volker Herminghaus-Shirai (vns@qb.rhein-main.de)
+
+Computer industry: Industry in which the number of units sold of any
+given product is inversely proportional to its technical excellence.
+See also: MS-DOS, MS-Windows, PC, X, QWERTY, 80x86, TrueType",,plan 9 beginner's questions from: vhs@qb.rhein-main.de maybe you can answer a few beginner's questions have: what is the equivalent of 'shutdown halt 'sync' in plang i.e. how to safely shut the system down what are the equivalents of c q and s under 8.5 i.e. how to cancel a process without deleting it's window and how to stop and resume text output? any help even pointers into tfm appreciated. irtfm'ed but not the whole m - volker volker herminghaus-shirai vns@qb.rhein-main.de computer industry: industry in which the number of units sold of any given product is inversely proportional to its technical excellence. see also: ms-dos ms-windows pc x qwerty 80x86 truetype
+trec06_legit_email_6.png,trec06_legit,0,"Re: Plan 9 beginner's questions
+
+From: matty@cs.su.oz.au
+
+To shut down a terminal ctrl-t ctrl-t r. This should be fine if it's
+
+diskless. If it isn't - no idea. To cancell a process (delete or
+
+numlock on some keyboard) will kill things in a window's process group.
+This is in the 8.5 manual page. To stop and resume text output: put
+
+the window into non-scroll mode and use the page-down/VIEW key (again
+check the manual pages like 8.5 and keyboard(6)), its altgraph on some
+keyboard and the arrow keys on others. This will scroll half a page.
+Output is blocked while it can't be displayed, i.e., while it's off
+
+the bottom of the page.
+
+Matty.",,re: plan 9 beginner's questions from: matty@cs.su.oz.au to shut down a terminal ctrl-t ctrl-t r. this should be fine if it's diskless. if it isn't - no idea. to cancell a process delete or numlock on some keyboard will kill things in a window's process group. this is in the 8.5 manual page. to stop and resume text output: put the window into non-scroll mode and use the page-down/view key again check the manual pages like 8.5 and keyboard 6 its altgraph on some keyboard and the arrow keys on others. this will scroll half a page. output is blocked while it can't be displayed i.e. while it's off the bottom of the page. matty.
+trec06_legit_email_7.png,trec06_legit,0,"Plan 9 utilities...
+
+From: matty@cs.su.oz.au
+
+Three things for your general edificationfamusement:
+
+For those interested, there is a program called 9x in
+ftp.cs.su.oz.au:/matty which provides a remote graphical connection
+
+to a Plan 9 machine on an X terminal. The code needs to be cleaned up
+(please don't look at it too much if you get it -- | will be mortified
+
+if you do), and it doesn't support the polysegment primitive as yet,
+
+but it's useful if you can get it to work nevertheless. You will
+
+need the libXg library from research.att.com (the one with the sam
+distribution) to build it.
+
+Secondly, on the same site in /matty/unicode, there are utf versions
+of libXg which will, when compiled with sam enable it to edit utf
+encoded files, i.e, files containing Runes encoded as Plan 9 encodes
+them using the utf-2 encoding. The libXg and libframe libraries are
+both needed as well as the font archive.
+
+There is also a program 9term which may be used a replacement for
+xterm and which provides a 8.5 (8 1/2) like window for Unix: editable
+command line and output, cut/snarf/send, and if you compile with the
+right libraries, utf facilities. This is fairly stable. It only
+
+works on a few systems at present so if you port it please tell me.
+It's still a beta version but that's probably because I'm lazy and
+haven't done a last touch up more than anything else. I've not
+
+used xterm in any major fashion since last October or so and having
+the Plan 9 “look and feel’ under Unix is a big win (plug, plug!).
+
+The current version in the directory is 1.1.1 but 1.2 should be there
+
+in the next few days.
+
+Matty.",,plan 9 utilities... from: matty@cs.su.oz.au three things for your general edificationfamusement: for those interested there is a program called 9x in ftp.cs.su.oz.au:/matty which provides a remote graphical connection to a plan 9 machine on an x terminal. the code needs to be cleaned up please don't look at it too much if you get it -- will be mortified if you do and it doesn't support the polysegment primitive as yet but it's useful if you can get it to work nevertheless. you will need the libxg library from research.att.com the one with the sam distribution to build it. secondly on the same site in /matty/unicode there are utf versions of libxg which will when compiled with sam enable it to edit utf encoded files i.e files containing runes encoded as plan 9 encodes them using the utf-2 encoding. the libxg and libframe libraries are both needed as well as the font archive. there is also a program 9term which may be used a replacement for xterm and which provides a 8.5 8 1/2 like window for unix: editable command line and output cut/snarf/send and if you compile with the right libraries utf facilities. this is fairly stable. it only works on a few systems at present so if you port it please tell me. it's still a beta version but that's probably because i'm lazy and haven't done a last touch up more than anything else. i've not used xterm in any major fashion since last october or so and having the plan 9 look and feel under unix is a big win plug plug! . the current version in the directory is 1.1.1 but 1.2 should be there in the next few days. matty.
+trec06_legit_email_8.png,trec06_legit,0,"Plan 9 beginner's questions
+
+From: mike@majestix.cs.uoregon.edu
+
+| don't know how to shut down a file server or CPU
+server, but to safely shut down a terminal, type ""*T*Tr"".
+The connection to the file server is not cached, so
+there is no need to sync.
+
+The equivalent of “C is delete. (Long ago, Delete was
+the standard interrupt character on Unix too, but
+Berkeley, in their infinite wisdom, decided to switch
+to *C.)
+
+The equivalent of “S and “Q is the scroll/noscroll
+item on the middle mouse button menu, together with
+the scrollbar.",,plan 9 beginner's questions from: mike@majestix.cs.uoregon.edu don't know how to shut down a file server or cpu server but to safely shut down a terminal type t tr . the connection to the file server is not cached so there is no need to sync. the equivalent of c is delete. long ago delete was the standard interrupt character on unix too but berkeley in their infinite wisdom decided to switch to c. the equivalent of s and q is the scroll/noscroll item on the middle mouse button menu together with the scrollbar.
+trec06_legit_email_9.png,trec06_legit,0,"Dumb, fundamental question.
+
+From: geoff@minnie.cs.su.OZ.AU
+
+Is Plan 9 primarily intended as an operating system to do research on, or into?
+
+Many of the postings on comp.os.research which run 'Plan 9 should have
+interesting feature x' seem to cast (recast?) Plan 9 as a operating system to
+which exists for the purpose of investigating certain operating system ideas.
+The impression | have from the Plan 9 literature so far seems to indicate that
+
+the emphasis is more on creating a usable system, given certain ideas about
+operating system design, namespaces and so on. I'm not asking whether Plan 9
+is a pure research system or a pure production system - just which is considered
+more important.
+
+Geoff.",,dumb fundamental question. from: geoff@minnie.cs.su.oz.au is plan 9 primarily intended as an operating system to do research on or into? many of the postings on comp.os.research which run 'plan 9 should have interesting feature x' seem to cast recast? plan 9 as a operating system to which exists for the purpose of investigating certain operating system ideas. the impression have from the plan 9 literature so far seems to indicate that the emphasis is more on creating a usable system given certain ideas about operating system design namespaces and so on. i'm not asking whether plan 9 is a pure research system or a pure production system - just which is considered more important. geoff.
+trec06_legit_email_10.png,trec06_legit,0,"Re: Dumb, fundamental question.
+
+From: Gary Capell <gary@cs.su.0Z.AU>
+Your impression is the same as my impression. It's a very usable system
+by Bell Labs for Bell Labs to play on/create new stuff on.
+
+Obviously the posters to c.o.r. will have opinions on what should
+go into any OS (they made all sorts of suggestions for/criticisms of QNX too).
+
+Probably few of them actually USE plang.
+You can see what strong forces there are for an OS to accrete ""features"".
+
+Speaking of feeping creaturism, are there plans to add a ""find"" command?",,re: dumb fundamental question. from: gary capell gary@cs.su.0z.au your impression is the same as my impression. it's a very usable system by bell labs for bell labs to play on/create new stuff on. obviously the posters to c.o.r. will have opinions on what should go into any os they made all sorts of suggestions for/criticisms of qnx too . probably few of them actually use plang. you can see what strong forces there are for an os to accrete features . speaking of feeping creaturism are there plans to add a find command?
+trec06_legit_email_11.png,trec06_legit,0,"Fonts and unicode distribution...
+
+From: matty@cs.su.oz.au
+
+From: rob@research.att.com Date: Sat, 24 Apr 1993 13:00:48 -0400 _ To: 9fans@cs.psu.edu
+Message-Id: <93Apr24.130215edt.293067@psuvax1.cs.psu.edu> In the good old days, copyright
+notices meant something. The latest instance of their devaluation is Matty's posting —_ in a public place of
+a number of copyrighted fonts from _ the Plan 9 distribution (itself a violation of the copyright) without
+reproducing the notice (which would be our request to anyone who asked to copy them). For those
+interested in maintaining the principle of letting artists maintain ownership of their work, the fonts Matty
+distributed should be stored with the _ following notice: The fonts in this directory are based on fonts
+Copyright (c) 1985 Bigelow & Holmes Inc. This text is (with a substitution for (c)) the contents of
+/lib/font/bit/(pelm,lucm)/NOTICE -rob Rob is of course right (he wins this week's award for the Most
+Public Slap on the Wrist). Ftp.cs.su.oz.au:/matty/unicode will be unavailable until | sort things out. For the
+record | do believe in copyright, the oversight has arisen from the ad hoc way this distribution has grown
+rather than any malicious or subversive intent on my part to deny authorship of the fonts.
+
+Matty.",,fonts and unicode distribution... from: matty@cs.su.oz.au from: rob@research.att.com date: sat 24 apr 1993 13:00:48 -0400 _ to: 9fans@cs.psu.edu message-id: 93apr24.130215edt.293067@psuvax1.cs.psu.edu in the good old days copyright notices meant something. the latest instance of their devaluation is matty's posting _ in a public place of a number of copyrighted fonts from _ the plan 9 distribution itself a violation of the copyright without reproducing the notice which would be our request to anyone who asked to copy them . for those interested in maintaining the principle of letting artists maintain ownership of their work the fonts matty distributed should be stored with the _ following notice: the fonts in this directory are based on fonts copyright c 1985 bigelow holmes inc. this text is with a substitution for c the contents of /lib/font/bit/ pelm lucm /notice -rob rob is of course right he wins this week's award for the most public slap on the wrist . ftp.cs.su.oz.au:/matty/unicode will be unavailable until sort things out. for the record do believe in copyright the oversight has arisen from the ad hoc way this distribution has grown rather than any malicious or subversive intent on my part to deny authorship of the fonts. matty.
+trec06_legit_email_12.png,trec06_legit,0,"a plug for 9term
+
+From: arnold@cc.gatech.edu
+
+I've been beta-in g9term for 1.5 or 2 months and have very quickly come
+to be addicted. The directory is not accessible at the moment, but when
+it comes back, do get a copy of 9term and try it; | like it a lot.
+
+Arnold Robbins --- College of Computing
+
+Georgia Tech, Atlanta, GA 30332-0280 Phone: +1 404 894 9214
+
+E-mail: arnold.robbins@cc.gatech.edu FAX: +1404 853 9378
+
+""He's not dead, he's metaphysically challenged."" - Mystery Science Theatre 3000",,a plug for 9term from: arnold@cc.gatech.edu i've been beta-in g9term for 1.5 or 2 months and have very quickly come to be addicted. the directory is not accessible at the moment but when it comes back do get a copy of 9term and try it like it a lot. arnold robbins --- college of computing georgia tech atlanta ga 30332-0280 phone: 1 404 894 9214 e-mail: arnold.robbins@cc.gatech.edu fax: 1404 853 9378 he's not dead he's metaphysically challenged. - mystery science theatre 3000
+trec06_phishing_email_0.png,trec06_phishing,1,"new Catholic mailing list now up and running
+
+From: jhpb@sarto.budd-lake.nj.us
+
+The mailing list | queried about a few weeks ago is now up and
+running. | have also set up an archive server; see below. The
+following is the official welcome to the list message at the moment.
+
+Joe Buehler
+
+This mailing list is for people who desire serious, orthodox
+
+discussion of the Roman Catholic religion. | assume that it will
+
+cater mainly to Catholics, but everyone else is welcome, provided they
+operate within the below guidelines. My own interests have a
+doctrinal bent, but I'm certainly not going to limit this list to just
+
+that sort of discussion.
+
+Having participated in USENET religion groups for about 5 years now,
+one of my primary observations about Catholics on the net is that they
+do not know their religion very well. My hope is that this list might
+
+help remedy this problem to some extent. | would like to make this a
+net resource available for Catholics who want to know more about their
+religion.
+
+As far as moderation policy goes: The Catholic Church is not a
+democracy, it's a monarchy subject to a divinely given constitution.
+
+| don't set the rules in the Church, neither does my parish priest,
+
+nor does my bishop, nor does the Pope. Everyone has to adhere to the
+way Christ set things up. | think it follows that it's not really
+appropriate for someone to call himself a Catholic and argue with this
+state of affairs. If you want to be Catholic, it's simple enough, you
+have to follow the teaching of the Church.
+
+The moderation policy will reflect this way of thinking: there are
+plenty of other places on the net where Catholic doctrine can be
+freely attacked! If in doubt, you can always subscribe, and see
+whether the list is to your taste.
+
+Besides the mailing list, there are a few other things that may be of
+interest:
+
+- | have set up an archive server that we can put interesting things
+in. (It doesn't have anything in it at the moment except some UNIX
+software useful for such endeavors.) Sorry, guys, but nothing that's
+copyrighted goes into it!
+
+- lam planning on setting up a quotation server that can email
+periodic interesting citations from the principal sources of Catholic
+doctrine. (Not done yet.)
+
+- | have obtained permission from the English language publishers of
+the Italian Catholic magazine ""30 Days"" to take material from their
+magazine. | intend to scan some of the more interesting pictures
+(ever seen a Cristero? or St. Pius X?) and put them in the archives,
+and also post extracts from some of the more interesting articles.
+(It's a European magazine, and is of generally higher quality than
+American Catholic material. In my opinion...)
+
+If you have any questions, would like to subscribe, etc., send email
+to
+
+catholic@sarto.budd-lake.nj.us",,new catholic mailing list now up and running from: jhpb@sarto.budd-lake.nj.us the mailing list queried about a few weeks ago is now up and running. have also set up an archive server see below. the following is the official welcome to the list message at the moment. joe buehler this mailing list is for people who desire serious orthodox discussion of the roman catholic religion. assume that it will cater mainly to catholics but everyone else is welcome provided they operate within the below guidelines. my own interests have a doctrinal bent but i'm certainly not going to limit this list to just that sort of discussion. having participated in usenet religion groups for about 5 years now one of my primary observations about catholics on the net is that they do not know their religion very well. my hope is that this list might help remedy this problem to some extent. would like to make this a net resource available for catholics who want to know more about their religion. as far as moderation policy goes: the catholic church is not a democracy it's a monarchy subject to a divinely given constitution. don't set the rules in the church neither does my parish priest nor does my bishop nor does the pope. everyone has to adhere to the way christ set things up. think it follows that it's not really appropriate for someone to call himself a catholic and argue with this state of affairs. if you want to be catholic it's simple enough you have to follow the teaching of the church. the moderation policy will reflect this way of thinking: there are plenty of other places on the net where catholic doctrine can be freely attacked! if in doubt you can always subscribe and see whether the list is to your taste. besides the mailing list there are a few other things that may be of interest: - have set up an archive server that we can put interesting things in. it doesn't have anything in it at the moment except some unix software useful for such endeavors. sorry guys but nothing that's copyrighted goes into it! - lam planning on setting up a quotation server that can email periodic interesting citations from the principal sources of catholic doctrine. not done yet. - have obtained permission from the english language publishers of the italian catholic magazine 30 days to take material from their magazine. intend to scan some of the more interesting pictures ever seen a cristero? or st. pius x? and put them in the archives and also post extracts from some of the more interesting articles. it's a european magazine and is of generally higher quality than american catholic material. in my opinion... if you have any questions would like to subscribe etc. send email to catholic@sarto.budd-lake.nj.us
+trec06_phishing_email_1.png,trec06_phishing,1,"Greetings
+
+From: Scott Schwartz <schwartz@groucho.cs.psu.edu>
+
+Greetings all. This is to verify your subscription to the plan9-fans list. The charter members (those who
+
+signed up on the first day) are (in order) ""Scott Schwartz"" ""Chuck Rendleman"" ""Michael John
+Haertel"" ""Neil Weisenfeld"" ""Ozan S. Yigit"" ""Sanjeev Y. Dharap"" Eric Krohn ""DaviD W.
+Sanderson"" ""Dennis Colarelli"" Tony Sloane BobGibson Chris Siebenmann ""Roger Peppe""
+""Chet Ramey"" ""Tim Tsai"" Noel Hunt Due to rdist and local politics, it takes a day before changes to
+
+the list take effect.",,greetings from: scott schwartz schwartz@groucho.cs.psu.edu greetings all. this is to verify your subscription to the plan9-fans list. the charter members those who signed up on the first day are in order scott schwartz chuck rendleman michael john haertel neil weisenfeld ozan s. yigit sanjeev y. dharap eric krohn david w. sanderson dennis colarelli tony sloane bobgibson chris siebenmann roger peppe chet ramey tim tsai noel hunt due to rdist and local politics it takes a day before changes to the list take effect.
+trec06_phishing_email_2.png,trec06_phishing,1,"who wants to start?
+
+From: Scott Schwartz <schwartz@groucho.cs.psu.edu>
+
+It's quiet. Too quiet. Well, how about a straw poll then.
+How many have plan9 running yet?",,who wants to start? from: scott schwartz schwartz@groucho.cs.psu.edu it's quiet. too quiet. well how about a straw poll then. how many have plan9 running yet?
+trec06_phishing_email_3.png,trec06_phishing,1,"Re: who wants to start?
+
+From: mike@majestix.cs.uoregon.edu
+
+It's working here. | have departed almost totally from the Bell Labs
+recommended configuration. I'm running a hacked version of the
+terminal kernel on Sparcs, booting off local disc, using a remote Unix
+machine running a hacked ""u9fs"" as the file server. Lots of things
+
+don't work yet. | have a TODO list a light-year long. | expect many
+
+of my problems would go away if we had the resources to dedicate a CPU
+server (to run daemons) and a file server.
+
+I'm interested in hearing how others are doing...",,re: who wants to start? from: mike@majestix.cs.uoregon.edu it's working here. have departed almost totally from the bell labs recommended configuration. i'm running a hacked version of the terminal kernel on sparcs booting off local disc using a remote unix machine running a hacked u9fs as the file server. lots of things don't work yet. have a todo list a light-year long. expect many of my problems would go away if we had the resources to dedicate a cpu server to run daemons and a file server. i'm interested in hearing how others are doing...
+trec06_phishing_email_4.png,trec06_phishing,1,"mass ack
+
+From: Scott Schwartz <schwartz@groucho.cs.psu.edu>
+
+Greetings all. This is a mass acknowledgement to everyone who has
+signed on to the plan9-fans list to date, now that influx has slowed
+down a bit. (There are 75 people on the list right now.)
+
+One person has suggested that the name of the list be changed to
+9fans. There's already an alias for that, in any event.
+
+The list is not being archived (that | Know of). If someone wants to
+do it, that would be great.
+
+-- Scott",,mass ack from: scott schwartz schwartz@groucho.cs.psu.edu greetings all. this is a mass acknowledgement to everyone who has signed on to the plan9-fans list to date now that influx has slowed down a bit. there are 75 people on the list right now. one person has suggested that the name of the list be changed to 9fans. there's already an alias for that in any event. the list is not being archived that know of . if someone wants to do it that would be great. -- scott
+trec06_phishing_email_5.png,trec06_phishing,1,"Plan 9 beginner's questions
+
+From: vhs@qb.rhein-main.de
+
+Maybe you can answer a few beginner's questions | have:
+What is the equivalent of 'shutdown’, ‘halt’, 'sync' in Plang, i.e.
+how to safely shut the system down
+What are the equivalents of *C, *Q and “S under 8.5, i.e.
+how to cancel a process without deleting it's
+window, and how to stop and resume text output?
+
+Any help, even pointers into TFM appreciated. (IRTFM'ed, but not the whole
+M;-)
+
+Volker
+
+Volker Herminghaus-Shirai (vns@qb.rhein-main.de)
+
+Computer industry: Industry in which the number of units sold of any
+given product is inversely proportional to its technical excellence.
+See also: MS-DOS, MS-Windows, PC, X, QWERTY, 80x86, TrueType",,plan 9 beginner's questions from: vhs@qb.rhein-main.de maybe you can answer a few beginner's questions have: what is the equivalent of 'shutdown halt 'sync' in plang i.e. how to safely shut the system down what are the equivalents of c q and s under 8.5 i.e. how to cancel a process without deleting it's window and how to stop and resume text output? any help even pointers into tfm appreciated. irtfm'ed but not the whole m - volker volker herminghaus-shirai vns@qb.rhein-main.de computer industry: industry in which the number of units sold of any given product is inversely proportional to its technical excellence. see also: ms-dos ms-windows pc x qwerty 80x86 truetype
+trec06_phishing_email_6.png,trec06_phishing,1,"Re: Plan 9 beginner's questions
+
+From: matty@cs.su.oz.au
+
+To shut down a terminal ctrl-t ctrl-t r. This should be fine if it's
+
+diskless. If it isn't - no idea. To cancell a process (delete or
+
+numlock on some keyboard) will kill things in a window's process group.
+This is in the 8.5 manual page. To stop and resume text output: put
+
+the window into non-scroll mode and use the page-down/VIEW key (again
+check the manual pages like 8.5 and keyboard(6)), its altgraph on some
+keyboard and the arrow keys on others. This will scroll half a page.
+Output is blocked while it can't be displayed, i.e., while it's off
+
+the bottom of the page.
+
+Matty.",,re: plan 9 beginner's questions from: matty@cs.su.oz.au to shut down a terminal ctrl-t ctrl-t r. this should be fine if it's diskless. if it isn't - no idea. to cancell a process delete or numlock on some keyboard will kill things in a window's process group. this is in the 8.5 manual page. to stop and resume text output: put the window into non-scroll mode and use the page-down/view key again check the manual pages like 8.5 and keyboard 6 its altgraph on some keyboard and the arrow keys on others. this will scroll half a page. output is blocked while it can't be displayed i.e. while it's off the bottom of the page. matty.
+trec06_phishing_email_7.png,trec06_phishing,1,"Plan 9 utilities...
+
+From: matty@cs.su.oz.au
+
+Three things for your general edificationfamusement:
+
+For those interested, there is a program called 9x in
+ftp.cs.su.oz.au:/matty which provides a remote graphical connection
+
+to a Plan 9 machine on an X terminal. The code needs to be cleaned up
+(please don't look at it too much if you get it -- | will be mortified
+
+if you do), and it doesn't support the polysegment primitive as yet,
+
+but it's useful if you can get it to work nevertheless. You will
+
+need the libXg library from research.att.com (the one with the sam
+distribution) to build it.
+
+Secondly, on the same site in /matty/unicode, there are utf versions
+of libXg which will, when compiled with sam enable it to edit utf
+encoded files, i.e, files containing Runes encoded as Plan 9 encodes
+them using the utf-2 encoding. The libXg and libframe libraries are
+both needed as well as the font archive.
+
+There is also a program 9term which may be used a replacement for
+xterm and which provides a 8.5 (8 1/2) like window for Unix: editable
+command line and output, cut/snarf/send, and if you compile with the
+right libraries, utf facilities. This is fairly stable. It only
+
+works on a few systems at present so if you port it please tell me.
+It's still a beta version but that's probably because I'm lazy and
+haven't done a last touch up more than anything else. I've not
+
+used xterm in any major fashion since last October or so and having
+the Plan 9 “look and feel’ under Unix is a big win (plug, plug!).
+
+The current version in the directory is 1.1.1 but 1.2 should be there
+
+in the next few days.
+
+Matty.",,plan 9 utilities... from: matty@cs.su.oz.au three things for your general edificationfamusement: for those interested there is a program called 9x in ftp.cs.su.oz.au:/matty which provides a remote graphical connection to a plan 9 machine on an x terminal. the code needs to be cleaned up please don't look at it too much if you get it -- will be mortified if you do and it doesn't support the polysegment primitive as yet but it's useful if you can get it to work nevertheless. you will need the libxg library from research.att.com the one with the sam distribution to build it. secondly on the same site in /matty/unicode there are utf versions of libxg which will when compiled with sam enable it to edit utf encoded files i.e files containing runes encoded as plan 9 encodes them using the utf-2 encoding. the libxg and libframe libraries are both needed as well as the font archive. there is also a program 9term which may be used a replacement for xterm and which provides a 8.5 8 1/2 like window for unix: editable command line and output cut/snarf/send and if you compile with the right libraries utf facilities. this is fairly stable. it only works on a few systems at present so if you port it please tell me. it's still a beta version but that's probably because i'm lazy and haven't done a last touch up more than anything else. i've not used xterm in any major fashion since last october or so and having the plan 9 look and feel under unix is a big win plug plug! . the current version in the directory is 1.1.1 but 1.2 should be there in the next few days. matty.
+trec06_phishing_email_8.png,trec06_phishing,1,"Plan 9 beginner's questions
+
+From: mike@majestix.cs.uoregon.edu
+
+| don't know how to shut down a file server or CPU
+server, but to safely shut down a terminal, type ""*T*Tr"".
+The connection to the file server is not cached, so
+there is no need to sync.
+
+The equivalent of “C is delete. (Long ago, Delete was
+the standard interrupt character on Unix too, but
+Berkeley, in their infinite wisdom, decided to switch
+to *C.)
+
+The equivalent of “S and “Q is the scroll/noscroll
+item on the middle mouse button menu, together with
+the scrollbar.",,plan 9 beginner's questions from: mike@majestix.cs.uoregon.edu don't know how to shut down a file server or cpu server but to safely shut down a terminal type t tr . the connection to the file server is not cached so there is no need to sync. the equivalent of c is delete. long ago delete was the standard interrupt character on unix too but berkeley in their infinite wisdom decided to switch to c. the equivalent of s and q is the scroll/noscroll item on the middle mouse button menu together with the scrollbar.
+trec06_phishing_email_9.png,trec06_phishing,1,"Dumb, fundamental question.
+
+From: geoff@minnie.cs.su.OZ.AU
+
+Is Plan 9 primarily intended as an operating system to do research on, or into?
+
+Many of the postings on comp.os.research which run 'Plan 9 should have
+interesting feature x' seem to cast (recast?) Plan 9 as a operating system to
+which exists for the purpose of investigating certain operating system ideas.
+The impression | have from the Plan 9 literature so far seems to indicate that
+
+the emphasis is more on creating a usable system, given certain ideas about
+operating system design, namespaces and so on. I'm not asking whether Plan 9
+is a pure research system or a pure production system - just which is considered
+more important.
+
+Geoff.",,dumb fundamental question. from: geoff@minnie.cs.su.oz.au is plan 9 primarily intended as an operating system to do research on or into? many of the postings on comp.os.research which run 'plan 9 should have interesting feature x' seem to cast recast? plan 9 as a operating system to which exists for the purpose of investigating certain operating system ideas. the impression have from the plan 9 literature so far seems to indicate that the emphasis is more on creating a usable system given certain ideas about operating system design namespaces and so on. i'm not asking whether plan 9 is a pure research system or a pure production system - just which is considered more important. geoff.
+trec06_phishing_email_10.png,trec06_phishing,1,"Re: Dumb, fundamental question.
+
+From: Gary Capell <gary@cs.su.0Z.AU>
+Your impression is the same as my impression. It's a very usable system
+by Bell Labs for Bell Labs to play on/create new stuff on.
+
+Obviously the posters to c.o.r. will have opinions on what should
+go into any OS (they made all sorts of suggestions for/criticisms of QNX too).
+
+Probably few of them actually USE plang.
+You can see what strong forces there are for an OS to accrete ""features"".
+
+Speaking of feeping creaturism, are there plans to add a ""find"" command?",,re: dumb fundamental question. from: gary capell gary@cs.su.0z.au your impression is the same as my impression. it's a very usable system by bell labs for bell labs to play on/create new stuff on. obviously the posters to c.o.r. will have opinions on what should go into any os they made all sorts of suggestions for/criticisms of qnx too . probably few of them actually use plang. you can see what strong forces there are for an os to accrete features . speaking of feeping creaturism are there plans to add a find command?
+trec06_phishing_email_11.png,trec06_phishing,1,"Fonts and unicode distribution...
+
+From: matty@cs.su.oz.au
+
+From: rob@research.att.com Date: Sat, 24 Apr 1993 13:00:48 -0400 _ To: 9fans@cs.psu.edu
+Message-Id: <93Apr24.130215edt.293067@psuvax1.cs.psu.edu> In the good old days, copyright
+notices meant something. The latest instance of their devaluation is Matty's posting —_ in a public place of
+a number of copyrighted fonts from _ the Plan 9 distribution (itself a violation of the copyright) without
+reproducing the notice (which would be our request to anyone who asked to copy them). For those
+interested in maintaining the principle of letting artists maintain ownership of their work, the fonts Matty
+distributed should be stored with the _ following notice: The fonts in this directory are based on fonts
+Copyright (c) 1985 Bigelow & Holmes Inc. This text is (with a substitution for (c)) the contents of
+/lib/font/bit/(pelm,lucm)/NOTICE -rob Rob is of course right (he wins this week's award for the Most
+Public Slap on the Wrist). Ftp.cs.su.oz.au:/matty/unicode will be unavailable until | sort things out. For the
+record | do believe in copyright, the oversight has arisen from the ad hoc way this distribution has grown
+rather than any malicious or subversive intent on my part to deny authorship of the fonts.
+
+Matty.",,fonts and unicode distribution... from: matty@cs.su.oz.au from: rob@research.att.com date: sat 24 apr 1993 13:00:48 -0400 _ to: 9fans@cs.psu.edu message-id: 93apr24.130215edt.293067@psuvax1.cs.psu.edu in the good old days copyright notices meant something. the latest instance of their devaluation is matty's posting _ in a public place of a number of copyrighted fonts from _ the plan 9 distribution itself a violation of the copyright without reproducing the notice which would be our request to anyone who asked to copy them . for those interested in maintaining the principle of letting artists maintain ownership of their work the fonts matty distributed should be stored with the _ following notice: the fonts in this directory are based on fonts copyright c 1985 bigelow holmes inc. this text is with a substitution for c the contents of /lib/font/bit/ pelm lucm /notice -rob rob is of course right he wins this week's award for the most public slap on the wrist . ftp.cs.su.oz.au:/matty/unicode will be unavailable until sort things out. for the record do believe in copyright the oversight has arisen from the ad hoc way this distribution has grown rather than any malicious or subversive intent on my part to deny authorship of the fonts. matty.
+trec06_phishing_email_12.png,trec06_phishing,1,"a plug for 9term
+
+From: arnold@cc.gatech.edu
+
+I've been beta-in g9term for 1.5 or 2 months and have very quickly come
+to be addicted. The directory is not accessible at the moment, but when
+it comes back, do get a copy of 9term and try it; | like it a lot.
+
+Arnold Robbins --- College of Computing
+
+Georgia Tech, Atlanta, GA 30332-0280 Phone: +1 404 894 9214
+
+E-mail: arnold.robbins@cc.gatech.edu FAX: +1404 853 9378
+
+""He's not dead, he's metaphysically challenged."" - Mystery Science Theatre 3000",,a plug for 9term from: arnold@cc.gatech.edu i've been beta-in g9term for 1.5 or 2 months and have very quickly come to be addicted. the directory is not accessible at the moment but when it comes back do get a copy of 9term and try it like it a lot. arnold robbins --- college of computing georgia tech atlanta ga 30332-0280 phone: 1 404 894 9214 e-mail: arnold.robbins@cc.gatech.edu fax: 1404 853 9378 he's not dead he's metaphysically challenged. - mystery science theatre 3000
