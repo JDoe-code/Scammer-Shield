@@ -1,24 +1,24 @@
-file,folder,label,text,error
-assassin_legit_email_0.png,assassin_legit,0,"Re: New Sequences Window
+path,file,folder,label,text,error,scanned_at
+rendered_email_screenshots/assassin_legit/assassin_legit_email_0.png,assassin_legit_email_0.png,assassin_legit,0,"Re: New Sequences Window
 
 From: Robert Elz <kre@munnari.OZ.AU>
 
-Date: Wed, 21 Aug 2002 10:54:46 -0500_ From: Chris Garrigues Message-ID:
+Date: Wed, 21 Aug 2002 10:54:46 -0500 From: Chris Garrigues Message-ID:
 <1029945287.4797.TMDA@deepeddy.vircio.com> || can't reproduce this error. For me it is very
 repeatable... (like every time, without fail). This is the debug log of the pick happening ... 18:19:03 Pick_It
 {exec pick +inbox -list -Ibrace -lbrace -subject ftp -rbrace -rbrace} {4852-4852 -sequence mercury}
 18:19:03 exec pick +inbox -list -lbrace -lbrace -subject ftp -rbrace -rbrace 4852-4852 -sequence mercury
 18:19:04 Ftoc_PickMsgs {{1 hit}} 18:19:04 Marking 1 hits 18:19:04 tkerror: syntax error in expression ""int ...
-Note, if | run the pick command by hand ... delta$ pick +inbox -list -lbrace -lbrace -subject ftp -rbrace -
+Note, if | run the pick command by hand ... delta$ pick +inbox -list -Ibrace -lbrace -subject ftp -rbrace -
 rbrace 4852-4852 -sequence mercury 1 hit That's where the ""1 hit"" comes from (obviously). The version of
 nmh I'm using is ... delta$ pick -version pick -- nmh-1.0.4 [compiled on fuchsia.cs.mu.OZ.AU at Sun Mar 17
 14:55:56 ICT 2002] And the relevant part of my .mh_profile ... delta$ mhparam pick -seq sel -list Since the
 pick command works, the sequence (actually, both of them, the one that's explicit on the command line,
 from the search popup, and the one that comes from .mh_profile) do get created. kre ps: this is still using
 the version of the code form a day ago, | haven't been able to reach the cvs repository today (local routing
-issue | think). Exmh-workers mailing list Exmh-
-workers@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-workers",
-assassin_legit_email_1.png,assassin_legit,0,"[zzzzteana] RE: Alexander
+issue | think). «EX h-workerss mailing list Exmh-
+workers@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-workers",,
+rendered_email_screenshots/assassin_legit/assassin_legit_email_1.png,assassin_legit_email_1.png,assassin_legit,0,"[zzzzteana] RE: Alexander
 
 From: Steve Burt <Steve_Burt@cursor-system.com>
 
@@ -30,21 +30,22 @@ Mount Athos monastic community, was ideal for the patriotic sculpture.
 
 As well as Alexander's granite features, 240 ft high and 170 ft wide, a
 museum, a restored amphitheatre and car park for admiring crowds are
-
 planned
 
 So is this mountain limestone or granite?
+
 If it's limestone, it'll weather pretty fast.
 
-wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+woven enna nn nn--------- Yahoo! Groups Sponsor ---------------------~-->
+
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_legit_email_2.png,assassin_legit,0,"[zzzzteana] Moscow bomber
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_legit/assassin_legit_email_2.png,assassin_legit_email_2.png,assassin_legit,0,"[zzzzteana] Moscow bomber
 
 From: ""Tim Chapman"" <timc@2ubh.com>
 
@@ -63,7 +64,7 @@ were immediately available.
 
 The man had demanded talks with high government officials, the Interfax and
 ITAR-Tass news agencies said. Ekho Moskvy radio reported that he wanted to
-talk with Russian President Vladimir Putin.
+talk with Russian President Viadimir Putin.
 
 Police and security forces rushed to the Security Service building, within
 blocks of the Kremlin, Red Square and the Bolshoi Ballet, and surrounded the
@@ -77,16 +78,14 @@ further negotiations with him, the Moscow police press service said. The
 move appeared to be an attempt by security services to get him to a more
 secure location.
 
-women reennenenencnnnnn= Yahoo! Groups Sponsor ---------------------~-->
-
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_legit_email_3.png,assassin_legit,0,"[IRR] Klez: The Virus That Won't Die
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_legit/assassin_legit_email_3.png,assassin_legit_email_3.png,assassin_legit,0,"[IRR] Klez: The Virus That Won't Die
 
 From: Monty Solomon <monty@roscom.com>
 
@@ -118,8 +117,8 @@ http://www.pcworld.com/news/article/0,aid,103259,00.asp
 
 Irregulars mailing list
 Irregulars@tb.tf
-http://tb.tf/mailman/listinfo/irregulars",
-assassin_legit_email_4.png,assassin_legit,0,"Re: [zzzzteana] Nothing like mama used to make
+http://tb.tf/mailman/listinfo/irregulars",,
+rendered_email_screenshots/assassin_legit/assassin_legit_email_4.png,assassin_legit_email_4.png,assassin_legit,0,"Re: [zzzzteana] Nothing like mama used to make
 
 From: Stewart Smith <Stewart.Smith@ee.ed.ac.uk>
 
@@ -140,15 +139,15 @@ Stewart Smith
 Scottish Microelectronics Centre, University of Edinburgh.
 http://www.ee.ed.ac.uk/~sxs/
 
-wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+mone ne nee renee nnnnnnne= Yahoo! Groups Sponsor ---------------------~-->
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_legit_email_5.png,assassin_legit,0,"Re: [zzzzteana] Nothing like mama used to make
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_legit/assassin_legit_email_5.png,assassin_legit_email_5.png,assassin_legit,0,"Re: [zzzzteana] Nothing like mama used to make
 
 From: ""Martin Adamson"" <martin@srv0.ems.ed.ac.uk>
 
@@ -163,7 +162,7 @@ cooks the egg. That's my understanding.
 
 Martin
 
-wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+mone e ne nee ne nnnnnnnnnne= Yahoo! Groups Sponsor ---------------------~-->
 
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
@@ -171,8 +170,8 @@ http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_legit_email_6.png,assassin_legit,0,"[zzzzteana] Playboy wants to go out with a bang
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_legit/assassin_legit_email_6.png,assassin_legit_email_6.png,assassin_legit,0,"[zzzzteana] Playboy wants to go out with a bang
 
 From: ""Martin Adamson"" <martin@srv0.ems.ed.ac.uk>
 
@@ -193,20 +192,20 @@ me gets all the money,"" Mr Eden told Bild newspaper.
 
 ""| want to pass away in the most beautiful moment of my life. First a lot of
 fun with a beautiful woman, then wild sex, a final orgasm - and it will all
-end with a heart attack and then Im gone.”
+
+end with a heart attack and then Im gone.""
 
 Mr Eden, who is selling his nightclub this year, said applications should be
 sent in quickly because of his age. ""It could end very soon,"" he said.
 
-wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_legit_email_7.png,assassin_legit,0,"Re: [zzzzteana] Nothing like mama used to make
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_legit/assassin_legit_email_7.png,assassin_legit_email_7.png,assassin_legit,0,"Re: [zzzzteana] Nothing like mama used to make
 
 From: Stewart Smith <Stewart.Smith@ee.ed.ac.uk>
 
@@ -217,12 +216,12 @@ guess | should try it without. Actually looking on the internet for a recipe | f
 of the scariest people I've ever seen, and he's a US Congressman: That's one of the worst non-smiles ever.
 Stew ps. Apologies if any of the list's Maine residents voted for this man, you won't do it again once you've
 seen this pic. -- Stewart Smith Scottish Microelectronics Centre, University of Edinburgh.
-http://www.ee.ed.ac.uk/~sxs/ ------------------------ Yahoo! Groups Sponsor ---------------------~-- >4
+http://www.ee.ed.ac.uk/~SxS/ ------------------------ Yahoo! Groups Sponsor ---------------------~-- >4
 DVDs Free +s&p Join Now http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSoIB/TM ------------------
-> To unsubscribe from this group, send an email to:
+seco wnnnwnennssnnnnnnnnennsacnnanaccnnnsesenasasasa~= > To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com Your use of Yahoo! Groups is subject to
-http://docs.yahoo.com/info/terms/",
-assassin_legit_email_8.png,assassin_legit,0,"[zzzzteana] Meaningful sentences
+http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_legit/assassin_legit_email_8.png,assassin_legit_email_8.png,assassin_legit,0,"[zzzzteana] Meaningful sentences
 
 From: ""Martin Adamson"" <martin@srv0.ems.ed.ac.uk>
 
@@ -288,7 +287,7 @@ deal with Macmillan publishers worth a reported 10 million, and is no doubt
 scribbling away as we speak.
 
 So why is it that men like Collins, Bronson and Boyle, who can be so
-destructive towards society on the outside, can become So creative once stuck
+destructive towards society on the outside, can become so creative once stuck
 on the inside? Steve Richards, Bronsons publisher, has published many books
 about criminal figures and believes the roots of this phenomenon are both
 pragmatic and profound.
@@ -322,8 +321,8 @@ two days during a jail siege.
 
 Standing five feet ten and a half inches tall and weighing 210lbs, he is
 renowned for his strength. He has bent metal cell doors with his bare hands
-and does up to 3,000 - yes, 3,000 - press-ups a day. As he puts it: ""| can hit
-aman 20 times in four seconds, | can push 132 press ups in 60 seconds.""
+and does up to 3,000 - yes, 3,000 - press-ups a day. As he puts it: ""I can hit
+aman 20 times in four seconds, | can push 132 press ups in 60 seconds.”
 
 But judging by our current obsession with health and exercise, Solitary
 Fitness might be the book which will see Bronsons face sitting on every
@@ -344,15 +343,15 @@ we all needed.
 Solitary Fitness by Charles Bronson is published by Mirage Publishing and will
 be available in bookstores from October at 7.99
 
-women reennenenencnnnnn= Yahoo! Groups Sponsor ---------------------~-->
+lalalaliii Yahoo! Groups Sponsor ---------------------~-->
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_legit_email_9.png,assassin_legit,0,"[SAtalk] SA CGI Configurator Scripts
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_legit/assassin_legit_email_9.png,assassin_legit_email_9.png,assassin_legit,0,"[SAtalk] SA CGI Configurator Scripts
 
 From: ""NOI Administrator"" <admin@networksonline.com>
 
@@ -366,14 +365,15 @@ would prefer not to have to write a script myself, but will appreciate any
 suggestions.
 
 This sf.net email is sponsored by: OSDN - Tired of that same old
+
 cell phone? Get a new here for FREE!
-https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
+https://www.inphonic.com/r.asp?r=sourceforge1l&refcode1=vs3390
 
 Spamassassin-talk mailing list
 Spamassassin-talk@lists.sourceforge.net
-https://lists.sourceforge.net/lists/listinfo/spamassassin-talk",
-assassin_legit_email_10.png,assassin_legit,0,"[SAdev] Interesting approach to Spam handling..
-From: David H=?ISO-8859-1?B?9g==?=hn <dh@uptime.at>
+https://lists.sourceforge.net/lists/listinfo/spamassassin-talk",,
+rendered_email_screenshots/assassin_legit/assassin_legit_email_10.png,assassin_legit_email_10.png,assassin_legit,0,"[SAdev] Interesting approach to Spam handling..
+From: David H=?7ISO-8859-1?B?9g==?=hn <dh@uptime.at>
 
 Hello, have you seen and discussed this article and his approach?
 Thank you
@@ -388,8 +388,8 @@ https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
 
 Spamassassin-devel mailing list
 Spamassassin-devel@lists.sourceforge.net
-https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",
-assassin_legit_email_11.png,assassin_legit,0,"Re: [SAdev] Live Rule Updates after Release ???
+https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",,
+rendered_email_screenshots/assassin_legit/assassin_legit_email_11.png,assassin_legit_email_11.png,assassin_legit,0,"Re: [SAdev] Live Rule Updates after Release ???
 
 From: Marc Perkel <marc@perkel.com>
 
@@ -423,8 +423,8 @@ https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
 
 Spamassassin-devel mailing list
 Spamassassin-devel@lists.sourceforge.net
-https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",
-assassin_legit_email_12.png,assassin_legit,0,"[ILUG] Re: Problems with RAID1 on cobalt raq3
+https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",,
+rendered_email_screenshots/assassin_legit/assassin_legit_email_12.png,assassin_legit_email_12.png,assassin_legit,0,"[ILUG] Re: Problems with RAID1 on cobalt raq3
 
 From: ""John P. Looney"" <valen@tuatha.org>
 
@@ -434,10 +434,10 @@ On Mon, Aug 19, 2002 at 03:08:16PM +0100, John P. Looney mentioned:
 
 Just to solve this...the reason | was booting the box with
 root=/dev/hda5, not /dev/mdO was because /dev/mdO wasn't booting - it
-would barf with 'can't find init’.
+would barf with ‘can't find init’.
 
 It turns out that this is because | was populating mdO with tar. Which
-seems to have 'issues' with crosslinked files - for instance, it was
+seems to have ‘issues' with crosslinked files - for instance, it was
 trying to make a hard link of glibc.so to hda - and failing. It was only
 as | did it again with a friend present, that he spotted the errors, and
 queried them. We noticed that the hard linked files just didn't exist on
@@ -448,20 +448,20 @@ fine, | was able to tell lilo to use root=/dev/mdO and everything worked.
 
 Woohoo.
 Kate
-
 Irish Linux Users' Group: ilug@linux.ie
+
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_legit_email_13.png,assassin_legit,0,"Re: New Sequences Window
+List maintainer: listmaster@linux.ie",,
+rendered_email_screenshots/assassin_legit/assassin_legit_email_13.png,assassin_legit_email_13.png,assassin_legit,0,"Re: New Sequences Window
 
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
 
 --==_Exmh_-1317289252P Content-Type: text/plain; charset=us-ascii > From: Chris Garrigues > Date:
-Wed, 21 Aug 2002 10:40:39 -0500 > > > From: Chris Garrigues > > Date: Wed, 21 Aug 2002 10:17:45
--0500 > > > > Ouch...I'll get right on it. >> >>>From: Robert Elz >>> Date: Wed, 21 Aug 2002 19:30:01
-+0700 > > > > >> Any chance of having that lengthen instead? | like all my exmh stuff > > > in nice
+Wed, 21 Aug 2002 10:40:39 -0500 > > >From: Chris Garrigues > > Date: Wed, 21 Aug 2002 10:17:45
+-0500 > > > > Ouch...I'll get right on it. > > >>>From: Robert Elz > >> Date: Wed, 21 Aug 2002 19:30:01
++0700 > > > > > > Any chance of having that lengthen instead? | like all my exmh stuff > > > in nice
 columns (fits the display better). That is, | use the detache > d > > > folder list, one column. The main
-exmh window takes up full screen, > > > top to bottom, but less than half the width, etc... > >1 thought
+exmh window takes up full screen, > > > top to bottom, but less than half the width, etc... > >| thought
 about that. The first order approximation would be to just add > using pack .... -side top instead of pack ...
 -side left, however, since their > each a different width, it would look funny. I've done this. It's not as pretty
 as | think it should be, but it works. I'm going to leave the cosmetic issues to others. When | update the
@@ -473,12 +473,11 @@ http://www.DeepEddy.Com/~cwg/ virClO http://www.virClO.Com 716 Congress, Suite 2
 Austin, TX 78701 +1512 3740500 World War Ill: The Wrong-Doers Vs. the Evil-Doers. --
 ==_Exmh_-1317289252P Content-Type: application/pgp-signature ----- BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.0.6 (GNU/Linux) Comment: Exmh version 2.2_20000822 06/23/2000
-iD8DBQE9ZQJ/K9b4h5ROIVIRAIPUAJWL4mUusSwhLNQZC8MsDIGpEdKNrACcDfZH
+iD8DBQE9ZQJ/K9b4h5ROIVIRAIiPUAJWL4mUusSwhLNQZC8MsDIGpEdKNrACcDfZH
 PcGgN9frLIM+C5Z3vagi2wE= =qJoJ ----- END PGP SIGNATURE----- -- ==_Exmh_-1317289252P--
-
-Exmh-workers mailing list Exmh-
-workers@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-workers",
-assassin_legit_email_14.png,assassin_legit,0,"The case for spam
+as EX h-worrkeerss mailing list Exmh-
+workers@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-workers",,2026-11-11 19:58:31
+rendered_email_screenshots/assassin_legit/assassin_legit_email_14.png,assassin_legit_email_14.png,assassin_legit,0,"The case for spam
 
 From: Owen Byrne <owen@permafrost.net>
 
@@ -516,15 +515,15 @@ spots or TV ads. But he spent only about 2 cents per message, instead of
 35 cents or more per message for direct mail or in another medium.
 
 Had Jones chosen direct mail, radio or TV, that communication would have
-been equally * ‘unsolicited,"" as defined in the e-mail world. Few voters
-would have * ‘opted in"" to receive campaign information from Jones
+been equally * ‘unsolicited,""' as defined in the e-mail world. Few voters
+would have * ‘opted in'""' to receive campaign information from Jones
 through any of those channels.
 
-The response to Jones’ e-mail effort, however, was swift and intense. He
+The response to Jones' e-mail effort, however, was swift and intense. He
 was lambasted by anti-spam advocates, and media coverage was almost
-entirely negative. To be fair, some of Jones' tactics could have been
+entirely negative. To be fair, some of Jones’ tactics could have been
 refined. He used a less-than-perfect list and no standard-practice
-**paid for'' disclaimer in the message.
+“paid for""' disclaimer in the message.
 
 His detractors, however, attacked him not for his tactical miscues but
 because the e-mail was sent unsolicited. In fact, Jones' online campaign
@@ -576,12 +575,12 @@ founder and president of a political e-marketing firm. This was written
 
 for the Los Angeles Times.
 
-http://xent.com/mailman/listinfo/fork",
-assassin_legit_email_15.png,assassin_legit,0,"[IIU] Eircom aDSL Nat'ing
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:58:33
+rendered_email_screenshots/assassin_legit/assassin_legit_email_15.png,assassin_legit_email_15.png,assassin_legit,0,"[IU] Eircom aDSL Nat'ing
 
 From: Bernard Michael Tyers <bernard.tyers@dcu.ie>
 
-Hiall,
+Hi all,
 
 apologies for the possible silly question (i don't think it is, but),
 but is Eircom's aDSL service NAT'ed?
@@ -602,25 +601,25 @@ Bernard Tyers * National Centre for Sensor Research * P:353-1-700-5273 *
 E: bernard.tyers@dcu.ie * W: www.physics.dcu.ie/~bty * L:N117
 
 IU mailing list
-l1U@iiu.taint.org
-http://iiu.taint.org/mailman/listinfo/iiu",
-assassin_legit_email_16.png,assassin_legit,0,"[zzzzteana] Re: Australian Catholic Kiddie Perv Steps Aside
+1!U@iiu.taint.org
+http://iiu.taint.org/mailman/listinfo/iiu",,2026-11-11 19:58:31
+rendered_email_screenshots/assassin_legit/assassin_legit_email_16.png,assassin_legit_email_16.png,assassin_legit,0,"[zzzzteana] Re: Australian Catholic Kiddie Perv Steps Aside
 
 From: ""uncle_slacky"" <robert.chambers@baesystems.com>
 
---- In forteana@y...,""""D.McMann"" wrote: > Robert Moaby, 33, who sent death threats to staff, was also jailed
+--- In forteana@y..., ""D.McMann"" wrote: > Robert Moaby, 33, who sent death threats to staff, was also jailed
 > for hoarding indecent pictures of children on his home computer. > ========= > > Hmm, if | didn't trust
 our government and secret police, | could look at > this another way.... There is a bit of circumstantial
 evidence - apparently some MT listers were approached by him (via email) - a little research in
 dejanews/google groups showed a number of messages from him, clearly hoping to contact girls, appearing
-in “alt.teens"" and similar groups - | just tried a Google Groups search on ""Robert Moaby"" and some of them
+in ""alt.teens"" and similar groups - | just tried a Google Groups search on ""Robert Moaby"" and some of them
 came top of the list. Note for Marie - ""MT"" stands for Mark Thomas, a slightly slimmer, UK version of your
 Michael Moore - the mailing list is named after him. Rob ------------------------ Yahoo! Groups Sponsor --
-talstalatatatatatatetatetatatatatenstaetanet > 4 DVDs Free +s&p Join Now
-http://us.click.yahoo.com/pt6YBB/NXiIEAA/MG3HAA/7gSOIB/TM --------------- 99 nnn nnn nnn nn nnn nn nnn nnn nnn
-alata atatalatatatatatatatatatatatatatatetatatert > To unsubscribe from this group, send an email to: forteana-
-unsubscribe@egroups.com Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_legit_email_17.png,assassin_legit,0,"RE: [ILUG] Sun Solaris..
+weer nnn n nnn ------~-- > 4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mMG3HAA/7gSOIB/TM -------------------- 9-9-2 n nnn nnn nnn
+seecenesenenasseceaasccawe > To unsubscribe from this group, send an email to: forteana-
+unsubscribe@egroups.com Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,2026-11-11 19:58:33
+rendered_email_screenshots/assassin_legit/assassin_legit_email_17.png,assassin_legit_email_17.png,assassin_legit,0,"RE: [ILUG] Sun Solaris..
 
 From: ""Fergal Moran"" <fergal.moran@wasptech.com>
 
@@ -656,7 +655,7 @@ In a nutshell - Solaris is Suns own flavour of UNIX.
 
 >
 
->--
+Ses
 
 > Irish Linux Users' Group: ilug@linux.ie
 
@@ -667,8 +666,8 @@ In a nutshell - Solaris is Suns own flavour of UNIX.
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_legit_email_18.png,assassin_legit,0,"[zzzzteana] Which Muppet Are You?
+List maintainer: listmaster@linux.ie",,2026-11-11 19:58:34
+rendered_email_screenshots/assassin_legit/assassin_legit_email_18.png,assassin_legit_email_18.png,assassin_legit,0,"[zzzzteana] Which Muppet Are You?
 
 From: ""uncle_slacky"" <robert.chambers@baesystems.com>
 
@@ -677,16 +676,15 @@ http://www.pinkpaperclips.net/subs/quiz2.html
 
 Rob
 
-wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
-
+none nn n+ --------------- Yahoo! Groups Sponsor ---------------------~-->
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_legit_email_19.png,assassin_legit,0,"[ILUG] Sun Solaris..
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,2026-11-11 19:58:34
+rendered_email_screenshots/assassin_legit/assassin_legit_email_19.png,assassin_legit_email_19.png,assassin_legit,0,"[ILUG] Sun Solaris..
 
 From: ""Kiall Mac Innes"" <kiall@redpie.com>
 
@@ -701,8 +699,8 @@ Kiall Mac Innes
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_legit_email_20.png,assassin_legit,0,"Re: [zzzzteana] Which Muppet Are You?
+List maintainer: listmaster@linux.ie",,2026-11-11 19:58:35
+rendered_email_screenshots/assassin_legit/assassin_legit_email_20.png,assassin_legit_email_20.png,assassin_legit,0,"Re: [zzzzteana] Which Muppet Are You?
 
 From: ""Tim Chapman"" <timc@2ubh.com>
 
@@ -714,10 +712,10 @@ From: ""Tim Chapman"" <timc@2ubh.com>
 
 So, anyone who isn't Beaker?
 
-Timc
+TimC
 Meep
 
-we nen nn nen nena nee n- == == Yahoo! Groups Sponsor ---------------------~-->
+won ne nnn nen enna == == === Yahoo! Groups Sponsor ---------------------~-->
 
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
@@ -725,8 +723,8 @@ http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_legit_email_21.png,assassin_legit,0,"Re: [ILUG] Sun Solaris..
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,2026-11-11 19:58:35
+rendered_email_screenshots/assassin_legit/assassin_legit_email_21.png,assassin_legit_email_21.png,assassin_legit,0,"Re: [ILUG] Sun Solaris..
 
 From: ""John P. Looney"" <valen@tuatha.org>
 
@@ -761,8 +759,8 @@ John
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_legit_email_22.png,assassin_legit,0,"Re: [ILUG] Sun Solaris..
+List maintainer: listmaster@linux.ie",,2026-11-11 19:58:36
+rendered_email_screenshots/assassin_legit/assassin_legit_email_22.png,assassin_legit_email_22.png,assassin_legit,0,"Re: [ILUG] Sun Solaris..
 
 From: Padraig Brady <padraig.brady@corvil.com>
 
@@ -796,9 +794,9 @@ John P. Looney wrote:
 > of the main bonuses you get by buying Sun is that you are getting your
 
 > hardware and software from one company, so if you have a support contract,
-> they have to fix it. They can't fob you off with 'that's a software
+> they have to fix it. They can't fob you off with ‘that's a software
 
-> problem, talk to the software vendor. etc.
+> problem, talk to the software vendor.' etc.
 
 >
 
@@ -823,8 +821,8 @@ Pdraig.
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_legit_email_23.png,assassin_legit,0,"Re: [zzzzteana] Which Muppet Are You?
+List maintainer: listmaster@linux.ie",,2026-11-11 19:58:37
+rendered_email_screenshots/assassin_legit/assassin_legit_email_23.png,assassin_legit_email_23.png,assassin_legit,0,"Re: [zzzzteana] Which Muppet Are You?
 
 From: ""leslie ellen jones"" <lejones@ucla.edu>
 
@@ -836,9 +834,9 @@ Jack of All Trades and Doctor of Folklore
 lejones@ucla.edu
 
 ""Truth is an odd number"" -- Flann O'Brien
------ Original Message -----
+<---- Original Message -----
 From: Dino
-To: 2zzzteana@yahoogroups.com
+To: zzzzteana@yahoogroups.com
 Sent: Thursday, August 22, 2002 10:13 AM
 Subject: RE: [zzzzteana] Which Muppet Are You?
 
@@ -847,7 +845,6 @@ Wanna be rizzo he's the coolest
 Dino
 
 Yahoo! Groups Sponsor
-
 ADVERTISEMENT
 
 To unsubscribe from this group, send an email to:
@@ -855,17 +852,17 @@ forteana-unsubscribe@egroups.com
 
 Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service.
 
-[Non-text portions of this message have been removed]
+(Non-text portions of this message have been removed]
 
-wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+alae atelier Yahoo! Groups Sponsor ---------------------~-->
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_legit_email_24.png,assassin_legit,0,"Re: [ILUG] Sun Solaris..
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,2026-11-11 19:58:38
+rendered_email_screenshots/assassin_legit/assassin_legit_email_24.png,assassin_legit_email_24.png,assassin_legit,0,"Re: [ILUG] Sun Solaris..
 
 From: Albert White - SUN Ireland <albert.white@ireland.sun.com>
 
@@ -883,7 +880,7 @@ peter@staunton.ie said:
 
 > instead.
 
-=P
+:-P
 
 bauwolf@indigo.ie said:
 > as if he wanted Solaris 9 for x86, he'd be waiting a bit
@@ -900,8 +897,8 @@ be fiction rather than truth.
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_legit_email_25.png,assassin_legit,0,"RE: The Curse of India's Socialism
+List maintainer: listmaster@linux.ie",,2026-11-11 19:58:38
+rendered_email_screenshots/assassin_legit/assassin_legit_email_25.png,assassin_legit_email_25.png,assassin_legit,0,"RE: The Curse of India's Socialism
 
 From: Dave Long <dl@silcom.com>
 
@@ -987,8 +984,8 @@ an explanation of that ""Bell Jar"" in
 
 the meantime?
 
-http://xent.com/mailman/listinfo/fork",
-assassin_legit_email_26.png,assassin_legit,0,"[ILUG] Newbie seeks advice - Suse 7.2
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:58:41
+rendered_email_screenshots/assassin_legit/assassin_legit_email_26.png,assassin_legit_email_26.png,assassin_legit,0,"[ILUG] Newbie seeks advice - Suse 7.2
 
 From: ""Peter Staunton"" <peter@staunton.ie>
 
@@ -1022,8 +1019,8 @@ Peter
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_legit_email_27.png,assassin_legit,0,"Re: lifegem
+List maintainer: listmaster@linux.ie",,2026-11-11 19:58:40
+rendered_email_screenshots/assassin_legit/assassin_legit_email_27.png,assassin_legit_email_27.png,assassin_legit,0,"Re: lifegem
 
 From: Tom <tomwhore@slack.net>
 
@@ -1031,16 +1028,16 @@ On Thu, 22 Aug 2002, Joseph S. Barrera Ill wrote:
 --]Why wait until you're dead? I'm sure there's enough carbon in
 --]the fat from your typical liposuction job to make a decent diamond.
 
-So thats why | keep seeing DeBeers agents hovering around me.
+So thats why | Keep seeing DeBeers agents hovering around me.
 
 -tom(diamonds in the folds of my flesh)wsmf
 
-http://xent.com/mailman/listinfo/fork",
-assassin_legit_email_28.png,assassin_legit,0,"Re: lifegem
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:58:41
+rendered_email_screenshots/assassin_legit/assassin_legit_email_28.png,assassin_legit_email_28.png,assassin_legit,0,"Re: lifegem
 
 From: Owen Byrne <owen@permafrost.net>
 
-Joseph S. Barrera Ill wrote:
+Joseph S. Barrera III wrote:
 
 > Chris Haun wrote:
 
@@ -1071,8 +1068,8 @@ sun doesn't shine out of my ass, but there's the occasional diamond. ;-).
 
 Owen
 
-http://xent.com/mailman/listinfo/fork",
-assassin_legit_email_29.png,assassin_legit,0,"Re: [ILUG] Formatting a windows partition from Linux
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:58:41
+rendered_email_screenshots/assassin_legit/assassin_legit_email_29.png,assassin_legit_email_29.png,assassin_legit,0,"Re: [ILUG] Formatting a windows partition from Linux
 
 From: Ciaran Johnston <cj@nologic.org>
 
@@ -1094,16 +1091,16 @@ things, play some of > >> my Windoze games. | normally install the windows parti
 floppy which | have conveniently zipped up, but | haven't any way > >> of writing or reading a floppy. > >>
 So, how do! go about: > >> 1. formatting a C: drive with system files (normally | would use > >> format /s c:
 from the floppy). > >> 2. Installing the CDROM drivers (my bootdisk (I wrote it many years > >> ago) does
-this normally). > >> 3. Booting from the partition? > >> > >>| wiped all my linux partitions from the first drive
+this normally). > >> 3. Booting from the partition? > >> > >> | wiped all my linux partitions from the first drive
 and created > >> partitions for Windows (HDA1) Slackware and RedHat. | used cfdisk for > >> this. | made
 the first drive (hda) bootable. | then installed the > >> windows partition in LILO and reran lilo (installed in
-MBR). | copied > >> the contents of boot.zip to my new windows partition and tried to boot > >> it - all | get
+MBR). I copied > >> the contents of boot.zip to my new windows partition and tried to boot > >> it - all | get
 is a garbled line of squiggles. > >> > >> Anyone any ideas? | can't think of anywhere in Athlone to get a new
 > >> floppy drive this evening... > >> > >> Thanks, > >> Ciaran. > >> > >> > >> > >> -- > >> Irish Linux
 Users' Group: ilug@linux.ie > >> http://www.linux.ie/mailman/listinfo/ilug for (un)subscription > >>
 information. List maintainer: listmaster@linux.ie -- Irish Linux Users' Group: ilug@linux.ie
-http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information. List maintainer: listmaster@linux.ie",
-assassin_legit_email_30.png,assassin_legit,0,"public mailing list sign up package
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information. List maintainer: listmaster@linux.ie",,2026-11-11 19:58:44
+rendered_email_screenshots/assassin_legit/assassin_legit_email_30.png,assassin_legit_email_30.png,assassin_legit,0,"public mailing list sign up package
 
 From: Chris Haun <chris@noskillz.com>
 
@@ -1118,8 +1115,8 @@ server not someone elses :)
 
 Chris
 
-http://xent.com/mailman/listinfo/fork",
-assassin_legit_email_31.png,assassin_legit,0,"Entrepreneurs
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:58:42
+rendered_email_screenshots/assassin_legit/assassin_legit_email_31.png,assassin_legit_email_31.png,assassin_legit,0,"Entrepreneurs
 
 From: harley@argote.ch (Robert Harley)
 
@@ -1139,8 +1136,8 @@ Chirac were discussing economics and, in particular, the decline of
 the French economy. 'The problem with the French,’ Bush confided in
 Blair, 'is that they don't have a word for entrepreneur.’
 
-http://xent.com/mailman/listinfo/fork",
-assassin_legit_email_32.png,assassin_legit,0,"Re: hauns_froehlingsdorf@infinetivity.com
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:58:43
+rendered_email_screenshots/assassin_legit/assassin_legit_email_32.png,assassin_legit_email_32.png,assassin_legit,0,"Re: hauns_froehlingsdorf@infinetivity.com
 
 From: hauns_froehlingsdorf@infinetivity.com
 
@@ -1154,8 +1151,9 @@ Hauns Froehlingsdorf
 Network/Systems Manager
 infinetivity, inc.
 952-225.4200
-http://www.infinetivity.com",
-assassin_legit_email_33.png,assassin_legit,0,"[ILUG] Re: Sun Solaris
+
+http://www. infinetivity.com",,2026-11-11 19:58:44
+rendered_email_screenshots/assassin_legit/assassin_legit_email_33.png,assassin_legit_email_33.png,assassin_legit,0,"[ILUG] Re: Sun Solaris
 
 From: Mark Twomey <bauwolf@indigo.ie>
 
@@ -1169,8 +1167,8 @@ M.
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_legit_email_34.png,assassin_legit,0,"Re: Encryption approach to secure web applications
+List maintainer: listmaster@linux.ie",,2026-11-11 19:58:44
+rendered_email_screenshots/assassin_legit/assassin_legit_email_34.png,assassin_legit_email_34.png,assassin_legit,0,"Re: Encryption approach to secure web applications
 
 From: Mario Torre <neugens@libero.it>
 
@@ -1179,9 +1177,9 @@ Hi,
 Thank you for the useful replies, | have found some interesting
 tutorials in the ibm developer connection.
 
-https://wwwé6.software.ibm.com/developerworks/education/j-sec1
+https://www6.software.ibm.com/developerworks/education/j-sec1
 and
-https://www6.software.ibm.com/developerworks/education/j-sec2
+https://wwwé6.software.ibm.com/developerworks/education/j-sec2
 Registration is needed.
 
 | will post the same message on the Web Application Security list, as
@@ -1198,8 +1196,8 @@ Thank you again!
 Mario Torre
 
 Please avoid sending me Word or PowerPoint attachments.
-See http://www.fsf.org/philosophy/no-word-attachments.html",
-assassin_legit_email_35.png,assassin_legit,0,"Re: [ILUG] Re: Sun Solaris
+See http://www.fsf.org/philosophy/no-word-attachments.html",,2026-11-11 19:58:45
+rendered_email_screenshots/assassin_legit/assassin_legit_email_35.png,assassin_legit_email_35.png,assassin_legit,0,"Re: [ILUG] Re: Sun Solaris
 
 From: ""Matthew French"" <mfrench42@yahoo.co.uk>
 
@@ -1210,9 +1208,9 @@ only to be told three months later it is no longer available.) FWIW Solaris and 
 all the time. | can no longer see any specific reason why one is better than the other. Expect Red Hat Solaris
 11 any time now... - Matthew Do You Yahoo!?
 Everything you'll ever need on one web page from News and Sport to Email and Music Charts
-http://uk.my.yahoo.com -- Irish Linux Users' Group: ilug@linux.ie http://www.linux.ie/mailman/listinfo/ilug for
-(un)subscription information. List maintainer: listmaster@linux.ie",
-assassin_legit_email_36.png,assassin_legit,0,"Re: Entrepreneurs
+http://uk.my.yahoo.com -- Irish Linux Users’ Group: ilug@linux.ie http://www.linux.ie/mailman/listinfo/ilug for
+(un)subscription information. List maintainer: listmaster@linux.ie",,2026-11-11 19:58:45
+rendered_email_screenshots/assassin_legit/assassin_legit_email_36.png,assassin_legit_email_36.png,assassin_legit,0,"Re: Entrepreneurs
 
 From: Manoj Kasichainula <manojk+fork@io.com>
 
@@ -1238,7 +1236,7 @@ the decline of the French economy. ""The problem with the
 French,"" Bush afterwards confided in Blair, ""is that they don't
 have a word for entrepreneur.""
 
-The source was Shirley Williams, also known as the Baroness
+The source was Shirley Williams, also Known as the Baroness
 Williams of Crosby, who claimed ""my good friend Tony Blair"" had
 recently regaled her with this anecdote in Brighton.
 
@@ -1252,7 +1250,7 @@ minister never heard George Bush say that, and he certainly
 never told Shirley Williams that President Bush did say it,""
 Campbell told The Post. ""If she put this in a speech, it must
 
-have been a joke.”
+have been a joke.""
 
 This is far from the first time Bush has been made the butt of
 
@@ -1286,8 +1284,8 @@ fall upon appreciative ears.
 Barbara ""ears of corn"" Mikkelson
 Last updated: 29 July 2002
 
-http://xent.com/mailman/listinfo/fork",
-assassin_legit_email_37.png,assassin_legit,0,"RE: [ILUG] Newbie seeks advice - Suse 7.2
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:58:48
+rendered_email_screenshots/assassin_legit/assassin_legit_email_37.png,assassin_legit_email_37.png,assassin_legit,0,"RE: [ILUG] Newbie seeks advice - Suse 7.2
 
 From: ""Kiall Mac Innes"" <kialllists@redpie.com>
 
@@ -1357,8 +1355,8 @@ List maintainer: listmaster@linux.ie
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_legit_email_38.png,assassin_legit,0,"Re: [IIU] Eircom aDSL Nat'ing
+List maintainer: listmaster@linux.ie",,2026-11-11 19:58:48
+rendered_email_screenshots/assassin_legit/assassin_legit_email_38.png,assassin_legit_email_38.png,assassin_legit,0,"Re: [IIU] Eircom aDSL Nat'ing
 
 From: Antoin O Lachtnain <antoin@eire.com>
 
@@ -1397,6 +1395,7 @@ time-space continuum? can someone explain this in words of five syllables
 or less?
 
 >
+
 >IIU mailing list
 
 >llU@iiu.taint.org
@@ -1406,9 +1405,9 @@ Antoin O Lachtnain
 ** antoin@eire.com ** http://www.eire.com ** +353-87-240-6691
 
 IU mailing list
-l1U@iiu.taint.org
-http://iiu.taint.org/mailman/listinfo/iiu",
-assassin_legit_email_39.png,assassin_legit,0,"Re: Entrepreneurs
+1U@iiu.taint.org
+http://iiu.taint.org/mailman/listinfo/iiu",,2026-11-11 19:58:50
+rendered_email_screenshots/assassin_legit/assassin_legit_email_39.png,assassin_legit_email_39.png,assassin_legit,0,"Re: Entrepreneurs
 
 From: harley@argote.ch (Robert Harley)
 
@@ -1429,8 +1428,8 @@ Manoj Kasichainula wrote;
 
 >receive a call from Alastair Campbell, Blair's director of
 >communications and strategy. ""I can tell you that the prime
->minister never heard George Bush Say that, and he certainly
->never told Shirley Williams that President Bush did say it,""
+>minister never heard George Bush say that, and he certainly
+>never told Shirley Williams that President Bush did Say it,""
 >Campbell told The Post. ""If she put this in a speech, it must
 
 >have been a joke.""
@@ -1444,8 +1443,8 @@ It's an amusing anecdote, | don't know if it's true or not, but certainly
 nothing here supports the authoritative sounding conclusion ""Status: False"".
 
 R
-http://xent.com/mailman/listinfo/fork",
-assassin_legit_email_40.png,assassin_legit,0,"Re: The case for spam
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:58:50
+rendered_email_screenshots/assassin_legit/assassin_legit_email_40.png,assassin_legit_email_40.png,assassin_legit,0,"Re: The case for spam
 
 From: ""Russell Turpin"" <deafbox@hotmail.com>
 
@@ -1461,8 +1460,8 @@ it doesn't clutter my inbox.
 
 Chat with friends online, try MSN Messenger: http://messenger.msn.com
 
-http://xent.com/mailman/listinfo/fork",
-assassin_legit_email_41.png,assassin_legit,0,"Re: Entrepreneurs
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:58:50
+rendered_email_screenshots/assassin_legit/assassin_legit_email_41.png,assassin_legit_email_41.png,assassin_legit,0,"Re: Entrepreneurs
 
 From: ""John Evdemon"" <jevdemon@acm.org>
 
@@ -1473,12 +1472,12 @@ On 23 Aug 2002 at 2:57, Robert Harley wrote:
 > sounding conclusion ""Status: False"".
 
 | actually thought it was pretty funny and quite accurate. Who cares if the spinmeisters are denying it?
-http://xent.com/mailman/listinfo/fork",
-assassin_legit_email_42.png,assassin_legit,0,"Re: [ILUG] Newbie seeks advice - Suse 7.2
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:58:50
+rendered_email_screenshots/assassin_legit/assassin_legit_email_42.png,assassin_legit_email_42.png,assassin_legit,0,"Re: [ILUG] Newbie seeks advice - Suse 7.2
 
 From: ""wintermute"" <cout@eircom.net>
 
-< >> 1 downloaded a driver from the nVidia website and installed it using RPM. > Then | ran Sax2 (as was
+< > >| downloaded a driver from the nVidia website and installed it using RPM. > Then | ran Sax2 (as was
 recommended in some postings | found on the net), but > it still doesn't feature my video card in the
 available list. What next? hmmm. Peter. Open a terminal and as root type Ismod you want to find a module
 called NVdriver. If it isn't loaded then load it. #insmod NVdriver.o Oh and ensure you have this module
@@ -1493,15 +1492,15 @@ your monitor should be singfinicantly different. Section ""Monitor"" Identifier 
 Modeline ""800x600"" 36 800 824 896 1024 600 601 603 625 Modeline ""1024x768"" 49 1024 1032 1176
 1344 768 771 777 806 EndSection Section ""Device"" Identifier ""CardO"" Driver ""neomagic"" #Change this
 to ""nvidia""... making sure the modules are in the correct path VendorName ""Neomagic"" # ""Nvidia""
-BoardName ""NM2160"" BusID ""PCI:0:18:0"" EndSection Section ""Screen"" Identifier ""ScreenO"" Device
-""CardO"" Monitor ""MonitorO"" DefaultDepth 24 SubSection ""Display"". Depth 1 EndSubSection
-SubSection ""Display"" Depth 4 EndSubSection SubSection ""Display"" Depth 8 EndSubSection
-SubSection ""Display"" Depth 15 EndSubSection SubSection ""Display"" Depth 16 EndSubSection
-SubSection ""Display"" Depth 24 #FbBpp 32 #le you should be able Ito uncomment this line Modes
+BoardName ""NM2160"" BusiID ""PCI:0:18:0"" EndSection Section ""Screen"" Identifier ""ScreenO"" Device
+""CardO"" Monitor ""MonitorO"" DefaultDepth 24 SubSection ""Display"" Depth 1 EndSubSection
+SubSection ""Display"". Depth 4 EndSubSection SubSection ""Display"" Depth 8 EndSubSection
+SubSection ""Display"". Depth 15 EndSubSection SubSection ""Display"" Depth 16 EndSubSection
+SubSection ""Display"". Depth 24 #FbBpp 32 #le you should be able Ito uncomment this line Modes
 ""1024x768"" ""800x600"" ""640x480"" # And add in higher resulutions as desired. EndSubSection EndSection
--- lrish Linux Users' Group: ilug@linux.ie http://www.linux.ie/mailman/listinfo/ilug for (un)subscription
-information. List maintainer: listmaster@linux.ie",
-assassin_legit_email_43.png,assassin_legit,0,"Re: Entrepreneurs
+-- Irish Linux Users' Group: ilug@linux.ie http://www.linux.ie/mailman/listinfo/ilug for (un)subscription
+information. List maintainer: listmaster@linux.ie",,2026-11-11 19:58:53
+rendered_email_screenshots/assassin_legit/assassin_legit_email_43.png,assassin_legit_email_43.png,assassin_legit,0,"Re: Entrepreneurs
 
 From: Chuck Murcko <chuck@topsail.org>
 
@@ -1532,14 +1531,14 @@ On Thursday, August 22, 2002, at 01:58 PM, Robert Harley wrote:
 > Chirac were discussing economics and, in particular, the decline of
 
 > the French economy. 'The problem with the French,' Bush confided in
-> Blair, ‘is that they don't have a word for entrepreneur.’
+> Blair, 'is that they don't have a word for entrepreneur.'
 
 >R
 > http://xent.com/mailman/listinfo/fork
 >
 
-http://xent.com/mailman/listinfo/fork",
-assassin_legit_email_44.png,assassin_legit,0,"Re: Entrepreneurs
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:58:52
+rendered_email_screenshots/assassin_legit/assassin_legit_email_44.png,assassin_legit_email_44.png,assassin_legit,0,"Re: Entrepreneurs
 
 From: harley@argote.ch (Robert Harley)
 
@@ -1554,7 +1553,7 @@ Whore eructed:
 >So thats the trick, just let any anecdotal utterances you LIKE be deemed
 >true [...]
 
-Exsqueeze me, but what part of ""| don't know if it's true or not""
+Exsqueeze me, but what part of ""I don't know if it's true or not""
 did you fail to grok? | personally doubt it simply because | never
 heard of Bush and Chirac going to Brighton.
 
@@ -1568,23 +1567,23 @@ inundating us with such erudite profundities as ""Kill your idols folks"",
 other dippy bromides.
 
 R
-http://xent.com/mailman/listinfo/fork",
-assassin_legit_email_45.png,assassin_legit,0,"FYI - gone this weekend
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:58:53
+rendered_email_screenshots/assassin_legit/assassin_legit_email_45.png,assassin_legit_email_45.png,assassin_legit,0,"FYI - gone this weekend
 
 From: Daniel Quinlan <quinlan@pathname.com>
 
 | won't be reading email until Sunday night or so. Good luck with
 2.40 and don't do anything | wouldn't do. ;-)
 
-- Dan",
-assassin_legit_email_46.png,assassin_legit,0,"Re: [ILUG] eircoms adsl modems
+- Dan",,2026-11-11 19:58:54
+rendered_email_screenshots/assassin_legit/assassin_legit_email_46.png,assassin_legit_email_46.png,assassin_legit,0,"Re: [ILUG] eircoms adsl modems
 
 From: ""wintermute"" <cout@eircom.net>
 
 It will function as a router if that is what you wish.
 
 It even looks like the modem's embedded OS is some kind of linux, being that
-it has interesting interfaces like etho.
+it has interesting interfaces like ethO.
 
 | don't use it as a router though.... | just have it do the absolute minimum
 DSL stuff and do all the really fun stuff like pppoe on my linux box........
@@ -1596,7 +1595,7 @@ Don't forget to run pppoe over the alcatel speedtouch 350i as in my case you
 This lists your VCI values etc.
 
 > Also, does anyone know if the high-end SpeedTouch, with
-> 4 ethernet ports, can act as a full router or do | still
+> 4 ethernet ports, can act as a full router or do! still
 
 > need to run a pppoe stack on the linux box?
 
@@ -1612,7 +1611,7 @@ This lists your VCI values etc.
 
 >
 
->--
+a5
 
 > Irish Linux Users' Group: ilug@linux.ie
 
@@ -1625,8 +1624,8 @@ information.
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_legit_email_47.png,assassin_legit,0,"Re: Internet saturation (but not in Iceland)
+List maintainer: listmaster@linux.ie",,2026-11-11 19:58:55
+rendered_email_screenshots/assassin_legit/assassin_legit_email_47.png,assassin_legit_email_47.png,assassin_legit,0,"Re: Internet saturation (but not in Iceland)
 
 From: Gary Lawrence Murphy <garym@canada.com>
 
@@ -1640,8 +1639,8 @@ rivers and farm sizes measured in the hundred-thousand-hectares). It's still cur
 there's just a deep cultural curiousity and fascination with watching advertising from the rest of the world.
 Maybe they're downloading Bjork videos. -- Gary Lawrence Murphy TeleDynamics Communications Inc
 Business Advantage through Community Software : http://www.teledyn.com ""Computers are useless. They
-can only give you answers.""(Pablo Picasso)",
-assassin_legit_email_48.png,assassin_legit,0,"Re: Computational Recreations
+can only give you answers.""(Pablo Picasso)",,2026-11-11 19:58:55
+rendered_email_screenshots/assassin_legit/assassin_legit_email_48.png,assassin_legit_email_48.png,assassin_legit,0,"Re: Computational Recreations
 
 From: ""RossO"" <fork@ordersomewherechaos.com>
 
@@ -1662,8 +1661,8 @@ Programming Roger
 The Homunculids
 Alphie & Omega
 
-«ROSS...",
-assassin_legit_email_49.png,assassin_legit,0,"Re: [SAtalk] O.T. Habeus -- Why?
+...ROSS...",,2026-11-11 19:58:55
+rendered_email_screenshots/assassin_legit/assassin_legit_email_49.png,assassin_legit_email_49.png,assassin_legit,0,"Re: [SAtalk] O.T. Habeus -- Why?
 
 From: Bart Schaefer <schaefer@zanshin.com>
 
@@ -1708,29 +1707,28 @@ trademark for them. | don't believe they'll ever get that far, but | don't parti
 [*] And | use the term ""they"" loosely, because the whole company could consist of one lawyer if it really got
 to that point. ------------------------------------------------------- This sf.net email is sponsored
 by:ThinkGeek Welcome to geek heaven. http://thinkgeek.com/sf
-
-Spamassassin-talk mailing list Soamassassin-
-talk@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-talk",
-assassin_phishing_email_0.png,assassin_phishing,1,"Re: New Sequences Window
+a Spamassassin-talk mailing list Spamassassin-
+talk@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-talk",,2026-11-11 19:59:00
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_0.png,assassin_phishing_email_0.png,assassin_phishing,1,"Re: New Sequences Window
 
 From: Robert Elz <kre@munnari.OZ.AU>
 
-Date: Wed, 21 Aug 2002 10:54:46 -0500_ From: Chris Garrigues Message-ID:
+Date: Wed, 21 Aug 2002 10:54:46 -0500 From: Chris Garrigues Message-ID:
 <1029945287.4797.TMDA@deepeddy.vircio.com> || can't reproduce this error. For me it is very
 repeatable... (like every time, without fail). This is the debug log of the pick happening ... 18:19:03 Pick_It
 {exec pick +inbox -list -Ibrace -lbrace -subject ftp -rbrace -rbrace} {4852-4852 -sequence mercury}
 18:19:03 exec pick +inbox -list -lbrace -lbrace -subject ftp -rbrace -rbrace 4852-4852 -sequence mercury
 18:19:04 Ftoc_PickMsgs {{1 hit}} 18:19:04 Marking 1 hits 18:19:04 tkerror: syntax error in expression ""int ...
-Note, if | run the pick command by hand ... delta$ pick +inbox -list -lbrace -lbrace -subject ftp -rbrace -
+Note, if | run the pick command by hand ... delta$ pick +inbox -list -Ibrace -lbrace -subject ftp -rbrace -
 rbrace 4852-4852 -sequence mercury 1 hit That's where the ""1 hit"" comes from (obviously). The version of
 nmh I'm using is ... delta$ pick -version pick -- nmh-1.0.4 [compiled on fuchsia.cs.mu.OZ.AU at Sun Mar 17
 14:55:56 ICT 2002] And the relevant part of my .mh_profile ... delta$ mhparam pick -seq sel -list Since the
 pick command works, the sequence (actually, both of them, the one that's explicit on the command line,
 from the search popup, and the one that comes from .mh_profile) do get created. kre ps: this is still using
 the version of the code form a day ago, | haven't been able to reach the cvs repository today (local routing
-issue | think). Exmh-workers mailing list Exmh-
-workers@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-workers",
-assassin_phishing_email_1.png,assassin_phishing,1,"[zzzzteana] RE: Alexander
+issue | think). «EX h-workerss mailing list Exmh-
+workers@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-workers",,
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_1.png,assassin_phishing_email_1.png,assassin_phishing,1,"[zzzzteana] RE: Alexander
 
 From: Steve Burt <Steve_Burt@cursor-system.com>
 
@@ -1742,21 +1740,22 @@ Mount Athos monastic community, was ideal for the patriotic sculpture.
 
 As well as Alexander's granite features, 240 ft high and 170 ft wide, a
 museum, a restored amphitheatre and car park for admiring crowds are
-
 planned
 
 So is this mountain limestone or granite?
+
 If it's limestone, it'll weather pretty fast.
 
-wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+woven enna nn nn--------- Yahoo! Groups Sponsor ---------------------~-->
+
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_phishing_email_2.png,assassin_phishing,1,"[zzzzteana] Moscow bomber
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_2.png,assassin_phishing_email_2.png,assassin_phishing,1,"[zzzzteana] Moscow bomber
 
 From: ""Tim Chapman"" <timc@2ubh.com>
 
@@ -1775,7 +1774,7 @@ were immediately available.
 
 The man had demanded talks with high government officials, the Interfax and
 ITAR-Tass news agencies said. Ekho Moskvy radio reported that he wanted to
-talk with Russian President Vladimir Putin.
+talk with Russian President Viadimir Putin.
 
 Police and security forces rushed to the Security Service building, within
 blocks of the Kremlin, Red Square and the Bolshoi Ballet, and surrounded the
@@ -1789,16 +1788,14 @@ further negotiations with him, the Moscow police press service said. The
 move appeared to be an attempt by security services to get him to a more
 secure location.
 
-women reennenenencnnnnn= Yahoo! Groups Sponsor ---------------------~-->
-
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_phishing_email_3.png,assassin_phishing,1,"[IRR] Klez: The Virus That Won't Die
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_3.png,assassin_phishing_email_3.png,assassin_phishing,1,"[IRR] Klez: The Virus That Won't Die
 
 From: Monty Solomon <monty@roscom.com>
 
@@ -1830,8 +1827,8 @@ http://www.pcworld.com/news/article/0,aid,103259,00.asp
 
 Irregulars mailing list
 Irregulars@tb.tf
-http://tb.tf/mailman/listinfo/irregulars",
-assassin_phishing_email_4.png,assassin_phishing,1,"Re: [zzzzteana] Nothing like mama used to make
+http://tb.tf/mailman/listinfo/irregulars",,
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_4.png,assassin_phishing_email_4.png,assassin_phishing,1,"Re: [zzzzteana] Nothing like mama used to make
 
 From: Stewart Smith <Stewart.Smith@ee.ed.ac.uk>
 
@@ -1852,15 +1849,15 @@ Stewart Smith
 Scottish Microelectronics Centre, University of Edinburgh.
 http://www.ee.ed.ac.uk/~sxs/
 
-wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+mone ne nee renee nnnnnnne= Yahoo! Groups Sponsor ---------------------~-->
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_phishing_email_5.png,assassin_phishing,1,"Re: [zzzzteana] Nothing like mama used to make
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_5.png,assassin_phishing_email_5.png,assassin_phishing,1,"Re: [zzzzteana] Nothing like mama used to make
 
 From: ""Martin Adamson"" <martin@srv0.ems.ed.ac.uk>
 
@@ -1875,7 +1872,7 @@ cooks the egg. That's my understanding.
 
 Martin
 
-wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+mone e ne nee ne nnnnnnnnnne= Yahoo! Groups Sponsor ---------------------~-->
 
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
@@ -1883,8 +1880,8 @@ http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_phishing_email_6.png,assassin_phishing,1,"[zzzzteana] Playboy wants to go out with a bang
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_6.png,assassin_phishing_email_6.png,assassin_phishing,1,"[zzzzteana] Playboy wants to go out with a bang
 
 From: ""Martin Adamson"" <martin@srv0.ems.ed.ac.uk>
 
@@ -1905,20 +1902,20 @@ me gets all the money,"" Mr Eden told Bild newspaper.
 
 ""| want to pass away in the most beautiful moment of my life. First a lot of
 fun with a beautiful woman, then wild sex, a final orgasm - and it will all
-end with a heart attack and then Im gone.”
+
+end with a heart attack and then Im gone.""
 
 Mr Eden, who is selling his nightclub this year, said applications should be
 sent in quickly because of his age. ""It could end very soon,"" he said.
 
-wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_phishing_email_7.png,assassin_phishing,1,"Re: [zzzzteana] Nothing like mama used to make
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_7.png,assassin_phishing_email_7.png,assassin_phishing,1,"Re: [zzzzteana] Nothing like mama used to make
 
 From: Stewart Smith <Stewart.Smith@ee.ed.ac.uk>
 
@@ -1929,12 +1926,12 @@ guess | should try it without. Actually looking on the internet for a recipe | f
 of the scariest people I've ever seen, and he's a US Congressman: That's one of the worst non-smiles ever.
 Stew ps. Apologies if any of the list's Maine residents voted for this man, you won't do it again once you've
 seen this pic. -- Stewart Smith Scottish Microelectronics Centre, University of Edinburgh.
-http://www.ee.ed.ac.uk/~sxs/ ------------------------ Yahoo! Groups Sponsor ---------------------~-- >4
+http://www.ee.ed.ac.uk/~SxS/ ------------------------ Yahoo! Groups Sponsor ---------------------~-- >4
 DVDs Free +s&p Join Now http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSoIB/TM ------------------
-> To unsubscribe from this group, send an email to:
+seco wnnnwnennssnnnnnnnnennsacnnanaccnnnsesenasasasa~= > To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com Your use of Yahoo! Groups is subject to
-http://docs.yahoo.com/info/terms/",
-assassin_phishing_email_8.png,assassin_phishing,1,"[zzzzteana] Meaningful sentences
+http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_8.png,assassin_phishing_email_8.png,assassin_phishing,1,"[zzzzteana] Meaningful sentences
 
 From: ""Martin Adamson"" <martin@srv0.ems.ed.ac.uk>
 
@@ -2000,7 +1997,7 @@ deal with Macmillan publishers worth a reported 10 million, and is no doubt
 scribbling away as we speak.
 
 So why is it that men like Collins, Bronson and Boyle, who can be so
-destructive towards society on the outside, can become So creative once stuck
+destructive towards society on the outside, can become so creative once stuck
 on the inside? Steve Richards, Bronsons publisher, has published many books
 about criminal figures and believes the roots of this phenomenon are both
 pragmatic and profound.
@@ -2034,8 +2031,8 @@ two days during a jail siege.
 
 Standing five feet ten and a half inches tall and weighing 210lbs, he is
 renowned for his strength. He has bent metal cell doors with his bare hands
-and does up to 3,000 - yes, 3,000 - press-ups a day. As he puts it: ""| can hit
-aman 20 times in four seconds, | can push 132 press ups in 60 seconds.""
+and does up to 3,000 - yes, 3,000 - press-ups a day. As he puts it: ""I can hit
+aman 20 times in four seconds, | can push 132 press ups in 60 seconds.”
 
 But judging by our current obsession with health and exercise, Solitary
 Fitness might be the book which will see Bronsons face sitting on every
@@ -2056,15 +2053,15 @@ we all needed.
 Solitary Fitness by Charles Bronson is published by Mirage Publishing and will
 be available in bookstores from October at 7.99
 
-women reennenenencnnnnn= Yahoo! Groups Sponsor ---------------------~-->
+lalalaliii Yahoo! Groups Sponsor ---------------------~-->
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_phishing_email_9.png,assassin_phishing,1,"[SAtalk] SA CGI Configurator Scripts
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_9.png,assassin_phishing_email_9.png,assassin_phishing,1,"[SAtalk] SA CGI Configurator Scripts
 
 From: ""NOI Administrator"" <admin@networksonline.com>
 
@@ -2078,14 +2075,15 @@ would prefer not to have to write a script myself, but will appreciate any
 suggestions.
 
 This sf.net email is sponsored by: OSDN - Tired of that same old
+
 cell phone? Get a new here for FREE!
-https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
+https://www.inphonic.com/r.asp?r=sourceforge1l&refcode1=vs3390
 
 Spamassassin-talk mailing list
 Spamassassin-talk@lists.sourceforge.net
-https://lists.sourceforge.net/lists/listinfo/spamassassin-talk",
-assassin_phishing_email_10.png,assassin_phishing,1,"[SAdev] Interesting approach to Spam handling..
-From: David H=?ISO-8859-1?B?9g==?=hn <dh@uptime.at>
+https://lists.sourceforge.net/lists/listinfo/spamassassin-talk",,
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_10.png,assassin_phishing_email_10.png,assassin_phishing,1,"[SAdev] Interesting approach to Spam handling..
+From: David H=?7ISO-8859-1?B?9g==?=hn <dh@uptime.at>
 
 Hello, have you seen and discussed this article and his approach?
 Thank you
@@ -2100,8 +2098,8 @@ https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
 
 Spamassassin-devel mailing list
 Spamassassin-devel@lists.sourceforge.net
-https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",
-assassin_phishing_email_11.png,assassin_phishing,1,"Re: [SAdev] Live Rule Updates after Release ???
+https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",,
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_11.png,assassin_phishing_email_11.png,assassin_phishing,1,"Re: [SAdev] Live Rule Updates after Release ???
 
 From: Marc Perkel <marc@perkel.com>
 
@@ -2135,8 +2133,8 @@ https://www.inphonic.com/r.asp?r=sourceforge1&refcode1=vs3390
 
 Spamassassin-devel mailing list
 Spamassassin-devel@lists.sourceforge.net
-https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",
-assassin_phishing_email_12.png,assassin_phishing,1,"[ILUG] Re: Problems with RAID1 on cobalt raq3
+https://lists.sourceforge.net/lists/listinfo/spamassassin-devel",,
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_12.png,assassin_phishing_email_12.png,assassin_phishing,1,"[ILUG] Re: Problems with RAID1 on cobalt raq3
 
 From: ""John P. Looney"" <valen@tuatha.org>
 
@@ -2146,10 +2144,10 @@ On Mon, Aug 19, 2002 at 03:08:16PM +0100, John P. Looney mentioned:
 
 Just to solve this...the reason | was booting the box with
 root=/dev/hda5, not /dev/mdO was because /dev/mdO wasn't booting - it
-would barf with 'can't find init’.
+would barf with ‘can't find init’.
 
 It turns out that this is because | was populating mdO with tar. Which
-seems to have 'issues' with crosslinked files - for instance, it was
+seems to have ‘issues' with crosslinked files - for instance, it was
 trying to make a hard link of glibc.so to hda - and failing. It was only
 as | did it again with a friend present, that he spotted the errors, and
 queried them. We noticed that the hard linked files just didn't exist on
@@ -2160,20 +2158,20 @@ fine, | was able to tell lilo to use root=/dev/mdO and everything worked.
 
 Woohoo.
 Kate
-
 Irish Linux Users' Group: ilug@linux.ie
+
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_phishing_email_13.png,assassin_phishing,1,"Re: New Sequences Window
+List maintainer: listmaster@linux.ie",,
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_13.png,assassin_phishing_email_13.png,assassin_phishing,1,"Re: New Sequences Window
 
 From: Chris Garrigues <cwg-exmh@DeepEddy.Com>
 
 --==_Exmh_-1317289252P Content-Type: text/plain; charset=us-ascii > From: Chris Garrigues > Date:
-Wed, 21 Aug 2002 10:40:39 -0500 > > > From: Chris Garrigues > > Date: Wed, 21 Aug 2002 10:17:45
--0500 > > > > Ouch...I'll get right on it. >> >>>From: Robert Elz >>> Date: Wed, 21 Aug 2002 19:30:01
-+0700 > > > > >> Any chance of having that lengthen instead? | like all my exmh stuff > > > in nice
+Wed, 21 Aug 2002 10:40:39 -0500 > > >From: Chris Garrigues > > Date: Wed, 21 Aug 2002 10:17:45
+-0500 > > > > Ouch...I'll get right on it. > > >>>From: Robert Elz > >> Date: Wed, 21 Aug 2002 19:30:01
++0700 > > > > > > Any chance of having that lengthen instead? | like all my exmh stuff > > > in nice
 columns (fits the display better). That is, | use the detache > d > > > folder list, one column. The main
-exmh window takes up full screen, > > > top to bottom, but less than half the width, etc... > >1 thought
+exmh window takes up full screen, > > > top to bottom, but less than half the width, etc... > >| thought
 about that. The first order approximation would be to just add > using pack .... -side top instead of pack ...
 -side left, however, since their > each a different width, it would look funny. I've done this. It's not as pretty
 as | think it should be, but it works. I'm going to leave the cosmetic issues to others. When | update the
@@ -2185,12 +2183,11 @@ http://www.DeepEddy.Com/~cwg/ virClO http://www.virClO.Com 716 Congress, Suite 2
 Austin, TX 78701 +1512 3740500 World War Ill: The Wrong-Doers Vs. the Evil-Doers. --
 ==_Exmh_-1317289252P Content-Type: application/pgp-signature ----- BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.0.6 (GNU/Linux) Comment: Exmh version 2.2_20000822 06/23/2000
-iD8DBQE9ZQJ/K9b4h5ROIVIRAIPUAJWL4mUusSwhLNQZC8MsDIGpEdKNrACcDfZH
+iD8DBQE9ZQJ/K9b4h5ROIVIRAIiPUAJWL4mUusSwhLNQZC8MsDIGpEdKNrACcDfZH
 PcGgN9frLIM+C5Z3vagi2wE= =qJoJ ----- END PGP SIGNATURE----- -- ==_Exmh_-1317289252P--
-
-Exmh-workers mailing list Exmh-
-workers@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-workers",
-assassin_phishing_email_14.png,assassin_phishing,1,"The case for spam
+as EX h-worrkeerss mailing list Exmh-
+workers@redhat.com https://listman.redhat.com/mailman/listinfo/exmh-workers",,2026-11-11 19:58:58
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_14.png,assassin_phishing_email_14.png,assassin_phishing,1,"The case for spam
 
 From: Owen Byrne <owen@permafrost.net>
 
@@ -2228,15 +2225,15 @@ spots or TV ads. But he spent only about 2 cents per message, instead of
 35 cents or more per message for direct mail or in another medium.
 
 Had Jones chosen direct mail, radio or TV, that communication would have
-been equally * ‘unsolicited,"" as defined in the e-mail world. Few voters
-would have * ‘opted in"" to receive campaign information from Jones
+been equally * ‘unsolicited,""' as defined in the e-mail world. Few voters
+would have * ‘opted in'""' to receive campaign information from Jones
 through any of those channels.
 
-The response to Jones’ e-mail effort, however, was swift and intense. He
+The response to Jones' e-mail effort, however, was swift and intense. He
 was lambasted by anti-spam advocates, and media coverage was almost
-entirely negative. To be fair, some of Jones' tactics could have been
+entirely negative. To be fair, some of Jones’ tactics could have been
 refined. He used a less-than-perfect list and no standard-practice
-**paid for'' disclaimer in the message.
+“paid for""' disclaimer in the message.
 
 His detractors, however, attacked him not for his tactical miscues but
 because the e-mail was sent unsolicited. In fact, Jones' online campaign
@@ -2288,12 +2285,12 @@ founder and president of a political e-marketing firm. This was written
 
 for the Los Angeles Times.
 
-http://xent.com/mailman/listinfo/fork",
-assassin_phishing_email_15.png,assassin_phishing,1,"[IIU] Eircom aDSL Nat'ing
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:59:03
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_15.png,assassin_phishing_email_15.png,assassin_phishing,1,"[IU] Eircom aDSL Nat'ing
 
 From: Bernard Michael Tyers <bernard.tyers@dcu.ie>
 
-Hiall,
+Hi all,
 
 apologies for the possible silly question (i don't think it is, but),
 but is Eircom's aDSL service NAT'ed?
@@ -2314,25 +2311,25 @@ Bernard Tyers * National Centre for Sensor Research * P:353-1-700-5273 *
 E: bernard.tyers@dcu.ie * W: www.physics.dcu.ie/~bty * L:N117
 
 IU mailing list
-l1U@iiu.taint.org
-http://iiu.taint.org/mailman/listinfo/iiu",
-assassin_phishing_email_16.png,assassin_phishing,1,"[zzzzteana] Re: Australian Catholic Kiddie Perv Steps Aside
+1!U@iiu.taint.org
+http://iiu.taint.org/mailman/listinfo/iiu",,2026-11-11 19:59:01
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_16.png,assassin_phishing_email_16.png,assassin_phishing,1,"[zzzzteana] Re: Australian Catholic Kiddie Perv Steps Aside
 
 From: ""uncle_slacky"" <robert.chambers@baesystems.com>
 
---- In forteana@y...,""""D.McMann"" wrote: > Robert Moaby, 33, who sent death threats to staff, was also jailed
+--- In forteana@y..., ""D.McMann"" wrote: > Robert Moaby, 33, who sent death threats to staff, was also jailed
 > for hoarding indecent pictures of children on his home computer. > ========= > > Hmm, if | didn't trust
 our government and secret police, | could look at > this another way.... There is a bit of circumstantial
 evidence - apparently some MT listers were approached by him (via email) - a little research in
 dejanews/google groups showed a number of messages from him, clearly hoping to contact girls, appearing
-in “alt.teens"" and similar groups - | just tried a Google Groups search on ""Robert Moaby"" and some of them
+in ""alt.teens"" and similar groups - | just tried a Google Groups search on ""Robert Moaby"" and some of them
 came top of the list. Note for Marie - ""MT"" stands for Mark Thomas, a slightly slimmer, UK version of your
 Michael Moore - the mailing list is named after him. Rob ------------------------ Yahoo! Groups Sponsor --
-talstalatatatatatatetatetatatatatenstaetanet > 4 DVDs Free +s&p Join Now
-http://us.click.yahoo.com/pt6YBB/NXiIEAA/MG3HAA/7gSOIB/TM --------------- 99 nnn nnn nnn nn nnn nn nnn nnn nnn
-alata atatalatatatatatatatatatatatatatatetatatert > To unsubscribe from this group, send an email to: forteana-
-unsubscribe@egroups.com Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_phishing_email_17.png,assassin_phishing,1,"RE: [ILUG] Sun Solaris..
+weer nnn n nnn ------~-- > 4 DVDs Free +s&p Join Now
+http://us.click.yahoo.com/pt6YBB/NXiEAA/mMG3HAA/7gSOIB/TM -------------------- 9-9-2 n nnn nnn nnn
+seecenesenenasseceaasccawe > To unsubscribe from this group, send an email to: forteana-
+unsubscribe@egroups.com Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,2026-11-11 19:59:02
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_17.png,assassin_phishing_email_17.png,assassin_phishing,1,"RE: [ILUG] Sun Solaris..
 
 From: ""Fergal Moran"" <fergal.moran@wasptech.com>
 
@@ -2368,7 +2365,7 @@ In a nutshell - Solaris is Suns own flavour of UNIX.
 
 >
 
->--
+Ses
 
 > Irish Linux Users' Group: ilug@linux.ie
 
@@ -2379,8 +2376,8 @@ In a nutshell - Solaris is Suns own flavour of UNIX.
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_phishing_email_18.png,assassin_phishing,1,"[zzzzteana] Which Muppet Are You?
+List maintainer: listmaster@linux.ie",,2026-11-11 19:59:03
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_18.png,assassin_phishing_email_18.png,assassin_phishing,1,"[zzzzteana] Which Muppet Are You?
 
 From: ""uncle_slacky"" <robert.chambers@baesystems.com>
 
@@ -2389,16 +2386,15 @@ http://www.pinkpaperclips.net/subs/quiz2.html
 
 Rob
 
-wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
-
+none nn n+ --------------- Yahoo! Groups Sponsor ---------------------~-->
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_phishing_email_19.png,assassin_phishing,1,"[ILUG] Sun Solaris..
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,2026-11-11 19:59:03
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_19.png,assassin_phishing_email_19.png,assassin_phishing,1,"[ILUG] Sun Solaris..
 
 From: ""Kiall Mac Innes"" <kiall@redpie.com>
 
@@ -2413,8 +2409,8 @@ Kiall Mac Innes
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_phishing_email_20.png,assassin_phishing,1,"Re: [zzzzteana] Which Muppet Are You?
+List maintainer: listmaster@linux.ie",,2026-11-11 19:59:04
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_20.png,assassin_phishing_email_20.png,assassin_phishing,1,"Re: [zzzzteana] Which Muppet Are You?
 
 From: ""Tim Chapman"" <timc@2ubh.com>
 
@@ -2426,10 +2422,10 @@ From: ""Tim Chapman"" <timc@2ubh.com>
 
 So, anyone who isn't Beaker?
 
-Timc
+TimC
 Meep
 
-we nen nn nen nena nee n- == == Yahoo! Groups Sponsor ---------------------~-->
+won ne nnn nen enna == == === Yahoo! Groups Sponsor ---------------------~-->
 
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
@@ -2437,8 +2433,8 @@ http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_phishing_email_21.png,assassin_phishing,1,"Re: [ILUG] Sun Solaris..
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,2026-11-11 19:59:04
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_21.png,assassin_phishing_email_21.png,assassin_phishing,1,"Re: [ILUG] Sun Solaris..
 
 From: ""John P. Looney"" <valen@tuatha.org>
 
@@ -2473,8 +2469,8 @@ John
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_phishing_email_22.png,assassin_phishing,1,"Re: [ILUG] Sun Solaris..
+List maintainer: listmaster@linux.ie",,2026-11-11 19:59:06
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_22.png,assassin_phishing_email_22.png,assassin_phishing,1,"Re: [ILUG] Sun Solaris..
 
 From: Padraig Brady <padraig.brady@corvil.com>
 
@@ -2508,9 +2504,9 @@ John P. Looney wrote:
 > of the main bonuses you get by buying Sun is that you are getting your
 
 > hardware and software from one company, so if you have a support contract,
-> they have to fix it. They can't fob you off with 'that's a software
+> they have to fix it. They can't fob you off with ‘that's a software
 
-> problem, talk to the software vendor. etc.
+> problem, talk to the software vendor.' etc.
 
 >
 
@@ -2535,8 +2531,8 @@ Pdraig.
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_phishing_email_23.png,assassin_phishing,1,"Re: [zzzzteana] Which Muppet Are You?
+List maintainer: listmaster@linux.ie",,2026-11-11 19:59:06
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_23.png,assassin_phishing_email_23.png,assassin_phishing,1,"Re: [zzzzteana] Which Muppet Are You?
 
 From: ""leslie ellen jones"" <lejones@ucla.edu>
 
@@ -2548,9 +2544,9 @@ Jack of All Trades and Doctor of Folklore
 lejones@ucla.edu
 
 ""Truth is an odd number"" -- Flann O'Brien
------ Original Message -----
+<---- Original Message -----
 From: Dino
-To: 2zzzteana@yahoogroups.com
+To: zzzzteana@yahoogroups.com
 Sent: Thursday, August 22, 2002 10:13 AM
 Subject: RE: [zzzzteana] Which Muppet Are You?
 
@@ -2559,7 +2555,6 @@ Wanna be rizzo he's the coolest
 Dino
 
 Yahoo! Groups Sponsor
-
 ADVERTISEMENT
 
 To unsubscribe from this group, send an email to:
@@ -2567,17 +2562,17 @@ forteana-unsubscribe@egroups.com
 
 Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service.
 
-[Non-text portions of this message have been removed]
+(Non-text portions of this message have been removed]
 
-wenn nn nenn-------------- Yahoo! Groups Sponsor ---------------------~-->
+alae atelier Yahoo! Groups Sponsor ---------------------~-->
 4 DVDs Free +s&p Join Now
 http://us.click.yahoo.com/pt6YBB/NXiEAA/mG3HAA/7gSolB/TM
 
 To unsubscribe from this group, send an email to:
 forteana-unsubscribe@egroups.com
 
-Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",
-assassin_phishing_email_24.png,assassin_phishing,1,"Re: [ILUG] Sun Solaris..
+Your use of Yahoo! Groups is subject to http://docs.yahoo.com/info/terms/",,2026-11-11 19:59:07
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_24.png,assassin_phishing_email_24.png,assassin_phishing,1,"Re: [ILUG] Sun Solaris..
 
 From: Albert White - SUN Ireland <albert.white@ireland.sun.com>
 
@@ -2595,7 +2590,7 @@ peter@staunton.ie said:
 
 > instead.
 
-=P
+:-P
 
 bauwolf@indigo.ie said:
 > as if he wanted Solaris 9 for x86, he'd be waiting a bit
@@ -2612,8 +2607,8 @@ be fiction rather than truth.
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_phishing_email_25.png,assassin_phishing,1,"RE: The Curse of India's Socialism
+List maintainer: listmaster@linux.ie",,2026-11-11 19:59:07
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_25.png,assassin_phishing_email_25.png,assassin_phishing,1,"RE: The Curse of India's Socialism
 
 From: Dave Long <dl@silcom.com>
 
@@ -2699,8 +2694,8 @@ an explanation of that ""Bell Jar"" in
 
 the meantime?
 
-http://xent.com/mailman/listinfo/fork",
-assassin_phishing_email_26.png,assassin_phishing,1,"[ILUG] Newbie seeks advice - Suse 7.2
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:59:10
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_26.png,assassin_phishing_email_26.png,assassin_phishing,1,"[ILUG] Newbie seeks advice - Suse 7.2
 
 From: ""Peter Staunton"" <peter@staunton.ie>
 
@@ -2734,8 +2729,8 @@ Peter
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_phishing_email_27.png,assassin_phishing,1,"Re: lifegem
+List maintainer: listmaster@linux.ie",,2026-11-11 19:59:09
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_27.png,assassin_phishing_email_27.png,assassin_phishing,1,"Re: lifegem
 
 From: Tom <tomwhore@slack.net>
 
@@ -2743,16 +2738,16 @@ On Thu, 22 Aug 2002, Joseph S. Barrera Ill wrote:
 --]Why wait until you're dead? I'm sure there's enough carbon in
 --]the fat from your typical liposuction job to make a decent diamond.
 
-So thats why | keep seeing DeBeers agents hovering around me.
+So thats why | Keep seeing DeBeers agents hovering around me.
 
 -tom(diamonds in the folds of my flesh)wsmf
 
-http://xent.com/mailman/listinfo/fork",
-assassin_phishing_email_28.png,assassin_phishing,1,"Re: lifegem
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:59:09
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_28.png,assassin_phishing_email_28.png,assassin_phishing,1,"Re: lifegem
 
 From: Owen Byrne <owen@permafrost.net>
 
-Joseph S. Barrera Ill wrote:
+Joseph S. Barrera III wrote:
 
 > Chris Haun wrote:
 
@@ -2783,8 +2778,8 @@ sun doesn't shine out of my ass, but there's the occasional diamond. ;-).
 
 Owen
 
-http://xent.com/mailman/listinfo/fork",
-assassin_phishing_email_29.png,assassin_phishing,1,"Re: [ILUG] Formatting a windows partition from Linux
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:59:10
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_29.png,assassin_phishing_email_29.png,assassin_phishing,1,"Re: [ILUG] Formatting a windows partition from Linux
 
 From: Ciaran Johnston <cj@nologic.org>
 
@@ -2806,16 +2801,16 @@ things, play some of > >> my Windoze games. | normally install the windows parti
 floppy which | have conveniently zipped up, but | haven't any way > >> of writing or reading a floppy. > >>
 So, how do! go about: > >> 1. formatting a C: drive with system files (normally | would use > >> format /s c:
 from the floppy). > >> 2. Installing the CDROM drivers (my bootdisk (I wrote it many years > >> ago) does
-this normally). > >> 3. Booting from the partition? > >> > >>| wiped all my linux partitions from the first drive
+this normally). > >> 3. Booting from the partition? > >> > >> | wiped all my linux partitions from the first drive
 and created > >> partitions for Windows (HDA1) Slackware and RedHat. | used cfdisk for > >> this. | made
 the first drive (hda) bootable. | then installed the > >> windows partition in LILO and reran lilo (installed in
-MBR). | copied > >> the contents of boot.zip to my new windows partition and tried to boot > >> it - all | get
+MBR). I copied > >> the contents of boot.zip to my new windows partition and tried to boot > >> it - all | get
 is a garbled line of squiggles. > >> > >> Anyone any ideas? | can't think of anywhere in Athlone to get a new
 > >> floppy drive this evening... > >> > >> Thanks, > >> Ciaran. > >> > >> > >> > >> -- > >> Irish Linux
 Users' Group: ilug@linux.ie > >> http://www.linux.ie/mailman/listinfo/ilug for (un)subscription > >>
 information. List maintainer: listmaster@linux.ie -- Irish Linux Users' Group: ilug@linux.ie
-http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information. List maintainer: listmaster@linux.ie",
-assassin_phishing_email_30.png,assassin_phishing,1,"public mailing list sign up package
+http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information. List maintainer: listmaster@linux.ie",,2026-11-11 19:59:13
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_30.png,assassin_phishing_email_30.png,assassin_phishing,1,"public mailing list sign up package
 
 From: Chris Haun <chris@noskillz.com>
 
@@ -2830,8 +2825,8 @@ server not someone elses :)
 
 Chris
 
-http://xent.com/mailman/listinfo/fork",
-assassin_phishing_email_31.png,assassin_phishing,1,"Entrepreneurs
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:59:11
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_31.png,assassin_phishing_email_31.png,assassin_phishing,1,"Entrepreneurs
 
 From: harley@argote.ch (Robert Harley)
 
@@ -2851,8 +2846,8 @@ Chirac were discussing economics and, in particular, the decline of
 the French economy. 'The problem with the French,’ Bush confided in
 Blair, 'is that they don't have a word for entrepreneur.’
 
-http://xent.com/mailman/listinfo/fork",
-assassin_phishing_email_32.png,assassin_phishing,1,"Re: hauns_froehlingsdorf@infinetivity.com
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:59:12
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_32.png,assassin_phishing_email_32.png,assassin_phishing,1,"Re: hauns_froehlingsdorf@infinetivity.com
 
 From: hauns_froehlingsdorf@infinetivity.com
 
@@ -2866,8 +2861,9 @@ Hauns Froehlingsdorf
 Network/Systems Manager
 infinetivity, inc.
 952-225.4200
-http://www.infinetivity.com",
-assassin_phishing_email_33.png,assassin_phishing,1,"[ILUG] Re: Sun Solaris
+
+http://www. infinetivity.com",,2026-11-11 19:59:13
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_33.png,assassin_phishing_email_33.png,assassin_phishing,1,"[ILUG] Re: Sun Solaris
 
 From: Mark Twomey <bauwolf@indigo.ie>
 
@@ -2881,8 +2877,8 @@ M.
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_phishing_email_34.png,assassin_phishing,1,"Re: Encryption approach to secure web applications
+List maintainer: listmaster@linux.ie",,2026-11-11 19:59:13
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_34.png,assassin_phishing_email_34.png,assassin_phishing,1,"Re: Encryption approach to secure web applications
 
 From: Mario Torre <neugens@libero.it>
 
@@ -2891,9 +2887,9 @@ Hi,
 Thank you for the useful replies, | have found some interesting
 tutorials in the ibm developer connection.
 
-https://wwwé6.software.ibm.com/developerworks/education/j-sec1
+https://www6.software.ibm.com/developerworks/education/j-sec1
 and
-https://www6.software.ibm.com/developerworks/education/j-sec2
+https://wwwé6.software.ibm.com/developerworks/education/j-sec2
 Registration is needed.
 
 | will post the same message on the Web Application Security list, as
@@ -2910,8 +2906,8 @@ Thank you again!
 Mario Torre
 
 Please avoid sending me Word or PowerPoint attachments.
-See http://www.fsf.org/philosophy/no-word-attachments.html",
-assassin_phishing_email_35.png,assassin_phishing,1,"Re: [ILUG] Re: Sun Solaris
+See http://www.fsf.org/philosophy/no-word-attachments.html",,2026-11-11 19:59:14
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_35.png,assassin_phishing_email_35.png,assassin_phishing,1,"Re: [ILUG] Re: Sun Solaris
 
 From: ""Matthew French"" <mfrench42@yahoo.co.uk>
 
@@ -2922,9 +2918,9 @@ only to be told three months later it is no longer available.) FWIW Solaris and 
 all the time. | can no longer see any specific reason why one is better than the other. Expect Red Hat Solaris
 11 any time now... - Matthew Do You Yahoo!?
 Everything you'll ever need on one web page from News and Sport to Email and Music Charts
-http://uk.my.yahoo.com -- Irish Linux Users' Group: ilug@linux.ie http://www.linux.ie/mailman/listinfo/ilug for
-(un)subscription information. List maintainer: listmaster@linux.ie",
-assassin_phishing_email_36.png,assassin_phishing,1,"Re: Entrepreneurs
+http://uk.my.yahoo.com -- Irish Linux Users’ Group: ilug@linux.ie http://www.linux.ie/mailman/listinfo/ilug for
+(un)subscription information. List maintainer: listmaster@linux.ie",,2026-11-11 19:59:14
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_36.png,assassin_phishing_email_36.png,assassin_phishing,1,"Re: Entrepreneurs
 
 From: Manoj Kasichainula <manojk+fork@io.com>
 
@@ -2950,7 +2946,7 @@ the decline of the French economy. ""The problem with the
 French,"" Bush afterwards confided in Blair, ""is that they don't
 have a word for entrepreneur.""
 
-The source was Shirley Williams, also known as the Baroness
+The source was Shirley Williams, also Known as the Baroness
 Williams of Crosby, who claimed ""my good friend Tony Blair"" had
 recently regaled her with this anecdote in Brighton.
 
@@ -2964,7 +2960,7 @@ minister never heard George Bush say that, and he certainly
 never told Shirley Williams that President Bush did say it,""
 Campbell told The Post. ""If she put this in a speech, it must
 
-have been a joke.”
+have been a joke.""
 
 This is far from the first time Bush has been made the butt of
 
@@ -2998,8 +2994,8 @@ fall upon appreciative ears.
 Barbara ""ears of corn"" Mikkelson
 Last updated: 29 July 2002
 
-http://xent.com/mailman/listinfo/fork",
-assassin_phishing_email_37.png,assassin_phishing,1,"RE: [ILUG] Newbie seeks advice - Suse 7.2
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:59:17
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_37.png,assassin_phishing_email_37.png,assassin_phishing,1,"RE: [ILUG] Newbie seeks advice - Suse 7.2
 
 From: ""Kiall Mac Innes"" <kialllists@redpie.com>
 
@@ -3069,8 +3065,8 @@ List maintainer: listmaster@linux.ie
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_phishing_email_38.png,assassin_phishing,1,"Re: [IIU] Eircom aDSL Nat'ing
+List maintainer: listmaster@linux.ie",,2026-11-11 19:59:17
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_38.png,assassin_phishing_email_38.png,assassin_phishing,1,"Re: [IIU] Eircom aDSL Nat'ing
 
 From: Antoin O Lachtnain <antoin@eire.com>
 
@@ -3109,6 +3105,7 @@ time-space continuum? can someone explain this in words of five syllables
 or less?
 
 >
+
 >IIU mailing list
 
 >llU@iiu.taint.org
@@ -3118,9 +3115,9 @@ Antoin O Lachtnain
 ** antoin@eire.com ** http://www.eire.com ** +353-87-240-6691
 
 IU mailing list
-l1U@iiu.taint.org
-http://iiu.taint.org/mailman/listinfo/iiu",
-assassin_phishing_email_39.png,assassin_phishing,1,"Re: Entrepreneurs
+1U@iiu.taint.org
+http://iiu.taint.org/mailman/listinfo/iiu",,2026-11-11 19:59:18
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_39.png,assassin_phishing_email_39.png,assassin_phishing,1,"Re: Entrepreneurs
 
 From: harley@argote.ch (Robert Harley)
 
@@ -3141,8 +3138,8 @@ Manoj Kasichainula wrote;
 
 >receive a call from Alastair Campbell, Blair's director of
 >communications and strategy. ""I can tell you that the prime
->minister never heard George Bush Say that, and he certainly
->never told Shirley Williams that President Bush did say it,""
+>minister never heard George Bush say that, and he certainly
+>never told Shirley Williams that President Bush did Say it,""
 >Campbell told The Post. ""If she put this in a speech, it must
 
 >have been a joke.""
@@ -3156,8 +3153,8 @@ It's an amusing anecdote, | don't know if it's true or not, but certainly
 nothing here supports the authoritative sounding conclusion ""Status: False"".
 
 R
-http://xent.com/mailman/listinfo/fork",
-assassin_phishing_email_40.png,assassin_phishing,1,"Re: The case for spam
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:59:18
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_40.png,assassin_phishing_email_40.png,assassin_phishing,1,"Re: The case for spam
 
 From: ""Russell Turpin"" <deafbox@hotmail.com>
 
@@ -3173,8 +3170,8 @@ it doesn't clutter my inbox.
 
 Chat with friends online, try MSN Messenger: http://messenger.msn.com
 
-http://xent.com/mailman/listinfo/fork",
-assassin_phishing_email_41.png,assassin_phishing,1,"Re: Entrepreneurs
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:59:19
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_41.png,assassin_phishing_email_41.png,assassin_phishing,1,"Re: Entrepreneurs
 
 From: ""John Evdemon"" <jevdemon@acm.org>
 
@@ -3185,12 +3182,12 @@ On 23 Aug 2002 at 2:57, Robert Harley wrote:
 > sounding conclusion ""Status: False"".
 
 | actually thought it was pretty funny and quite accurate. Who cares if the spinmeisters are denying it?
-http://xent.com/mailman/listinfo/fork",
-assassin_phishing_email_42.png,assassin_phishing,1,"Re: [ILUG] Newbie seeks advice - Suse 7.2
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:59:19
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_42.png,assassin_phishing_email_42.png,assassin_phishing,1,"Re: [ILUG] Newbie seeks advice - Suse 7.2
 
 From: ""wintermute"" <cout@eircom.net>
 
-< >> 1 downloaded a driver from the nVidia website and installed it using RPM. > Then | ran Sax2 (as was
+< > >| downloaded a driver from the nVidia website and installed it using RPM. > Then | ran Sax2 (as was
 recommended in some postings | found on the net), but > it still doesn't feature my video card in the
 available list. What next? hmmm. Peter. Open a terminal and as root type Ismod you want to find a module
 called NVdriver. If it isn't loaded then load it. #insmod NVdriver.o Oh and ensure you have this module
@@ -3205,15 +3202,15 @@ your monitor should be singfinicantly different. Section ""Monitor"" Identifier 
 Modeline ""800x600"" 36 800 824 896 1024 600 601 603 625 Modeline ""1024x768"" 49 1024 1032 1176
 1344 768 771 777 806 EndSection Section ""Device"" Identifier ""CardO"" Driver ""neomagic"" #Change this
 to ""nvidia""... making sure the modules are in the correct path VendorName ""Neomagic"" # ""Nvidia""
-BoardName ""NM2160"" BusID ""PCI:0:18:0"" EndSection Section ""Screen"" Identifier ""ScreenO"" Device
-""CardO"" Monitor ""MonitorO"" DefaultDepth 24 SubSection ""Display"". Depth 1 EndSubSection
-SubSection ""Display"" Depth 4 EndSubSection SubSection ""Display"" Depth 8 EndSubSection
-SubSection ""Display"" Depth 15 EndSubSection SubSection ""Display"" Depth 16 EndSubSection
-SubSection ""Display"" Depth 24 #FbBpp 32 #le you should be able Ito uncomment this line Modes
+BoardName ""NM2160"" BusiID ""PCI:0:18:0"" EndSection Section ""Screen"" Identifier ""ScreenO"" Device
+""CardO"" Monitor ""MonitorO"" DefaultDepth 24 SubSection ""Display"" Depth 1 EndSubSection
+SubSection ""Display"". Depth 4 EndSubSection SubSection ""Display"" Depth 8 EndSubSection
+SubSection ""Display"". Depth 15 EndSubSection SubSection ""Display"" Depth 16 EndSubSection
+SubSection ""Display"". Depth 24 #FbBpp 32 #le you should be able Ito uncomment this line Modes
 ""1024x768"" ""800x600"" ""640x480"" # And add in higher resulutions as desired. EndSubSection EndSection
--- lrish Linux Users' Group: ilug@linux.ie http://www.linux.ie/mailman/listinfo/ilug for (un)subscription
-information. List maintainer: listmaster@linux.ie",
-assassin_phishing_email_43.png,assassin_phishing,1,"Re: Entrepreneurs
+-- Irish Linux Users' Group: ilug@linux.ie http://www.linux.ie/mailman/listinfo/ilug for (un)subscription
+information. List maintainer: listmaster@linux.ie",,2026-11-11 19:59:22
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_43.png,assassin_phishing_email_43.png,assassin_phishing,1,"Re: Entrepreneurs
 
 From: Chuck Murcko <chuck@topsail.org>
 
@@ -3244,14 +3241,14 @@ On Thursday, August 22, 2002, at 01:58 PM, Robert Harley wrote:
 > Chirac were discussing economics and, in particular, the decline of
 
 > the French economy. 'The problem with the French,' Bush confided in
-> Blair, ‘is that they don't have a word for entrepreneur.’
+> Blair, 'is that they don't have a word for entrepreneur.'
 
 >R
 > http://xent.com/mailman/listinfo/fork
 >
 
-http://xent.com/mailman/listinfo/fork",
-assassin_phishing_email_44.png,assassin_phishing,1,"Re: Entrepreneurs
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:59:20
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_44.png,assassin_phishing_email_44.png,assassin_phishing,1,"Re: Entrepreneurs
 
 From: harley@argote.ch (Robert Harley)
 
@@ -3266,7 +3263,7 @@ Whore eructed:
 >So thats the trick, just let any anecdotal utterances you LIKE be deemed
 >true [...]
 
-Exsqueeze me, but what part of ""| don't know if it's true or not""
+Exsqueeze me, but what part of ""I don't know if it's true or not""
 did you fail to grok? | personally doubt it simply because | never
 heard of Bush and Chirac going to Brighton.
 
@@ -3280,23 +3277,23 @@ inundating us with such erudite profundities as ""Kill your idols folks"",
 other dippy bromides.
 
 R
-http://xent.com/mailman/listinfo/fork",
-assassin_phishing_email_45.png,assassin_phishing,1,"FYI - gone this weekend
+http://xent.com/mailman/listinfo/fork",,2026-11-11 19:59:22
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_45.png,assassin_phishing_email_45.png,assassin_phishing,1,"FYI - gone this weekend
 
 From: Daniel Quinlan <quinlan@pathname.com>
 
 | won't be reading email until Sunday night or so. Good luck with
 2.40 and don't do anything | wouldn't do. ;-)
 
-- Dan",
-assassin_phishing_email_46.png,assassin_phishing,1,"Re: [ILUG] eircoms adsl modems
+- Dan",,2026-11-11 19:59:22
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_46.png,assassin_phishing_email_46.png,assassin_phishing,1,"Re: [ILUG] eircoms adsl modems
 
 From: ""wintermute"" <cout@eircom.net>
 
 It will function as a router if that is what you wish.
 
 It even looks like the modem's embedded OS is some kind of linux, being that
-it has interesting interfaces like etho.
+it has interesting interfaces like ethO.
 
 | don't use it as a router though.... | just have it do the absolute minimum
 DSL stuff and do all the really fun stuff like pppoe on my linux box........
@@ -3308,7 +3305,7 @@ Don't forget to run pppoe over the alcatel speedtouch 350i as in my case you
 This lists your VCI values etc.
 
 > Also, does anyone know if the high-end SpeedTouch, with
-> 4 ethernet ports, can act as a full router or do | still
+> 4 ethernet ports, can act as a full router or do! still
 
 > need to run a pppoe stack on the linux box?
 
@@ -3324,7 +3321,7 @@ This lists your VCI values etc.
 
 >
 
->--
+a5
 
 > Irish Linux Users' Group: ilug@linux.ie
 
@@ -3337,8 +3334,8 @@ information.
 
 Irish Linux Users' Group: ilug@linux.ie
 http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie",
-assassin_phishing_email_47.png,assassin_phishing,1,"Re: Internet saturation (but not in Iceland)
+List maintainer: listmaster@linux.ie",,2026-11-11 19:59:23
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_47.png,assassin_phishing_email_47.png,assassin_phishing,1,"Re: Internet saturation (but not in Iceland)
 
 From: Gary Lawrence Murphy <garym@canada.com>
 
@@ -3352,8 +3349,8 @@ rivers and farm sizes measured in the hundred-thousand-hectares). It's still cur
 there's just a deep cultural curiousity and fascination with watching advertising from the rest of the world.
 Maybe they're downloading Bjork videos. -- Gary Lawrence Murphy TeleDynamics Communications Inc
 Business Advantage through Community Software : http://www.teledyn.com ""Computers are useless. They
-can only give you answers.""(Pablo Picasso)",
-assassin_phishing_email_48.png,assassin_phishing,1,"Re: Computational Recreations
+can only give you answers.""(Pablo Picasso)",,2026-11-11 19:59:24
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_48.png,assassin_phishing_email_48.png,assassin_phishing,1,"Re: Computational Recreations
 
 From: ""RossO"" <fork@ordersomewherechaos.com>
 
@@ -3374,8 +3371,8 @@ Programming Roger
 The Homunculids
 Alphie & Omega
 
-«ROSS...",
-assassin_phishing_email_49.png,assassin_phishing,1,"Re: [SAtalk] O.T. Habeus -- Why?
+...ROSS...",,2026-11-11 19:59:24
+rendered_email_screenshots/assassin_phishing/assassin_phishing_email_49.png,assassin_phishing_email_49.png,assassin_phishing,1,"Re: [SAtalk] O.T. Habeus -- Why?
 
 From: Bart Schaefer <schaefer@zanshin.com>
 
@@ -3420,10 +3417,9 @@ trademark for them. | don't believe they'll ever get that far, but | don't parti
 [*] And | use the term ""they"" loosely, because the whole company could consist of one lawyer if it really got
 to that point. ------------------------------------------------------- This sf.net email is sponsored
 by:ThinkGeek Welcome to geek heaven. http://thinkgeek.com/sf
-
-Spamassassin-talk mailing list Soamassassin-
-talk@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-talk",
-trec06_legit_email_0.png,trec06_legit,0,"new Catholic mailing list now up and running
+a Spamassassin-talk mailing list Spamassassin-
+talk@lists.sourceforge.net https://lists.sourceforge.net/lists/listinfo/spamassassin-talk",,2026-11-11 19:59:28
+rendered_email_screenshots/trec06_legit/trec06_legit_email_0.png,trec06_legit_email_0.png,trec06_legit,0,"new Catholic mailing list now up and running
 
 From: jhpb@sarto.budd-lake.nj.us
 
@@ -3475,7 +3471,7 @@ in. (It doesn't have anything in it at the moment except some UNIX
 software useful for such endeavors.) Sorry, guys, but nothing that's
 copyrighted goes into it!
 
-- lam planning on setting up a quotation server that can email
+- 1am planning on setting up a quotation server that can email
 periodic interesting citations from the principal sources of Catholic
 doctrine. (Not done yet.)
 
@@ -3490,8 +3486,8 @@ American Catholic material. In my opinion...)
 If you have any questions, would like to subscribe, etc., send email
 to
 
-catholic@sarto.budd-lake.nj.us",
-trec06_legit_email_1.png,trec06_legit,0,"Greetings
+catholic@sarto.budd-lake.nj.us",,
+rendered_email_screenshots/trec06_legit/trec06_legit_email_1.png,trec06_legit_email_1.png,trec06_legit,0,"Greetings
 
 From: Scott Schwartz <schwartz@groucho.cs.psu.edu>
 
@@ -3499,17 +3495,17 @@ Greetings all. This is to verify your subscription to the plan9-fans list. The c
 
 signed up on the first day) are (in order) ""Scott Schwartz"" ""Chuck Rendleman"" ""Michael John
 Haertel"" ""Neil Weisenfeld"" ""Ozan S. Yigit"" ""Sanjeev Y. Dharap"" Eric Krohn ""DaviD W.
-Sanderson"" ""Dennis Colarelli"" Tony Sloane BobGibson Chris Siebenmann ""Roger Peppe""
+Sanderson"" ""Dennis Colarelli"" Tony Sloane Bob Gibson Chris Siebenmann ""Roger Peppe""
 ""Chet Ramey"" ""Tim Tsai"" Noel Hunt Due to rdist and local politics, it takes a day before changes to
 
-the list take effect.",
-trec06_legit_email_2.png,trec06_legit,0,"who wants to start?
+the list take effect.",,
+rendered_email_screenshots/trec06_legit/trec06_legit_email_2.png,trec06_legit_email_2.png,trec06_legit,0,"who wants to start?
 
 From: Scott Schwartz <schwartz@groucho.cs.psu.edu>
 
 It's quiet. Too quiet. Well, how about a straw poll then.
-How many have plan9 running yet?",
-trec06_legit_email_3.png,trec06_legit,0,"Re: who wants to start?
+How many have plang running yet?",,
+rendered_email_screenshots/trec06_legit/trec06_legit_email_3.png,trec06_legit_email_3.png,trec06_legit,0,"Re: who wants to start?
 
 From: mike@majestix.cs.uoregon.edu
 
@@ -3523,8 +3519,8 @@ don't work yet. | have a TODO list a light-year long. | expect many
 of my problems would go away if we had the resources to dedicate a CPU
 server (to run daemons) and a file server.
 
-I'm interested in hearing how others are doing...",
-trec06_legit_email_4.png,trec06_legit,0,"mass ack
+I'm interested in hearing how others are doing...",,
+rendered_email_screenshots/trec06_legit/trec06_legit_email_4.png,trec06_legit_email_4.png,trec06_legit,0,"mass ack
 
 From: Scott Schwartz <schwartz@groucho.cs.psu.edu>
 
@@ -3535,16 +3531,16 @@ down a bit. (There are 75 people on the list right now.)
 One person has suggested that the name of the list be changed to
 9fans. There's already an alias for that, in any event.
 
-The list is not being archived (that | Know of). If someone wants to
+The list is not being archived (that | know of). If someone wants to
 do it, that would be great.
 
--- Scott",
-trec06_legit_email_5.png,trec06_legit,0,"Plan 9 beginner's questions
+-- Scott",,
+rendered_email_screenshots/trec06_legit/trec06_legit_email_5.png,trec06_legit_email_5.png,trec06_legit,0,"Plan 9 beginner's questions
 
-From: vhs@qb.rhein-main.de
+From: vhs@qpb.rhein-main.de
 
 Maybe you can answer a few beginner's questions | have:
-What is the equivalent of 'shutdown’, ‘halt’, 'sync' in Plang, i.e.
+What is the equivalent of ‘shutdown’, ‘halt’, 'sync' in Plang, i.e.
 how to safely shut the system down
 What are the equivalents of *C, *Q and “S under 8.5, i.e.
 how to cancel a process without deleting it's
@@ -3559,10 +3555,10 @@ Volker Herminghaus-Shirai (vns@qb.rhein-main.de)
 
 Computer industry: Industry in which the number of units sold of any
 given product is inversely proportional to its technical excellence.
-See also: MS-DOS, MS-Windows, PC, X, QWERTY, 80x86, TrueType",
-trec06_legit_email_6.png,trec06_legit,0,"Re: Plan 9 beginner's questions
+See also: MS-DOS, MS-Windows, PC, X, QWERTY, 80x86, TrueType",,
+rendered_email_screenshots/trec06_legit/trec06_legit_email_6.png,trec06_legit_email_6.png,trec06_legit,0,"Re: Plan 9 beginner's questions
 
-From: matty@cs.su.oz.au
+From: matty@cs.su.0Z.au
 
 To shut down a terminal ctrl-t ctrl-t r. This should be fine if it's
 
@@ -3578,12 +3574,12 @@ Output is blocked while it can't be displayed, i.e., while it's off
 
 the bottom of the page.
 
-Matty.",
-trec06_legit_email_7.png,trec06_legit,0,"Plan 9 utilities...
+Matty.",,
+rendered_email_screenshots/trec06_legit/trec06_legit_email_7.png,trec06_legit_email_7.png,trec06_legit,0,"Plan 9 utilities...
 
-From: matty@cs.su.oz.au
+From: matty@cs.su.0Z.au
 
-Three things for your general edificationfamusement:
+Three things for your general edification/jamusement:
 
 For those interested, there is a program called 9x in
 ftp.cs.su.oz.au:/matty which provides a remote graphical connection
@@ -3614,14 +3610,14 @@ It's still a beta version but that's probably because I'm lazy and
 haven't done a last touch up more than anything else. I've not
 
 used xterm in any major fashion since last October or so and having
-the Plan 9 “look and feel’ under Unix is a big win (plug, plug!).
+the Plan 9 ‘look and feel’ under Unix is a big win (plug, plug!).
 
 The current version in the directory is 1.1.1 but 1.2 should be there
 
 in the next few days.
 
-Matty.",
-trec06_legit_email_8.png,trec06_legit,0,"Plan 9 beginner's questions
+Matty.",,
+rendered_email_screenshots/trec06_legit/trec06_legit_email_8.png,trec06_legit_email_8.png,trec06_legit,0,"Plan 9 beginner's questions
 
 From: mike@majestix.cs.uoregon.edu
 
@@ -3633,18 +3629,19 @@ there is no need to sync.
 The equivalent of “C is delete. (Long ago, Delete was
 the standard interrupt character on Unix too, but
 Berkeley, in their infinite wisdom, decided to switch
+
 to *C.)
 
-The equivalent of “S and “Q is the scroll/noscroll
+The equivalent of *S and “Q is the scroll/noscroll
 item on the middle mouse button menu, together with
-the scrollbar.",
-trec06_legit_email_9.png,trec06_legit,0,"Dumb, fundamental question.
+the scrollbar.",,
+rendered_email_screenshots/trec06_legit/trec06_legit_email_9.png,trec06_legit_email_9.png,trec06_legit,0,"Dumb, fundamental question.
 
 From: geoff@minnie.cs.su.OZ.AU
 
 Is Plan 9 primarily intended as an operating system to do research on, or into?
 
-Many of the postings on comp.os.research which run 'Plan 9 should have
+Many of the postings on comp.os.research which run ‘Plan 9 should have
 interesting feature x' seem to cast (recast?) Plan 9 as a operating system to
 which exists for the purpose of investigating certain operating system ideas.
 The impression | have from the Plan 9 literature so far seems to indicate that
@@ -3654,10 +3651,10 @@ operating system design, namespaces and so on. I'm not asking whether Plan 9
 is a pure research system or a pure production system - just which is considered
 more important.
 
-Geoff.",
-trec06_legit_email_10.png,trec06_legit,0,"Re: Dumb, fundamental question.
-
+Geoff.",,
+rendered_email_screenshots/trec06_legit/trec06_legit_email_10.png,trec06_legit_email_10.png,trec06_legit,0,"Re: Dumb, fundamental question.
 From: Gary Capell <gary@cs.su.0Z.AU>
+
 Your impression is the same as my impression. It's a very usable system
 by Bell Labs for Bell Labs to play on/create new stuff on.
 
@@ -3667,17 +3664,17 @@ go into any OS (they made all sorts of suggestions for/criticisms of QNX too).
 Probably few of them actually USE plang.
 You can see what strong forces there are for an OS to accrete ""features"".
 
-Speaking of feeping creaturism, are there plans to add a ""find"" command?",
-trec06_legit_email_11.png,trec06_legit,0,"Fonts and unicode distribution...
+Speaking of feeping creaturism, are there plans to add a ""find"" command?",,
+rendered_email_screenshots/trec06_legit/trec06_legit_email_11.png,trec06_legit_email_11.png,trec06_legit,0,"Fonts and unicode distribution...
 
-From: matty@cs.su.oz.au
+From: matty@cs.su.0Z.au
 
-From: rob@research.att.com Date: Sat, 24 Apr 1993 13:00:48 -0400 _ To: 9fans@cs.psu.edu
-Message-Id: <93Apr24.130215edt.293067@psuvax1.cs.psu.edu> In the good old days, copyright
-notices meant something. The latest instance of their devaluation is Matty's posting —_ in a public place of
-a number of copyrighted fonts from _ the Plan 9 distribution (itself a violation of the copyright) without
+From: rob@research.att.com Date: Sat, 24 Apr 1993 13:00:48 -0400 To: 9fans@cs.psu.edu
+Message-ld: <93Apr24.130215edt.293067@psuvax1.cs.psu.edu> In the good old days, copyright
+notices meant something. The latest instance of their devaluation is Matty's posting in a public place of
+a number of copyrighted fonts from the Plan 9 distribution (itself a violation of the copyright) without
 reproducing the notice (which would be our request to anyone who asked to copy them). For those
-interested in maintaining the principle of letting artists maintain ownership of their work, the fonts Matty
+interested in maintaining the principle of _ letting artists maintain ownership of their work, the fonts Matty
 distributed should be stored with the _ following notice: The fonts in this directory are based on fonts
 Copyright (c) 1985 Bigelow & Holmes Inc. This text is (with a substitution for (c)) the contents of
 /lib/font/bit/(pelm,lucm)/NOTICE -rob Rob is of course right (he wins this week's award for the Most
@@ -3685,8 +3682,8 @@ Public Slap on the Wrist). Ftp.cs.su.oz.au:/matty/unicode will be unavailable un
 record | do believe in copyright, the oversight has arisen from the ad hoc way this distribution has grown
 rather than any malicious or subversive intent on my part to deny authorship of the fonts.
 
-Matty.",
-trec06_legit_email_12.png,trec06_legit,0,"a plug for 9term
+Matty.",,
+rendered_email_screenshots/trec06_legit/trec06_legit_email_12.png,trec06_legit_email_12.png,trec06_legit,0,"a plug for 9term
 
 From: arnold@cc.gatech.edu
 
@@ -3700,16 +3697,15 @@ Georgia Tech, Atlanta, GA 30332-0280 Phone: +1 404 894 9214
 
 E-mail: arnold.robbins@cc.gatech.edu FAX: +1404 853 9378
 
-""He's not dead, he's metaphysically challenged."" - Mystery Science Theatre 3000",
-trec06_legit_email_13.png,trec06_legit,0,"9term...
+""He's not dead, he's metaphysically challenged."" - Mystery Science Theatre 3000",,
+rendered_email_screenshots/trec06_legit/trec06_legit_email_13.png,trec06_legit_email_13.png,trec06_legit,0,"9term...
 
-From: matty@cs.su.oz.au
+From: matty@cs.su.0Z.au
 
 Okay, I've got some of the distribution problems sorted out.
-
 9term, libXg, libframe, and libtext are now again available from
-ftp.cs.su.oz.au:/matty/unicode. | am waiting for a decision on the
-font archive so the fonts are unavailable at the moment. 9term will
+ftp.cs.su.oZ.au:/matty/unicode. | am waiting for a decision on the
+font archive so the fonts are unavailable at the moment. Qterm will
 function with normal X fonts, however.
 
 9x needs some tidying up so that should be back soon as well.
@@ -3718,20 +3714,20 @@ those who've tried to ftp in the last half a week or so and have been
 
 unable to.
 
-Matty.",
-trec06_legit_email_14.png,trec06_legit,0,"Re: Fonts and unicode distribution...
+Matty.",,2026-11-11 19:59:25
+rendered_email_screenshots/trec06_legit/trec06_legit_email_14.png,trec06_legit_email_14.png,trec06_legit,0,"Re: Fonts and unicode distribution...
 
 From: netapp!ghoti!byron@netcom.com
 
 | don't mean to stir a hornets nest here, but it's my impression that
 there's no copyright protection for screen-bitmap fonts. Of course,
 that doesn't mean that omitting a distribution notice in this case is
-the Right Thing to do...",
-trec06_legit_email_15.png,trec06_legit,0,"Re: Fonts and unicode distribution...
+the Right Thing to do...",,2026-11-11 19:59:25
+rendered_email_screenshots/trec06_legit/trec06_legit_email_15.png,trec06_legit_email_15.png,trec06_legit,0,"Re: Fonts and unicode distribution...
 
-From: matty@cs.su.oz.au
+From: matty@cs.su.o0Z.au
 
-Date: Tue, 27 Apr 93 09:59:21PDT From: netapp!ghoti!byron@netcom.com (Byron Rakitzis) Message-
+Date: Tue, 27 Apr 93 09:59:21PDT From: netapp!ghoti!byron@netcom.com (Byron Rakitzis) | Message-
 Id: <9304271659.AA07648@ghoti.netapp.com> To: 9fans@cs.psu.edu, matty@cs.su.oz.au Subject: Re:
 Fonts and unicode distribution... | don't mean to stir a hornets nest here, but it's my impression that
 there's no copyright protection for screen-bitmap fonts. Of course, that doesn't mean that omitting a
@@ -3740,23 +3736,23 @@ the USA -- screen-bitmap fonts are not protected -- but in Great Britian it's a 
 of their status in Australia. Adding a NOTICE is definitely a Good Idea(TM) and | have written to Mr Charles A.
 Bigelow asking for permission to distribute the fonts. Matty. -- James Matthew Farrow
 
-| ""For in that moment | beheld the ruin matty@cs.su.0OZ.AU | of my existence. My world fell dark
+| ""For in that moment | beheld the ruin matty@cs.su.OZ.AU | of my existence. My world fell dark
 Basser Department of Computer Science | and my life became a shallow dream. Sydney University - FAX:
-+61 2 692 3838 | ‘Odi et amo. Excrucior.'"" - Tlindah",
-trec06_legit_email_16.png,trec06_legit,0,"Re: Fonts and unicode distribution...
++61 2 692 3838 | ‘Odi et amo. Excrucior.'"" - Tlindah",,2026-11-11 19:59:26
+rendered_email_screenshots/trec06_legit/trec06_legit_email_16.png,trec06_legit_email_16.png,trec06_legit,0,"Re: Fonts and unicode distribution...
 
 From: ""Ozan S. Yigit"" <oz@sis.yorku.ca>
 
 > | was under the impression that this is the case in the USA --
 > screen-bitmap fonts are not protected ...
 
-It is known as the exclusion of utilitarian works.
+It is Known as the exclusion of utilitarian works.
 In US, typefaces are considered utilitarian works, so they
 
 cannot be protected by copyright.
 
-oz",
-trec06_legit_email_17.png,trec06_legit,0,"Re: Fonts and unicode distribution...
+oz",,2026-11-11 19:59:27
+rendered_email_screenshots/trec06_legit/trec06_legit_email_17.png,trec06_legit_email_17.png,trec06_legit,0,"Re: Fonts and unicode distribution...
 
 From: mike@majestix.cs.uoregon.edu
 
@@ -3772,7 +3768,7 @@ fonts are:
 
 (1) How did Bell Labs derive the bitmap data? If they digitized
 the fonts themselves from, say, blown up photographs, they
-are on safe legal ground. Likewise if they constructed the
+are on Safe legal ground. Likewise if they constructed the
 fonts by hand with a bitmap editor. (Given that these fonts
 look awfully reminescent of the ""blit"" fonts, | suspect that
 they date to the early 1980's and were constructed by hand.)
@@ -3781,8 +3777,8 @@ they date to the early 1980's and were constructed by hand.)
 files?
 
 The answer to #2 seems to be ""Fine, so long as the copyright
-notice is preserved on all copies.""",
-trec06_legit_email_18.png,trec06_legit,0,"Quadra Utilities
+notice is preserved on all copies.""",,2026-11-11 19:59:28
+rendered_email_screenshots/trec06_legit/trec06_legit_email_18.png,trec06_legit_email_18.png,trec06_legit,0,"Quadra Utilities
 
 From: Beth Corbo <corbo@lclark.edu>
 
@@ -3793,8 +3789,8 @@ on SCSI from Micronet.
 
 Enjoy!
 
-Beth Corbo (corbo@lclark.edu)",
-trec06_legit_email_19.png,trec06_legit,0,"Ported U*ix programs to Plan 9?
+Beth Corbo (corbo@lclark.edu)",,2026-11-11 19:59:29
+rendered_email_screenshots/trec06_legit/trec06_legit_email_19.png,trec06_legit_email_19.png,trec06_legit,0,"Ported U*ix programs to Plan 9?
 
 From: Magnus Homann <dOasta@dtek.chalmers.se>
 
@@ -3814,23 +3810,23 @@ Regards,
 
 Homann
 Magnus Homann ""They don't call it the net of a
-dOasta@dtek.chalmers.se million lies for nothing"" -- Vinge (?)",
-trec06_legit_email_20.png,trec06_legit,0,"Re: Ported U*ix programs to Plan 9?
+dOasta@dtek.chalmers.se million lies for nothing"" -- Vinge (?)",,2026-11-11 19:59:29
+rendered_email_screenshots/trec06_legit/trec06_legit_email_20.png,trec06_legit_email_20.png,trec06_legit,0,"Re: Ported U*ix programs to Plan 9?
 
 From: Mike Haertel <mike@cs.uoregon.edu>
 
-The ape library and the associated ""pec"" compiler have worked very well for me for porting a variety of unix
+The ape library and the associated ""pcc"" compiler have worked very well for me for porting a variety of unix
 programs to plan 9. The most annoying aspect of the whole process is not porting C code, but porting
 makefiles and the associated shell scripts. To this end, | have ported the almquist /bin/sh from netbsd, and
 gnu make. Using these tools | have been able to configure and build a variety* of gnu software right out of
 the box. I've also ported the pbmplus suite of bitmap tools, although that required some small source
 changes. In the process I've found a few bugs in the ape library; most notably the wait() function does not
-return exit status correctly. What I think happened is the kernel recently started putting the string "":"" into
+return exit status correctly. What! think happened is the kernel recently started putting the string "":"" into
 the exit status, and the ape library has not been updated to know this. | eventually (september or october)
 will make all this stuff available to others, but right now my time is limited. Mike * sorry, no emacs. :-) It
 can be done--in 1991, out of sheer masochism, and to annoy rob, | ported gnu emacs to plan 9. Fortunately,
-it has been lost to the mists of time...",
-trec06_legit_email_21.png,trec06_legit,0,"sfio vs bio
+it has been lost to the mists of time...",,2026-11-11 19:59:30
+rendered_email_screenshots/trec06_legit/trec06_legit_email_21.png,trec06_legit_email_21.png,trec06_legit,0,"sfio vs bio
 
 From: Icarus Sparry <I.Sparry@ss1.bath.ac.uk>
 
@@ -3840,7 +3836,7 @@ stdio.
 
 The paper 'How to use the Plan 9 C Compiler’ tells us ""Bio is a small
 and very efficient, particularly for buffer-at-a-time or line-at-a-time
-1/O. Even for character-at-a-time |/O, however, it is significantly
+1/O. Even for character-at-a-time I/O, however, it is significantly
 faster than the Standard |/O library""
 
 Before | do it, has anyone else measured these two on similar hardware
@@ -3853,14 +3849,14 @@ streams, and can make use of operating system facilities like memory
 
 mapped files.
 
-Icarus",
-trec06_legit_email_22.png,trec06_legit,0,"Re: Ported U*ix programs to Plan 9?
+Icarus",,2026-11-11 19:59:30
+rendered_email_screenshots/trec06_legit/trec06_legit_email_22.png,trec06_legit_email_22.png,trec06_legit,0,"Re: Ported U*ix programs to Plan 9?
 
 From: rsalz@osf.org
 
 Er, rather than porting existing stuff (GNU, etc) shouldn't
-you be writing NEW programs with the plan9 model?",
-trec06_legit_email_23.png,trec06_legit,0,"Re: Ported U*ix programs to Plan 9?
+you be writing NEW programs with the plan9 model?",,2026-11-11 19:59:30
+rendered_email_screenshots/trec06_legit/trec06_legit_email_23.png,trec06_legit_email_23.png,trec06_legit,0,"Re: Ported U*ix programs to Plan 9?
 
 From: Roger Peppe <rog@ohm.york.ac.uk>
 > Er, rather than porting existing stuff (GNU, etc) shouldn't
@@ -3872,8 +3868,8 @@ before using it, however nice it might be... :-)
 IMHO, one of the nice things about plan 9 is how easily
 most ‘naive’ unix programs port to it.
 
-rog.",
-trec06_legit_email_24.png,trec06_legit,0,"Re: Ported U*ix programs to Plan 9?
+rog.",,2026-11-11 19:59:31
+rendered_email_screenshots/trec06_legit/trec06_legit_email_24.png,trec06_legit_email_24.png,trec06_legit,0,"Re: Ported U*ix programs to Plan 9?
 
 From: mike@majestix.cs.uoregon.edu
 
@@ -3885,8 +3881,8 @@ different is in window system software.
 
 There's a large amount of unix software that fits plan 9 just
 fine, and it would be awfully stupid to reinvent wheels when
-there's genuinely new things to work on instead...",
-trec06_legit_email_25.png,trec06_legit,0,"Re: sfio vs bio
+there's genuinely new things to work on instead...",,2026-11-11 19:59:31
+rendered_email_screenshots/trec06_legit/trec06_legit_email_25.png,trec06_legit_email_25.png,trec06_legit,0,"Re: sfio vs bio
 
 From: mike@majestix.cs.uoregon.edu
 
@@ -3896,8 +3892,8 @@ From: mike@majestix.cs.uoregon.edu
 
 Sfio is also 7000 (10000 if you count stdio compatibility) lines of
 code, whereas bio is about 700. Sfio is not 10 times faster or 10
-times more useful. You're comparing apples to kumquats.",
-trec06_legit_email_26.png,trec06_legit,0,"oops
+times more useful. You're comparing apples to kumquats.",,2026-11-11 19:59:31
+rendered_email_screenshots/trec06_legit/trec06_legit_email_26.png,trec06_legit_email_26.png,trec06_legit,0,"oops
 
 From: mike@majestix.cs.uoregon.edu
 
@@ -3910,8 +3906,8 @@ Unthinkingly, | wrote:
 and produce standard output. The same is true in Plan 9. So when
 | said the plan 9 model is mostly the same, | was thinking of how
 you run programs, not how you write them. The incompatibilities
-are a bit more dramatic from a programmer's point of view.",
-trec06_legit_email_27.png,trec06_legit,0,"Re: Ported U*ix programs to Plan 9?
+are a bit more dramatic from a programmer's point of view.",,2026-11-11 19:59:32
+rendered_email_screenshots/trec06_legit/trec06_legit_email_27.png,trec06_legit_email_27.png,trec06_legit,0,"Re: Ported U*ix programs to Plan 9?
 
 From: forsyth@minster.york.ac.uk
 
@@ -3933,16 +3929,15 @@ hard to use that people don't bother. by contrast, in Plan 9
 
 they are used almost casually, and to good effect.
 
->>| should clarify this: In Unix, most programs take standard input
+>>I should clarify this: In Unix, most programs take standard input
 >> and produce standard output. The same is true in Plan 9. So when
 
 a Plan 9 program can also make things visible in a name space,
 
 to allow them to be manipulated by both new and existing commands.
 that possibility can dramatically change the design of a program or
-system of programs.",
-trec06_legit_email_28.png,trec06_legit,0,"Re: porting unix progs to plan9
-
+system of programs.",,2026-11-11 19:59:33
+rendered_email_screenshots/trec06_legit/trec06_legit_email_28.png,trec06_legit_email_28.png,trec06_legit,0,"Re: porting unix progs to plan9
 From: Gary Capell <gary@cs.su.0Z.AU>
 
 1. I'm afraid of losing the nice feel of a small number of good tools if
@@ -3958,8 +3953,8 @@ on a news reading file system, which will hopefully fit in nicely with
 other plan 9 tools, especially help(1).
 
 P.S. Help(1) is way cool. Try it for an hour and you won't go back. And
-| hear rumours of a successor called acme which should be even better.",
-trec06_legit_email_29.png,trec06_legit,0,"Re: porting unix progs to plan9
+| hear rumours of a successor called acme which should be even better.",,2026-11-11 19:59:33
+rendered_email_screenshots/trec06_legit/trec06_legit_email_29.png,trec06_legit_email_29.png,trec06_legit,0,"Re: porting unix progs to plan9
 
 From: ""Ozan S. Yigit"" <oz@sis.yorku.ca>
 
@@ -3974,8 +3969,8 @@ elegant.
 There needs to be a better way to do news, both on an average un*x and
 on plan 9.
 
-oz",
-trec06_legit_email_30.png,trec06_legit,0,"libXg and caps lock on Sun type V keyboard under openwindows
+oz",,2026-11-11 19:59:33
+rendered_email_screenshots/trec06_legit/trec06_legit_email_30.png,trec06_legit_email_30.png,trec06_legit,0,"libXg and caps lock on Sun type V keyboard under openwindows
 
 From: pete@minster.york.ac.uk
 
@@ -3997,8 +3992,8 @@ pete
 
 Peter Fenelon - Research Associate - High Integrity Systems Engineering Group,
 Dept. of Computer Science, University of York, York, YO1 5DD (+44/0)904 433388
-pete@minster.york.ac.uk ‘Today keeps slipping by me, it leaves no aftertaste.’",
-trec06_legit_email_31.png,trec06_legit,0,"Re: libXg and caps lock on Sun type V keyboard under openwindows
+pete@minster.york.ac.uk ‘Today keeps slipping by me, it leaves no aftertaste.'",,2026-11-11 19:59:34
+rendered_email_screenshots/trec06_legit/trec06_legit_email_31.png,trec06_legit_email_31.png,trec06_legit,0,"Re: libXg and caps lock on Sun type V keyboard under openwindows
 
 From: Scott Schwartz <schwartz@groucho.cse.psu.edu>
 
@@ -4013,8 +4008,8 @@ It doesn't show up here, running MIT X11.
 In terms of shouting, if you use MODULA-3, encrusted as it is with
 
 upper case keywords, caps-lock is about the only alternative (and a
-poor one at that) to a context sensitive editor like emacs.",
-trec06_legit_email_32.png,trec06_legit,0,"Re: libXg and caps lock on Sun type V keyboard under openwindows
+poor one at that) to a context sensitive editor like emacs.",,2026-11-11 19:59:34
+rendered_email_screenshots/trec06_legit/trec06_legit_email_32.png,trec06_legit_email_32.png,trec06_legit,0,"Re: libXg and caps lock on Sun type V keyboard under openwindows
 
 From: pete@minster.york.ac.uk
 
@@ -4042,7 +4037,7 @@ feature"". Sigh.
 Hmmm.... | think if | was using sam to edit a language which required upper
 case I'd knock together some sort of filter to do the capitalisation and
 
-pipe the file through it before a write... that's what the ‘|' command is
+pipe the file through it before a write... that's what the '|' command is
 
 there for! Couple of extra keystrokes perhaps (maybe only one if you're
 using the keyboard extensions to sam) and it avoids the dreaded emacs...
@@ -4051,8 +4046,8 @@ pete
 
 Peter Fenelon - Research Associate - High Integrity Systems Engineering Group,
 Dept. of Computer Science, University of York, York, YO1 5DD +44 (0)904 433388
-EMAIL: pete@minster.york.ac.uk ‘There's no room for enigmas in built-up areas'",
-trec06_legit_email_33.png,trec06_legit,0,"Plan 9 running a X server ?
+EMAIL: pete@minster.york.ac.uk ‘There's no room for enigmas in built-up areas’",,2026-11-11 19:59:36
+rendered_email_screenshots/trec06_legit/trec06_legit_email_33.png,trec06_legit_email_33.png,trec06_legit,0,"Plan 9 running a X server ?
 
 From: Thomas Nau <thomas.nau@medizin.uni-ulm.de>
 
@@ -4062,7 +4057,7 @@ for connectivity to out UNIX boxes ?
 
 Thomas
 
-RARER EAEER EEA S SEER EE EN EASE REESE SERRE EERE EEE EEE EE
+FESO CIO OE OO SOO GIO IOC o oR ton ie tor
 
 Thomas Nau
 (Thomas.Nau@medizin.uni-ulm.de, nau@medizin.uni-ulm.de)
@@ -4070,8 +4065,8 @@ Departement of Anaesthesia, University of Ulm, Germany
 
 think about 42 and DONT PANIC
 
-RARER EAEER EEA S SEER EE EN EASE REESE SERRE EERE EEE EEE EE",
-trec06_legit_email_34.png,trec06_legit,0,"Term to CPU Server?
+STRACK I TIA FRI IR FOR IIE SFR RAO TE OR RO",,2026-11-11 19:59:35
+rendered_email_screenshots/trec06_legit/trec06_legit_email_34.png,trec06_legit_email_34.png,trec06_legit,0,"Term to CPU Server?
 
 From: Jerry W Johnson <jwjohn@ecst.csuchico.edu>
 
@@ -4084,8 +4079,8 @@ other than changing the bootf, fs and auth variables in /lib/ndb/local
 and loading 9sscpu? The system is up and running as term and fs, but
 what more is required to change the term to a cpu server? As well as
 detail what is required to then make this machine the authentication
-server, please? Thanks in advance, --Jerry",
-trec06_legit_email_35.png,trec06_legit,0,"Obtaining Plan 9 as an individual
+server, please? Thanks in advance, --Jerry",,2026-11-11 19:59:36
+rendered_email_screenshots/trec06_legit/trec06_legit_email_35.png,trec06_legit_email_35.png,trec06_legit,0,"Obtaining Plan 9 as an individual
 
 From: Tim.Goodwin@pipex.net
 Does anyone know what my chances of obtaining Plan 9 are as an
@@ -4094,8 +4089,8 @@ individual? Would it be worth writing to Bell Labs?
 Failing that, maybe I'll have to find a university who'd take me ona
 as a (very) part time assistant OS hacker...
 
-Tim.",
-trec06_legit_email_36.png,trec06_legit,0,"Re: Obtaining Plan 9 as an individual
+Tim.",,2026-11-11 19:59:36
+rendered_email_screenshots/trec06_legit/trec06_legit_email_36.png,trec06_legit_email_36.png,trec06_legit,0,"Re: Obtaining Plan 9 as an individual
 
 From: John Mackin <john@civil.su.oz.au>
 
@@ -4112,8 +4107,8 @@ available publically.
 Therefore, | would strongly urge you to write.
 
 OK,
-John.",
-trec06_legit_email_37.png,trec06_legit,0,"plan 9 platforms
+John.",,2026-11-11 19:59:37
+rendered_email_screenshots/trec06_legit/trec06_legit_email_37.png,trec06_legit_email_37.png,trec06_legit,0,"plan 9 platforms
 
 From: Arnold Robbins <arnold@cc.gatech.edu>
 
@@ -4123,19 +4118,19 @@ Is that port in progress, or was it never done? Just curious.
 
 Thanks,
 
-Arnold",
-trec06_legit_email_38.png,trec06_legit,0,"forwarded mail from <plan.9@research.att.com>
+Arnold",,2026-11-11 19:59:37
+rendered_email_screenshots/trec06_legit/trec06_legit_email_38.png,trec06_legit_email_38.png,trec06_legit,0,"forwarded mail from <plan.9@research.att.com>
 
 From: Scott Schwartz <schwartz@groucho.cse.psu.edu>
 
 This was addressed to 9fans-owner, but was probably intended for the whole list. ------- Forwarded
 Message Return-Path: psuvax1.cse.psu.edu!research.att.com!plan.9 Received: from psuvax1.cse.psu.edu
 ((130.203.2.4]) by groucho.cse.psu.edu with SMTP id <2538>; Mon, 26 Jul 1993 10:32:50 -0400 Received:
-from research.att.com ({192.20.225.2]) by psuvax1.cse.psu.edu with SMTP id <292801>; Mon, 26 Jul 1993
+from research.att.com ([192.20.225.2]) by psuvax1.cse.psu.edu with SMTP id <292801>; Mon, 26 Jul 1993
 10:33:36 -0400 From: plan.9@research.att.com Date: Mon, 26 Jul 1993 10:30:01-0400 To: 9fans-
 owner@cse.psu.edu Message-Id: <93Jul26.103336edt.292801@psuvax1.cse.psu.edu> >> From
 cse.psu.edu!9fans-owner Mon Jul 26 08:11:55 EDT 1993 >> Received: by inet.att.com; Mon Jul 26 08:11
-EDT 1993 >> Received: from relay.pipex.net ((158.43.128.1]) by psuvax1.cse.psu.edu with SMTP id
+EDT 1993 >> Received: from relay.pipex.net ({158.43.128.1]) by psuvax1.cse.psu.edu with SMTP id
 <292433>; Mon, 26 Jul 1993 08:04:41 -0400 >> Received: from pipex.net by relay.pipex.net with SMTP
 (PP) >> id <28301-0@relay.pipex.net>; Mon, 26 Jul 1993 13:03:56 +0100 >> To: 9fans@cse.psu.edu
 >> From: Tim.Goodwin@pipex.net >> Subject: Obtaining Plan 9 as an individual >> Date: Mon, 26 Jul
@@ -4144,8 +4139,8 @@ know what my chances of obtaining Plan 9 are as an >> individual? Would it be wo
 >> >> Failing that, maybe I'll have to find a university who'd take me on a >> as a (very) part time assistant
 OS hacker... >> >> Tim. it might become possible for individuals to acquire the system. steps are being
 taken in that direction. the decision depends on various factors that are not influencable by outside
-campaigns and there is no promise of a successful conclusion, however. ------- End of Forwarded Message",
-trec06_legit_email_39.png,trec06_legit,0,"Re: reading list wanted
+campaigns and there is no promise of a successful conclusion, however. ------- End of Forwarded Message",,2026-11-11 19:59:39
+rendered_email_screenshots/trec06_legit/trec06_legit_email_39.png,trec06_legit_email_39.png,trec06_legit,0,"Re: reading list wanted
 
 From: stassen@alc-ohio.alc.com
 
@@ -4170,7 +4165,7 @@ presentation of the necessity of a catastrophic model to account for geologic fe
 Anderson, J. Kerby & Harold G. Coffin. 1977. Fossils in focus. Zondervan Publishing House, Grand
 Rapids, Michigan. Part of a series intended especially for college and university students. Lays out both
 creation and evolution models and shows how the fossil record best fits the former. 95 pages. Bliss,
-Richard B., Gary E. Parker, & Duage T. Gish. 1980. Fossils: key to the present. Creation- Life Publishers,
+Richard B., Gary E. Parker, & Duage T. Gish. 1980. Fossils: key tothe present. Creation- Life Publishers,
 San Diego, California. An elementary introduction to fossils and to evolutionistic and creationistic
 interpretations of the fossil record. 81 pages. Bliss, Richard B., & Gary E. Parker. 1979. Origin of life:
 Evolution, creation. Creation-Life Publishers, San Diego, California. A well-written, well-illustrated, brief
@@ -4227,8 +4222,8 @@ for the development of the crust of the earth and the evidence of life contained
 considered are: rates of erosion, sediment deposition in the ocean, rate of sediment accumulation on the
 continents, rates of uplift of mountains, production of volcanic ejecta, growth rates of human
 populations, and time required for evolutionary organization of life. -- Chris Stassen (614) 366-
-9628 stassen@alc.com <><",
-trec06_legit_email_40.png,trec06_legit,0,"creation vs. evolution
+9628 stassen@alc.com <><",,2026-11-11 19:59:45
+rendered_email_screenshots/trec06_legit/trec06_legit_email_40.png,trec06_legit_email_40.png,trec06_legit,0,"creation vs. evolution
 
 From: Steven Patterson <chesepx@indigo2.gsu.edu>
 
@@ -4241,7 +4236,6 @@ Charles B. Thaxton, Walter L. Bradley, Roger L. Olsen.
 PUBLISHER: New York : Philosophical Library, 1984.
 
 The book mainly addresses the primary origin of life and is rather
-
 technical, being written by chemists. It also contains a large number of
 references, but | would only recommend this book for someone with a good
 background in chemistry i.e. at least one year of college chemistry,
@@ -4250,28 +4244,28 @@ though a layperson could read and understand the concepts if he or she
 were willing to really work hard.
 
 Hope this helps
-Steve",
-trec06_legit_email_41.png,trec06_legit,0,"Plan@ file server for a PC
+Steve",,2026-11-11 19:59:40
+rendered_email_screenshots/trec06_legit/trec06_legit_email_41.png,trec06_legit_email_41.png,trec06_legit,0,"Plan9 file server for a PC
 
 From: Sean Quinlan <sean@flamingo.Stanford.EDU>
 
-Has anyone ported the plan9 file server to a PC?
+Has anyone ported the plang file server to a PC?
 thanks
-sean quinlan",
-trec06_legit_email_42.png,trec06_legit,0,"Re: NEEDED: Bible Study Resource(s) on Creation vs. Evolution
+sean quinlan",,2026-11-11 19:59:40
+rendered_email_screenshots/trec06_legit/trec06_legit_email_42.png,trec06_legit_email_42.png,trec06_legit,0,"Re: NEEDED: Bible Study Resource(s) on Creation vs. Evolution
 
 From: cnews@umr.edu
 
 espiritu@cgi.com (Rex Espiritu) writes:
 
->I've been asked to lead an evening Bible Study a week from tonight on
+>lI've been asked to lead an evening Bible Study a week from tonight on
 >Tuesday, August 3, 1993 on the topic of Creation vs. Evolution. We're
 >doing a series on Apologetics (just scratching the surface) for the rest
 >of this summer.
 
 >
 
->| would greatly appreciate any pointers to resources which may be readily
+>I would greatly appreciate any pointers to resources which may be readily
 >available in time.
 
 >
@@ -4279,7 +4273,7 @@ espiritu@cgi.com (Rex Espiritu) writes:
 >[While | redirect arguments on this subject to talk.origins, | do
 >attempt to maintain lists of references, for purposes like this.
 
-Pan
+>
 
 >--clh]
 
@@ -4329,8 +4323,8 @@ have created, and counters them with Bibical as well as secular evidence
 which exposes the evolutionary theory as being impossible. This
 
 book contains many illustrations and references. It may be exactly what your
-looking for.",
-trec06_legit_email_43.png,trec06_legit,0,"scsi driver, small bits & pieces
+looking for.",,2026-11-11 19:59:42
+rendered_email_screenshots/trec06_legit/trec06_legit_email_43.png,trec06_legit_email_43.png,trec06_legit,0,"scsi driver, small bits & pieces
 
 From: forsyth@minster.york.ac.uk
 
@@ -4344,23 +4338,23 @@ used it much.
 if anyone would like it/them, please let me know.
 
 i've got a few minor changes that might be of interest:
-16550A support in devuart.c and hayes.c (seems to work).
+16550A support in devuart.c and hayes.c (Seems to work).
 changes to devvga.c, aux/vga and /lib/vgadb to
 give minimal support for (my) S3/911 card in
 1024x768 mode. it doesn't use the accelerator,
 and still needs tuning, but if anyone else wants
-to help fiddle with it, let me know.",
-trec06_legit_email_44.png,trec06_legit,0,"Re: NEEDED: Bible Study Resource(s) on Creation vs. Evolution
+to help fiddle with it, let me know.",,2026-11-11 19:59:44
+rendered_email_screenshots/trec06_legit/trec06_legit_email_44.png,trec06_legit_email_44.png,trec06_legit,0,"Re: NEEDED: Bible Study Resource(s) on Creation vs. Evolution
 
 From: huggins@quip.eecs.umich.edu
 
 In article espiritu@cgi.com (Rex Espiritu) writes: |I've been asked to lead an evening Bible Study a week
-from tonight on |Tuesday, August 3, 1993 on the topic of Creation vs. Evolution. We're [doing a series on
-Apologetics (just scratching the surface) for the rest |of this summer. | |I would greatly appreciate any
-pointers to resources which may be readily [available in time. Oops ... just a bit late, but others may be
+from tonight on |Tuesday, August 3, 1993 on the topic of Creation vs. Evolution. We're |doing a series on
+Apologetics (just scratching the surface) for the rest |of this summer. | || would greatly appreciate any
+pointers to resources which may be readily |available in time. Oops ... just a bit late, but others may be
 interested in this information. |[In addition to the references in the FAQ, the Journal of the American
-[Scientific Affiliation (a journal that explores issues at the |boundaries of science and Christianity) has had at
-least one issue |with articles from both viewpoints. The one | remember was in the |early 70's, but | think
+|Scientific Affiliation (a journal that explores issues at the |boundaries of science and Christianity) has had at
+least one issue |with articles from both viewpoints. The one | remember was in the Jearly 70's, but | think
 there have been more recent issues devoted to |this topic. --clh] Actually, there tends to be a continual
 stream of articles in the general area -- not so much creation vs. evolution, but recent articles | recall
 included critiques of Philip Johnson's book _Darwin_On_Trial_, discussions of flood geology, and other
@@ -4372,8 +4366,8 @@ extremes of the controversy who are apt to practice bad science, and that one mu
 claims in the field, regardless of which position they advocate. -- Jim Huggins, Univ. of Michigan
 huggins@eecs.umich.edu ""You cannot pray to a personal computer no matter how user-friendly it is.""
 
--- W. Bingham Hunter",
-trec06_legit_email_45.png,trec06_legit,0,"Re: NEEDED: Bible Study Resource(s) on Creation vs. Evolution
+-- W. Bingham Hunter",,2026-11-11 19:59:46
+rendered_email_screenshots/trec06_legit/trec06_legit_email_45.png,trec06_legit_email_45.png,trec06_legit,0,"Re: NEEDED: Bible Study Resource(s) on Creation vs. Evolution
 
 From: timi@mendel.berkeley.edu
 
@@ -4396,8 +4390,8 @@ is based on first-hand accounts and interviews.
 
 Regards,
 Tim Ikeda
-timi@mendel.berkeley.edu",
-trec06_legit_email_46.png,trec06_legit,0,"Plan 9 Mods?
+timi@mendel.berkeley.edu",,2026-11-11 19:59:46
+rendered_email_screenshots/trec06_legit/trec06_legit_email_46.png,trec06_legit_email_46.png,trec06_legit,0,"Plan 9 Mods?
 
 From: Jerry W Johnson <jwjohn@ecst.csuchico.edu>
 
@@ -4408,8 +4402,8 @@ have there been other modifications to plan9, besides that long
 list from Rob Pike & the ALEF changes from Phil Winterbottom, that
 have been released by AT&T? Specifically, for the compilers or mail?
 ALSO, can someone explain what is required for us to have our
-""point of contact"" changed, please? TIA, --Jerry",
-trec06_legit_email_47.png,trec06_legit,0,"Possible Mailing List Problems
+""point of contact"" changed, please? TIA, --Jerry",,2026-11-11 19:59:46
+rendered_email_screenshots/trec06_legit/trec06_legit_email_47.png,trec06_legit_email_47.png,trec06_legit,0,"Possible Mailing List Problems
 
 From: Dan Ehrlich <ehrlich@cse.psu.edu>
 
@@ -4417,15 +4411,15 @@ Hi, | am the postmaster here and Scott Schwartz reported to me that there may be
 mailing list. Please ignore this test message. -- Dan Ehrlich -- Dan Ehrlich - Systems Analyst - PSU
 Computer Science and Engineering ""Universities should be safe havens where ruthless examination of
 realities will not be distorted by the aim to please or inhibited by the risk of displeasure."" - Kingman
-Brewster",
-trec06_legit_email_48.png,trec06_legit,0,"ALEF Installation?
+Brewster",,2026-11-11 19:59:46
+rendered_email_screenshots/trec06_legit/trec06_legit_email_48.png,trec06_legit_email_48.png,trec06_legit,0,"ALEF Installation?
 
 From: Jerry W Johnson <jwjohn@ecst.csuchico.edu>
 
 Hi 9'ers,
 I've run into some problems installing the new ALEF files.
 
-To get this far, I:
+To get this far, |:
 Copied the old alef tree to /sys/src/alef.old.
 Installed the new tree into /sys/src/alef.
 Copied back fcall.h and the conversions, convM2S & convS2M.
@@ -4434,7 +4428,7 @@ Installed the new sparc mkfile and mksyslib.
 Made the dirs /$objtype/lib/alef where not done.
 Made the new compilers (kal,val,8al) by running the mkfiles
 in /sys/src/alef/k
-Iv
+lv
 /8
 using ""objtype=architecture mk"" and copying the resulting binary
 to /Sobjtype/bin.
@@ -4462,9 +4456,9 @@ mk: mk $objtype.install : exit status=rc 8039:mk 8041:error
 
 If, instead, ""mk installall"" is executed from /sys/src/alef,
 
-the compile lists errors ""ar: *.8 cannot open"" for:
+the compile lists errors ""ar: *8 cannot open"" for:
 
-/sys/src/alef/lib/lipbio,
+/sys/src/alef/lib/libbio,
 
 /sys/src/alef/lib/p9, & ( announce.|:69 WARNING parameter
 INT nf declared but not used )
@@ -4477,18 +4471,18 @@ ALSO,
 
 once the installation is complete, will the example code which
 came on the 2nd rev cdrom, (/sys/src/alef/test, /sys/src/alef/test/Y),
-all compile correctly?",
-trec06_legit_email_49.png,trec06_legit,0,"ALEF Installation (REPOST)
+all compile correctly?",,2026-11-11 19:59:48
+rendered_email_screenshots/trec06_legit/trec06_legit_email_49.png,trec06_legit_email_49.png,trec06_legit,0,"ALEF Installation (REPOST)
 
 From: Jerry W Johnson <jwjohn@ecst.csuchico.edu>
 
-| think this had some problems getting out. Sorry, if you got
+I think this had some problems getting out. Sorry, if you got
 it twice. --JJ
 
 Hi 9'ers,
 I've run into some problems installing the new ALEF files.
 
-To get this far, I:
+To get this far, |:
 Copied the old alef tree to /sys/src/alef.old.
 Installed the new tree into /sys/src/alef.
 Copied back fcall.h and the conversions, convM2S & convS2M.
@@ -4497,21 +4491,21 @@ Installed the new sparc mkfile and mksyslib.
 Made the dirs /$objtype/lib/alef where not done.
 Made the new compilers (kal,val,8al) by running the mkfiles
 in /sys/src/alef/k
-Iv
-/8
+lv
+[8
 using ""objtype=architecture mk"" and copying the resulting binary
-to /Sobjtype/bin.
+to /$objtype/bin.
 
-Then from /sys/src/alef | ran ""objtype=architecture mk install"";
+Then from /sys/src/alef | ran “objtype=architecture mk install"";
 all the libraries (/$objtype/lib/alef/*.a) seem to compile fine,
 (assuming none generated for the 68020 & only libA.a, libbio.a for
 the 386), but $objtype=mips generates the error:
 
 val -w div64.|
 
-div64.1"":12: syntax error near symbol ‘lint’
+div64.|"":12: syntax error near symbol ‘lint’
 
-mk: val -w div64.| : exit status=rc 8989:val 8991 errors
+mk: val -w div64.I : exit status=rc 8989:val 8991 errors
 
 mk: for (iin... : exit status:=rc 8191:mk 8999:error
 
@@ -4525,9 +4519,9 @@ mk: mk $objtype.install : exit status=rc 8039:mk 8041:error
 
 If, instead, ""mk installall"" is executed from /sys/src/alef,
 
-the compile lists errors ""ar: *.8 cannot open"" for:
+the compile lists errors ""ar: *8 cannot open"" for:
 
-/sys/src/alef/lib/lipbio,
+/sys/src/alef/lib/libbio,
 
 /sys/src/alef/lib/p9, & ( announce.|:69 WARNING parameter
 INT nf declared but not used )
@@ -4540,8 +4534,8 @@ ALSO,
 
 once the installation is complete, will the example code which
 came on the 2nd rev cdrom, (/sys/src/alef/test, /sys/src/alef/test/Y),
-all compile correctly?",
-trec06_phishing_email_0.png,trec06_phishing,1,"new Catholic mailing list now up and running
+all compile correctly?",,2026-11-11 19:59:48
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_0.png,trec06_phishing_email_0.png,trec06_phishing,1,"new Catholic mailing list now up and running
 
 From: jhpb@sarto.budd-lake.nj.us
 
@@ -4593,7 +4587,7 @@ in. (It doesn't have anything in it at the moment except some UNIX
 software useful for such endeavors.) Sorry, guys, but nothing that's
 copyrighted goes into it!
 
-- lam planning on setting up a quotation server that can email
+- 1am planning on setting up a quotation server that can email
 periodic interesting citations from the principal sources of Catholic
 doctrine. (Not done yet.)
 
@@ -4608,8 +4602,8 @@ American Catholic material. In my opinion...)
 If you have any questions, would like to subscribe, etc., send email
 to
 
-catholic@sarto.budd-lake.nj.us",
-trec06_phishing_email_1.png,trec06_phishing,1,"Greetings
+catholic@sarto.budd-lake.nj.us",,
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_1.png,trec06_phishing_email_1.png,trec06_phishing,1,"Greetings
 
 From: Scott Schwartz <schwartz@groucho.cs.psu.edu>
 
@@ -4617,17 +4611,17 @@ Greetings all. This is to verify your subscription to the plan9-fans list. The c
 
 signed up on the first day) are (in order) ""Scott Schwartz"" ""Chuck Rendleman"" ""Michael John
 Haertel"" ""Neil Weisenfeld"" ""Ozan S. Yigit"" ""Sanjeev Y. Dharap"" Eric Krohn ""DaviD W.
-Sanderson"" ""Dennis Colarelli"" Tony Sloane BobGibson Chris Siebenmann ""Roger Peppe""
+Sanderson"" ""Dennis Colarelli"" Tony Sloane Bob Gibson Chris Siebenmann ""Roger Peppe""
 ""Chet Ramey"" ""Tim Tsai"" Noel Hunt Due to rdist and local politics, it takes a day before changes to
 
-the list take effect.",
-trec06_phishing_email_2.png,trec06_phishing,1,"who wants to start?
+the list take effect.",,
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_2.png,trec06_phishing_email_2.png,trec06_phishing,1,"who wants to start?
 
 From: Scott Schwartz <schwartz@groucho.cs.psu.edu>
 
 It's quiet. Too quiet. Well, how about a straw poll then.
-How many have plan9 running yet?",
-trec06_phishing_email_3.png,trec06_phishing,1,"Re: who wants to start?
+How many have plang running yet?",,
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_3.png,trec06_phishing_email_3.png,trec06_phishing,1,"Re: who wants to start?
 
 From: mike@majestix.cs.uoregon.edu
 
@@ -4641,8 +4635,8 @@ don't work yet. | have a TODO list a light-year long. | expect many
 of my problems would go away if we had the resources to dedicate a CPU
 server (to run daemons) and a file server.
 
-I'm interested in hearing how others are doing...",
-trec06_phishing_email_4.png,trec06_phishing,1,"mass ack
+I'm interested in hearing how others are doing...",,
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_4.png,trec06_phishing_email_4.png,trec06_phishing,1,"mass ack
 
 From: Scott Schwartz <schwartz@groucho.cs.psu.edu>
 
@@ -4653,16 +4647,16 @@ down a bit. (There are 75 people on the list right now.)
 One person has suggested that the name of the list be changed to
 9fans. There's already an alias for that, in any event.
 
-The list is not being archived (that | Know of). If someone wants to
+The list is not being archived (that | know of). If someone wants to
 do it, that would be great.
 
--- Scott",
-trec06_phishing_email_5.png,trec06_phishing,1,"Plan 9 beginner's questions
+-- Scott",,
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_5.png,trec06_phishing_email_5.png,trec06_phishing,1,"Plan 9 beginner's questions
 
-From: vhs@qb.rhein-main.de
+From: vhs@qpb.rhein-main.de
 
 Maybe you can answer a few beginner's questions | have:
-What is the equivalent of 'shutdown’, ‘halt’, 'sync' in Plang, i.e.
+What is the equivalent of ‘shutdown’, ‘halt’, 'sync' in Plang, i.e.
 how to safely shut the system down
 What are the equivalents of *C, *Q and “S under 8.5, i.e.
 how to cancel a process without deleting it's
@@ -4677,10 +4671,10 @@ Volker Herminghaus-Shirai (vns@qb.rhein-main.de)
 
 Computer industry: Industry in which the number of units sold of any
 given product is inversely proportional to its technical excellence.
-See also: MS-DOS, MS-Windows, PC, X, QWERTY, 80x86, TrueType",
-trec06_phishing_email_6.png,trec06_phishing,1,"Re: Plan 9 beginner's questions
+See also: MS-DOS, MS-Windows, PC, X, QWERTY, 80x86, TrueType",,
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_6.png,trec06_phishing_email_6.png,trec06_phishing,1,"Re: Plan 9 beginner's questions
 
-From: matty@cs.su.oz.au
+From: matty@cs.su.0Z.au
 
 To shut down a terminal ctrl-t ctrl-t r. This should be fine if it's
 
@@ -4696,12 +4690,12 @@ Output is blocked while it can't be displayed, i.e., while it's off
 
 the bottom of the page.
 
-Matty.",
-trec06_phishing_email_7.png,trec06_phishing,1,"Plan 9 utilities...
+Matty.",,
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_7.png,trec06_phishing_email_7.png,trec06_phishing,1,"Plan 9 utilities...
 
-From: matty@cs.su.oz.au
+From: matty@cs.su.0Z.au
 
-Three things for your general edificationfamusement:
+Three things for your general edification/jamusement:
 
 For those interested, there is a program called 9x in
 ftp.cs.su.oz.au:/matty which provides a remote graphical connection
@@ -4732,14 +4726,14 @@ It's still a beta version but that's probably because I'm lazy and
 haven't done a last touch up more than anything else. I've not
 
 used xterm in any major fashion since last October or so and having
-the Plan 9 “look and feel’ under Unix is a big win (plug, plug!).
+the Plan 9 ‘look and feel’ under Unix is a big win (plug, plug!).
 
 The current version in the directory is 1.1.1 but 1.2 should be there
 
 in the next few days.
 
-Matty.",
-trec06_phishing_email_8.png,trec06_phishing,1,"Plan 9 beginner's questions
+Matty.",,
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_8.png,trec06_phishing_email_8.png,trec06_phishing,1,"Plan 9 beginner's questions
 
 From: mike@majestix.cs.uoregon.edu
 
@@ -4751,18 +4745,19 @@ there is no need to sync.
 The equivalent of “C is delete. (Long ago, Delete was
 the standard interrupt character on Unix too, but
 Berkeley, in their infinite wisdom, decided to switch
+
 to *C.)
 
-The equivalent of “S and “Q is the scroll/noscroll
+The equivalent of *S and “Q is the scroll/noscroll
 item on the middle mouse button menu, together with
-the scrollbar.",
-trec06_phishing_email_9.png,trec06_phishing,1,"Dumb, fundamental question.
+the scrollbar.",,
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_9.png,trec06_phishing_email_9.png,trec06_phishing,1,"Dumb, fundamental question.
 
 From: geoff@minnie.cs.su.OZ.AU
 
 Is Plan 9 primarily intended as an operating system to do research on, or into?
 
-Many of the postings on comp.os.research which run 'Plan 9 should have
+Many of the postings on comp.os.research which run ‘Plan 9 should have
 interesting feature x' seem to cast (recast?) Plan 9 as a operating system to
 which exists for the purpose of investigating certain operating system ideas.
 The impression | have from the Plan 9 literature so far seems to indicate that
@@ -4772,10 +4767,10 @@ operating system design, namespaces and so on. I'm not asking whether Plan 9
 is a pure research system or a pure production system - just which is considered
 more important.
 
-Geoff.",
-trec06_phishing_email_10.png,trec06_phishing,1,"Re: Dumb, fundamental question.
-
+Geoff.",,
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_10.png,trec06_phishing_email_10.png,trec06_phishing,1,"Re: Dumb, fundamental question.
 From: Gary Capell <gary@cs.su.0Z.AU>
+
 Your impression is the same as my impression. It's a very usable system
 by Bell Labs for Bell Labs to play on/create new stuff on.
 
@@ -4785,17 +4780,17 @@ go into any OS (they made all sorts of suggestions for/criticisms of QNX too).
 Probably few of them actually USE plang.
 You can see what strong forces there are for an OS to accrete ""features"".
 
-Speaking of feeping creaturism, are there plans to add a ""find"" command?",
-trec06_phishing_email_11.png,trec06_phishing,1,"Fonts and unicode distribution...
+Speaking of feeping creaturism, are there plans to add a ""find"" command?",,
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_11.png,trec06_phishing_email_11.png,trec06_phishing,1,"Fonts and unicode distribution...
 
-From: matty@cs.su.oz.au
+From: matty@cs.su.0Z.au
 
-From: rob@research.att.com Date: Sat, 24 Apr 1993 13:00:48 -0400 _ To: 9fans@cs.psu.edu
-Message-Id: <93Apr24.130215edt.293067@psuvax1.cs.psu.edu> In the good old days, copyright
-notices meant something. The latest instance of their devaluation is Matty's posting —_ in a public place of
-a number of copyrighted fonts from _ the Plan 9 distribution (itself a violation of the copyright) without
+From: rob@research.att.com Date: Sat, 24 Apr 1993 13:00:48 -0400 To: 9fans@cs.psu.edu
+Message-ld: <93Apr24.130215edt.293067@psuvax1.cs.psu.edu> In the good old days, copyright
+notices meant something. The latest instance of their devaluation is Matty's posting in a public place of
+a number of copyrighted fonts from the Plan 9 distribution (itself a violation of the copyright) without
 reproducing the notice (which would be our request to anyone who asked to copy them). For those
-interested in maintaining the principle of letting artists maintain ownership of their work, the fonts Matty
+interested in maintaining the principle of _ letting artists maintain ownership of their work, the fonts Matty
 distributed should be stored with the _ following notice: The fonts in this directory are based on fonts
 Copyright (c) 1985 Bigelow & Holmes Inc. This text is (with a substitution for (c)) the contents of
 /lib/font/bit/(pelm,lucm)/NOTICE -rob Rob is of course right (he wins this week's award for the Most
@@ -4803,8 +4798,8 @@ Public Slap on the Wrist). Ftp.cs.su.oz.au:/matty/unicode will be unavailable un
 record | do believe in copyright, the oversight has arisen from the ad hoc way this distribution has grown
 rather than any malicious or subversive intent on my part to deny authorship of the fonts.
 
-Matty.",
-trec06_phishing_email_12.png,trec06_phishing,1,"a plug for 9term
+Matty.",,
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_12.png,trec06_phishing_email_12.png,trec06_phishing,1,"a plug for 9term
 
 From: arnold@cc.gatech.edu
 
@@ -4818,16 +4813,15 @@ Georgia Tech, Atlanta, GA 30332-0280 Phone: +1 404 894 9214
 
 E-mail: arnold.robbins@cc.gatech.edu FAX: +1404 853 9378
 
-""He's not dead, he's metaphysically challenged."" - Mystery Science Theatre 3000",
-trec06_phishing_email_13.png,trec06_phishing,1,"9term...
+""He's not dead, he's metaphysically challenged."" - Mystery Science Theatre 3000",,
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_13.png,trec06_phishing_email_13.png,trec06_phishing,1,"9term...
 
-From: matty@cs.su.oz.au
+From: matty@cs.su.0Z.au
 
 Okay, I've got some of the distribution problems sorted out.
-
 9term, libXg, libframe, and libtext are now again available from
-ftp.cs.su.oz.au:/matty/unicode. | am waiting for a decision on the
-font archive so the fonts are unavailable at the moment. 9term will
+ftp.cs.su.oZ.au:/matty/unicode. | am waiting for a decision on the
+font archive so the fonts are unavailable at the moment. Qterm will
 function with normal X fonts, however.
 
 9x needs some tidying up so that should be back soon as well.
@@ -4836,20 +4830,20 @@ those who've tried to ftp in the last half a week or so and have been
 
 unable to.
 
-Matty.",
-trec06_phishing_email_14.png,trec06_phishing,1,"Re: Fonts and unicode distribution...
+Matty.",,2026-11-11 19:59:49
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_14.png,trec06_phishing_email_14.png,trec06_phishing,1,"Re: Fonts and unicode distribution...
 
 From: netapp!ghoti!byron@netcom.com
 
 | don't mean to stir a hornets nest here, but it's my impression that
 there's no copyright protection for screen-bitmap fonts. Of course,
 that doesn't mean that omitting a distribution notice in this case is
-the Right Thing to do...",
-trec06_phishing_email_15.png,trec06_phishing,1,"Re: Fonts and unicode distribution...
+the Right Thing to do...",,2026-11-11 19:59:49
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_15.png,trec06_phishing_email_15.png,trec06_phishing,1,"Re: Fonts and unicode distribution...
 
-From: matty@cs.su.oz.au
+From: matty@cs.su.o0Z.au
 
-Date: Tue, 27 Apr 93 09:59:21PDT From: netapp!ghoti!byron@netcom.com (Byron Rakitzis) Message-
+Date: Tue, 27 Apr 93 09:59:21PDT From: netapp!ghoti!byron@netcom.com (Byron Rakitzis) | Message-
 Id: <9304271659.AA07648@ghoti.netapp.com> To: 9fans@cs.psu.edu, matty@cs.su.oz.au Subject: Re:
 Fonts and unicode distribution... | don't mean to stir a hornets nest here, but it's my impression that
 there's no copyright protection for screen-bitmap fonts. Of course, that doesn't mean that omitting a
@@ -4858,23 +4852,23 @@ the USA -- screen-bitmap fonts are not protected -- but in Great Britian it's a 
 of their status in Australia. Adding a NOTICE is definitely a Good Idea(TM) and | have written to Mr Charles A.
 Bigelow asking for permission to distribute the fonts. Matty. -- James Matthew Farrow
 
-| ""For in that moment | beheld the ruin matty@cs.su.0OZ.AU | of my existence. My world fell dark
+| ""For in that moment | beheld the ruin matty@cs.su.OZ.AU | of my existence. My world fell dark
 Basser Department of Computer Science | and my life became a shallow dream. Sydney University - FAX:
-+61 2 692 3838 | ‘Odi et amo. Excrucior.'"" - Tlindah",
-trec06_phishing_email_16.png,trec06_phishing,1,"Re: Fonts and unicode distribution...
++61 2 692 3838 | ‘Odi et amo. Excrucior.'"" - Tlindah",,2026-11-11 19:59:50
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_16.png,trec06_phishing_email_16.png,trec06_phishing,1,"Re: Fonts and unicode distribution...
 
 From: ""Ozan S. Yigit"" <oz@sis.yorku.ca>
 
 > | was under the impression that this is the case in the USA --
 > screen-bitmap fonts are not protected ...
 
-It is known as the exclusion of utilitarian works.
+It is Known as the exclusion of utilitarian works.
 In US, typefaces are considered utilitarian works, so they
 
 cannot be protected by copyright.
 
-oz",
-trec06_phishing_email_17.png,trec06_phishing,1,"Re: Fonts and unicode distribution...
+oz",,2026-11-11 19:59:49
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_17.png,trec06_phishing_email_17.png,trec06_phishing,1,"Re: Fonts and unicode distribution...
 
 From: mike@majestix.cs.uoregon.edu
 
@@ -4890,7 +4884,7 @@ fonts are:
 
 (1) How did Bell Labs derive the bitmap data? If they digitized
 the fonts themselves from, say, blown up photographs, they
-are on safe legal ground. Likewise if they constructed the
+are on Safe legal ground. Likewise if they constructed the
 fonts by hand with a bitmap editor. (Given that these fonts
 look awfully reminescent of the ""blit"" fonts, | suspect that
 they date to the early 1980's and were constructed by hand.)
@@ -4899,8 +4893,8 @@ they date to the early 1980's and were constructed by hand.)
 files?
 
 The answer to #2 seems to be ""Fine, so long as the copyright
-notice is preserved on all copies.""",
-trec06_phishing_email_18.png,trec06_phishing,1,"Quadra Utilities
+notice is preserved on all copies.""",,2026-11-11 19:59:50
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_18.png,trec06_phishing_email_18.png,trec06_phishing,1,"Quadra Utilities
 
 From: Beth Corbo <corbo@lclark.edu>
 
@@ -4911,8 +4905,8 @@ on SCSI from Micronet.
 
 Enjoy!
 
-Beth Corbo (corbo@lclark.edu)",
-trec06_phishing_email_19.png,trec06_phishing,1,"Ported U*ix programs to Plan 9?
+Beth Corbo (corbo@lclark.edu)",,2026-11-11 19:59:50
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_19.png,trec06_phishing_email_19.png,trec06_phishing,1,"Ported U*ix programs to Plan 9?
 
 From: Magnus Homann <dOasta@dtek.chalmers.se>
 
@@ -4932,23 +4926,23 @@ Regards,
 
 Homann
 Magnus Homann ""They don't call it the net of a
-dOasta@dtek.chalmers.se million lies for nothing"" -- Vinge (?)",
-trec06_phishing_email_20.png,trec06_phishing,1,"Re: Ported U*ix programs to Plan 9?
+dOasta@dtek.chalmers.se million lies for nothing"" -- Vinge (?)",,2026-11-11 19:59:51
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_20.png,trec06_phishing_email_20.png,trec06_phishing,1,"Re: Ported U*ix programs to Plan 9?
 
 From: Mike Haertel <mike@cs.uoregon.edu>
 
-The ape library and the associated ""pec"" compiler have worked very well for me for porting a variety of unix
+The ape library and the associated ""pcc"" compiler have worked very well for me for porting a variety of unix
 programs to plan 9. The most annoying aspect of the whole process is not porting C code, but porting
 makefiles and the associated shell scripts. To this end, | have ported the almquist /bin/sh from netbsd, and
 gnu make. Using these tools | have been able to configure and build a variety* of gnu software right out of
 the box. I've also ported the pbmplus suite of bitmap tools, although that required some small source
 changes. In the process I've found a few bugs in the ape library; most notably the wait() function does not
-return exit status correctly. What I think happened is the kernel recently started putting the string "":"" into
+return exit status correctly. What! think happened is the kernel recently started putting the string "":"" into
 the exit status, and the ape library has not been updated to know this. | eventually (september or october)
 will make all this stuff available to others, but right now my time is limited. Mike * sorry, no emacs. :-) It
 can be done--in 1991, out of sheer masochism, and to annoy rob, | ported gnu emacs to plan 9. Fortunately,
-it has been lost to the mists of time...",
-trec06_phishing_email_21.png,trec06_phishing,1,"sfio vs bio
+it has been lost to the mists of time...",,2026-11-11 19:59:52
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_21.png,trec06_phishing_email_21.png,trec06_phishing,1,"sfio vs bio
 
 From: Icarus Sparry <I.Sparry@ss1.bath.ac.uk>
 
@@ -4958,7 +4952,7 @@ stdio.
 
 The paper 'How to use the Plan 9 C Compiler’ tells us ""Bio is a small
 and very efficient, particularly for buffer-at-a-time or line-at-a-time
-1/O. Even for character-at-a-time |/O, however, it is significantly
+1/O. Even for character-at-a-time I/O, however, it is significantly
 faster than the Standard |/O library""
 
 Before | do it, has anyone else measured these two on similar hardware
@@ -4971,14 +4965,14 @@ streams, and can make use of operating system facilities like memory
 
 mapped files.
 
-Icarus",
-trec06_phishing_email_22.png,trec06_phishing,1,"Re: Ported U*ix programs to Plan 9?
+Icarus",,2026-11-11 19:59:52
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_22.png,trec06_phishing_email_22.png,trec06_phishing,1,"Re: Ported U*ix programs to Plan 9?
 
 From: rsalz@osf.org
 
 Er, rather than porting existing stuff (GNU, etc) shouldn't
-you be writing NEW programs with the plan9 model?",
-trec06_phishing_email_23.png,trec06_phishing,1,"Re: Ported U*ix programs to Plan 9?
+you be writing NEW programs with the plan9 model?",,2026-11-11 19:59:52
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_23.png,trec06_phishing_email_23.png,trec06_phishing,1,"Re: Ported U*ix programs to Plan 9?
 
 From: Roger Peppe <rog@ohm.york.ac.uk>
 > Er, rather than porting existing stuff (GNU, etc) shouldn't
@@ -4990,8 +4984,8 @@ before using it, however nice it might be... :-)
 IMHO, one of the nice things about plan 9 is how easily
 most ‘naive’ unix programs port to it.
 
-rog.",
-trec06_phishing_email_24.png,trec06_phishing,1,"Re: Ported U*ix programs to Plan 9?
+rog.",,2026-11-11 19:59:53
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_24.png,trec06_phishing_email_24.png,trec06_phishing,1,"Re: Ported U*ix programs to Plan 9?
 
 From: mike@majestix.cs.uoregon.edu
 
@@ -5003,8 +4997,8 @@ different is in window system software.
 
 There's a large amount of unix software that fits plan 9 just
 fine, and it would be awfully stupid to reinvent wheels when
-there's genuinely new things to work on instead...",
-trec06_phishing_email_25.png,trec06_phishing,1,"Re: sfio vs bio
+there's genuinely new things to work on instead...",,2026-11-11 19:59:53
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_25.png,trec06_phishing_email_25.png,trec06_phishing,1,"Re: sfio vs bio
 
 From: mike@majestix.cs.uoregon.edu
 
@@ -5014,8 +5008,8 @@ From: mike@majestix.cs.uoregon.edu
 
 Sfio is also 7000 (10000 if you count stdio compatibility) lines of
 code, whereas bio is about 700. Sfio is not 10 times faster or 10
-times more useful. You're comparing apples to kumquats.",
-trec06_phishing_email_26.png,trec06_phishing,1,"oops
+times more useful. You're comparing apples to kumquats.",,2026-11-11 19:59:54
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_26.png,trec06_phishing_email_26.png,trec06_phishing,1,"oops
 
 From: mike@majestix.cs.uoregon.edu
 
@@ -5028,8 +5022,8 @@ Unthinkingly, | wrote:
 and produce standard output. The same is true in Plan 9. So when
 | said the plan 9 model is mostly the same, | was thinking of how
 you run programs, not how you write them. The incompatibilities
-are a bit more dramatic from a programmer's point of view.",
-trec06_phishing_email_27.png,trec06_phishing,1,"Re: Ported U*ix programs to Plan 9?
+are a bit more dramatic from a programmer's point of view.",,2026-11-11 19:59:54
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_27.png,trec06_phishing_email_27.png,trec06_phishing,1,"Re: Ported U*ix programs to Plan 9?
 
 From: forsyth@minster.york.ac.uk
 
@@ -5051,16 +5045,15 @@ hard to use that people don't bother. by contrast, in Plan 9
 
 they are used almost casually, and to good effect.
 
->>| should clarify this: In Unix, most programs take standard input
+>>I should clarify this: In Unix, most programs take standard input
 >> and produce standard output. The same is true in Plan 9. So when
 
 a Plan 9 program can also make things visible in a name space,
 
 to allow them to be manipulated by both new and existing commands.
 that possibility can dramatically change the design of a program or
-system of programs.",
-trec06_phishing_email_28.png,trec06_phishing,1,"Re: porting unix progs to plan9
-
+system of programs.",,2026-11-11 19:59:55
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_28.png,trec06_phishing_email_28.png,trec06_phishing,1,"Re: porting unix progs to plan9
 From: Gary Capell <gary@cs.su.0Z.AU>
 
 1. I'm afraid of losing the nice feel of a small number of good tools if
@@ -5076,8 +5069,8 @@ on a news reading file system, which will hopefully fit in nicely with
 other plan 9 tools, especially help(1).
 
 P.S. Help(1) is way cool. Try it for an hour and you won't go back. And
-| hear rumours of a successor called acme which should be even better.",
-trec06_phishing_email_29.png,trec06_phishing,1,"Re: porting unix progs to plan9
+| hear rumours of a successor called acme which should be even better.",,2026-11-11 19:59:55
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_29.png,trec06_phishing_email_29.png,trec06_phishing,1,"Re: porting unix progs to plan9
 
 From: ""Ozan S. Yigit"" <oz@sis.yorku.ca>
 
@@ -5092,8 +5085,8 @@ elegant.
 There needs to be a better way to do news, both on an average un*x and
 on plan 9.
 
-oz",
-trec06_phishing_email_30.png,trec06_phishing,1,"libXg and caps lock on Sun type V keyboard under openwindows
+oz",,2026-11-11 19:59:55
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_30.png,trec06_phishing_email_30.png,trec06_phishing,1,"libXg and caps lock on Sun type V keyboard under openwindows
 
 From: pete@minster.york.ac.uk
 
@@ -5115,8 +5108,8 @@ pete
 
 Peter Fenelon - Research Associate - High Integrity Systems Engineering Group,
 Dept. of Computer Science, University of York, York, YO1 5DD (+44/0)904 433388
-pete@minster.york.ac.uk ‘Today keeps slipping by me, it leaves no aftertaste.’",
-trec06_phishing_email_31.png,trec06_phishing,1,"Re: libXg and caps lock on Sun type V keyboard under openwindows
+pete@minster.york.ac.uk ‘Today keeps slipping by me, it leaves no aftertaste.'",,2026-11-11 19:59:56
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_31.png,trec06_phishing_email_31.png,trec06_phishing,1,"Re: libXg and caps lock on Sun type V keyboard under openwindows
 
 From: Scott Schwartz <schwartz@groucho.cse.psu.edu>
 
@@ -5131,8 +5124,8 @@ It doesn't show up here, running MIT X11.
 In terms of shouting, if you use MODULA-3, encrusted as it is with
 
 upper case keywords, caps-lock is about the only alternative (and a
-poor one at that) to a context sensitive editor like emacs.",
-trec06_phishing_email_32.png,trec06_phishing,1,"Re: libXg and caps lock on Sun type V keyboard under openwindows
+poor one at that) to a context sensitive editor like emacs.",,2026-11-11 19:59:56
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_32.png,trec06_phishing_email_32.png,trec06_phishing,1,"Re: libXg and caps lock on Sun type V keyboard under openwindows
 
 From: pete@minster.york.ac.uk
 
@@ -5160,7 +5153,7 @@ feature"". Sigh.
 Hmmm.... | think if | was using sam to edit a language which required upper
 case I'd knock together some sort of filter to do the capitalisation and
 
-pipe the file through it before a write... that's what the ‘|' command is
+pipe the file through it before a write... that's what the '|' command is
 
 there for! Couple of extra keystrokes perhaps (maybe only one if you're
 using the keyboard extensions to sam) and it avoids the dreaded emacs...
@@ -5169,8 +5162,8 @@ pete
 
 Peter Fenelon - Research Associate - High Integrity Systems Engineering Group,
 Dept. of Computer Science, University of York, York, YO1 5DD +44 (0)904 433388
-EMAIL: pete@minster.york.ac.uk ‘There's no room for enigmas in built-up areas'",
-trec06_phishing_email_33.png,trec06_phishing,1,"Plan 9 running a X server ?
+EMAIL: pete@minster.york.ac.uk ‘There's no room for enigmas in built-up areas’",,2026-11-11 19:59:58
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_33.png,trec06_phishing_email_33.png,trec06_phishing,1,"Plan 9 running a X server ?
 
 From: Thomas Nau <thomas.nau@medizin.uni-ulm.de>
 
@@ -5180,7 +5173,7 @@ for connectivity to out UNIX boxes ?
 
 Thomas
 
-RARER EAEER EEA S SEER EE EN EASE REESE SERRE EERE EEE EEE EE
+FESO CIO OE OO SOO GIO IOC o oR ton ie tor
 
 Thomas Nau
 (Thomas.Nau@medizin.uni-ulm.de, nau@medizin.uni-ulm.de)
@@ -5188,8 +5181,8 @@ Departement of Anaesthesia, University of Ulm, Germany
 
 think about 42 and DONT PANIC
 
-RARER EAEER EEA S SEER EE EN EASE REESE SERRE EERE EEE EEE EE",
-trec06_phishing_email_34.png,trec06_phishing,1,"Term to CPU Server?
+STRACK I TIA FRI IR FOR IIE SFR RAO TE OR RO",,2026-11-11 19:59:57
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_34.png,trec06_phishing_email_34.png,trec06_phishing,1,"Term to CPU Server?
 
 From: Jerry W Johnson <jwjohn@ecst.csuchico.edu>
 
@@ -5202,8 +5195,8 @@ other than changing the bootf, fs and auth variables in /lib/ndb/local
 and loading 9sscpu? The system is up and running as term and fs, but
 what more is required to change the term to a cpu server? As well as
 detail what is required to then make this machine the authentication
-server, please? Thanks in advance, --Jerry",
-trec06_phishing_email_35.png,trec06_phishing,1,"Obtaining Plan 9 as an individual
+server, please? Thanks in advance, --Jerry",,2026-11-11 19:59:58
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_35.png,trec06_phishing_email_35.png,trec06_phishing,1,"Obtaining Plan 9 as an individual
 
 From: Tim.Goodwin@pipex.net
 Does anyone know what my chances of obtaining Plan 9 are as an
@@ -5212,8 +5205,8 @@ individual? Would it be worth writing to Bell Labs?
 Failing that, maybe I'll have to find a university who'd take me ona
 as a (very) part time assistant OS hacker...
 
-Tim.",
-trec06_phishing_email_36.png,trec06_phishing,1,"Re: Obtaining Plan 9 as an individual
+Tim.",,2026-11-11 19:59:58
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_36.png,trec06_phishing_email_36.png,trec06_phishing,1,"Re: Obtaining Plan 9 as an individual
 
 From: John Mackin <john@civil.su.oz.au>
 
@@ -5230,8 +5223,8 @@ available publically.
 Therefore, | would strongly urge you to write.
 
 OK,
-John.",
-trec06_phishing_email_37.png,trec06_phishing,1,"plan 9 platforms
+John.",,2026-11-11 19:59:58
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_37.png,trec06_phishing_email_37.png,trec06_phishing,1,"plan 9 platforms
 
 From: Arnold Robbins <arnold@cc.gatech.edu>
 
@@ -5241,19 +5234,19 @@ Is that port in progress, or was it never done? Just curious.
 
 Thanks,
 
-Arnold",
-trec06_phishing_email_38.png,trec06_phishing,1,"forwarded mail from <plan.9@research.att.com>
+Arnold",,2026-11-11 19:59:59
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_38.png,trec06_phishing_email_38.png,trec06_phishing,1,"forwarded mail from <plan.9@research.att.com>
 
 From: Scott Schwartz <schwartz@groucho.cse.psu.edu>
 
 This was addressed to 9fans-owner, but was probably intended for the whole list. ------- Forwarded
 Message Return-Path: psuvax1.cse.psu.edu!research.att.com!plan.9 Received: from psuvax1.cse.psu.edu
 ((130.203.2.4]) by groucho.cse.psu.edu with SMTP id <2538>; Mon, 26 Jul 1993 10:32:50 -0400 Received:
-from research.att.com ({192.20.225.2]) by psuvax1.cse.psu.edu with SMTP id <292801>; Mon, 26 Jul 1993
+from research.att.com ([192.20.225.2]) by psuvax1.cse.psu.edu with SMTP id <292801>; Mon, 26 Jul 1993
 10:33:36 -0400 From: plan.9@research.att.com Date: Mon, 26 Jul 1993 10:30:01-0400 To: 9fans-
 owner@cse.psu.edu Message-Id: <93Jul26.103336edt.292801@psuvax1.cse.psu.edu> >> From
 cse.psu.edu!9fans-owner Mon Jul 26 08:11:55 EDT 1993 >> Received: by inet.att.com; Mon Jul 26 08:11
-EDT 1993 >> Received: from relay.pipex.net ((158.43.128.1]) by psuvax1.cse.psu.edu with SMTP id
+EDT 1993 >> Received: from relay.pipex.net ({158.43.128.1]) by psuvax1.cse.psu.edu with SMTP id
 <292433>; Mon, 26 Jul 1993 08:04:41 -0400 >> Received: from pipex.net by relay.pipex.net with SMTP
 (PP) >> id <28301-0@relay.pipex.net>; Mon, 26 Jul 1993 13:03:56 +0100 >> To: 9fans@cse.psu.edu
 >> From: Tim.Goodwin@pipex.net >> Subject: Obtaining Plan 9 as an individual >> Date: Mon, 26 Jul
@@ -5262,8 +5255,8 @@ know what my chances of obtaining Plan 9 are as an >> individual? Would it be wo
 >> >> Failing that, maybe I'll have to find a university who'd take me on a >> as a (very) part time assistant
 OS hacker... >> >> Tim. it might become possible for individuals to acquire the system. steps are being
 taken in that direction. the decision depends on various factors that are not influencable by outside
-campaigns and there is no promise of a successful conclusion, however. ------- End of Forwarded Message",
-trec06_phishing_email_39.png,trec06_phishing,1,"Re: reading list wanted
+campaigns and there is no promise of a successful conclusion, however. ------- End of Forwarded Message",,2026-11-11 20:00:00
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_39.png,trec06_phishing_email_39.png,trec06_phishing,1,"Re: reading list wanted
 
 From: stassen@alc-ohio.alc.com
 
@@ -5288,7 +5281,7 @@ presentation of the necessity of a catastrophic model to account for geologic fe
 Anderson, J. Kerby & Harold G. Coffin. 1977. Fossils in focus. Zondervan Publishing House, Grand
 Rapids, Michigan. Part of a series intended especially for college and university students. Lays out both
 creation and evolution models and shows how the fossil record best fits the former. 95 pages. Bliss,
-Richard B., Gary E. Parker, & Duage T. Gish. 1980. Fossils: key to the present. Creation- Life Publishers,
+Richard B., Gary E. Parker, & Duage T. Gish. 1980. Fossils: key tothe present. Creation- Life Publishers,
 San Diego, California. An elementary introduction to fossils and to evolutionistic and creationistic
 interpretations of the fossil record. 81 pages. Bliss, Richard B., & Gary E. Parker. 1979. Origin of life:
 Evolution, creation. Creation-Life Publishers, San Diego, California. A well-written, well-illustrated, brief
@@ -5345,8 +5338,8 @@ for the development of the crust of the earth and the evidence of life contained
 considered are: rates of erosion, sediment deposition in the ocean, rate of sediment accumulation on the
 continents, rates of uplift of mountains, production of volcanic ejecta, growth rates of human
 populations, and time required for evolutionary organization of life. -- Chris Stassen (614) 366-
-9628 stassen@alc.com <><",
-trec06_phishing_email_40.png,trec06_phishing,1,"creation vs. evolution
+9628 stassen@alc.com <><",,2026-11-11 20:00:07
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_40.png,trec06_phishing_email_40.png,trec06_phishing,1,"creation vs. evolution
 
 From: Steven Patterson <chesepx@indigo2.gsu.edu>
 
@@ -5359,7 +5352,6 @@ Charles B. Thaxton, Walter L. Bradley, Roger L. Olsen.
 PUBLISHER: New York : Philosophical Library, 1984.
 
 The book mainly addresses the primary origin of life and is rather
-
 technical, being written by chemists. It also contains a large number of
 references, but | would only recommend this book for someone with a good
 background in chemistry i.e. at least one year of college chemistry,
@@ -5368,28 +5360,28 @@ though a layperson could read and understand the concepts if he or she
 were willing to really work hard.
 
 Hope this helps
-Steve",
-trec06_phishing_email_41.png,trec06_phishing,1,"Plan@ file server for a PC
+Steve",,2026-11-11 20:00:01
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_41.png,trec06_phishing_email_41.png,trec06_phishing,1,"Plan9 file server for a PC
 
 From: Sean Quinlan <sean@flamingo.Stanford.EDU>
 
-Has anyone ported the plan9 file server to a PC?
+Has anyone ported the plang file server to a PC?
 thanks
-sean quinlan",
-trec06_phishing_email_42.png,trec06_phishing,1,"Re: NEEDED: Bible Study Resource(s) on Creation vs. Evolution
+sean quinlan",,2026-11-11 20:00:02
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_42.png,trec06_phishing_email_42.png,trec06_phishing,1,"Re: NEEDED: Bible Study Resource(s) on Creation vs. Evolution
 
 From: cnews@umr.edu
 
 espiritu@cgi.com (Rex Espiritu) writes:
 
->I've been asked to lead an evening Bible Study a week from tonight on
+>lI've been asked to lead an evening Bible Study a week from tonight on
 >Tuesday, August 3, 1993 on the topic of Creation vs. Evolution. We're
 >doing a series on Apologetics (just scratching the surface) for the rest
 >of this summer.
 
 >
 
->| would greatly appreciate any pointers to resources which may be readily
+>I would greatly appreciate any pointers to resources which may be readily
 >available in time.
 
 >
@@ -5397,7 +5389,7 @@ espiritu@cgi.com (Rex Espiritu) writes:
 >[While | redirect arguments on this subject to talk.origins, | do
 >attempt to maintain lists of references, for purposes like this.
 
-Pan
+>
 
 >--clh]
 
@@ -5447,8 +5439,8 @@ have created, and counters them with Bibical as well as secular evidence
 which exposes the evolutionary theory as being impossible. This
 
 book contains many illustrations and references. It may be exactly what your
-looking for.",
-trec06_phishing_email_43.png,trec06_phishing,1,"scsi driver, small bits & pieces
+looking for.",,2026-11-11 20:00:05
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_43.png,trec06_phishing_email_43.png,trec06_phishing,1,"scsi driver, small bits & pieces
 
 From: forsyth@minster.york.ac.uk
 
@@ -5462,23 +5454,23 @@ used it much.
 if anyone would like it/them, please let me know.
 
 i've got a few minor changes that might be of interest:
-16550A support in devuart.c and hayes.c (seems to work).
+16550A support in devuart.c and hayes.c (Seems to work).
 changes to devvga.c, aux/vga and /lib/vgadb to
 give minimal support for (my) S3/911 card in
 1024x768 mode. it doesn't use the accelerator,
 and still needs tuning, but if anyone else wants
-to help fiddle with it, let me know.",
-trec06_phishing_email_44.png,trec06_phishing,1,"Re: NEEDED: Bible Study Resource(s) on Creation vs. Evolution
+to help fiddle with it, let me know.",,2026-11-11 20:00:05
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_44.png,trec06_phishing_email_44.png,trec06_phishing,1,"Re: NEEDED: Bible Study Resource(s) on Creation vs. Evolution
 
 From: huggins@quip.eecs.umich.edu
 
 In article espiritu@cgi.com (Rex Espiritu) writes: |I've been asked to lead an evening Bible Study a week
-from tonight on |Tuesday, August 3, 1993 on the topic of Creation vs. Evolution. We're [doing a series on
-Apologetics (just scratching the surface) for the rest |of this summer. | |I would greatly appreciate any
-pointers to resources which may be readily [available in time. Oops ... just a bit late, but others may be
+from tonight on |Tuesday, August 3, 1993 on the topic of Creation vs. Evolution. We're |doing a series on
+Apologetics (just scratching the surface) for the rest |of this summer. | || would greatly appreciate any
+pointers to resources which may be readily |available in time. Oops ... just a bit late, but others may be
 interested in this information. |[In addition to the references in the FAQ, the Journal of the American
-[Scientific Affiliation (a journal that explores issues at the |boundaries of science and Christianity) has had at
-least one issue |with articles from both viewpoints. The one | remember was in the |early 70's, but | think
+|Scientific Affiliation (a journal that explores issues at the |boundaries of science and Christianity) has had at
+least one issue |with articles from both viewpoints. The one | remember was in the Jearly 70's, but | think
 there have been more recent issues devoted to |this topic. --clh] Actually, there tends to be a continual
 stream of articles in the general area -- not so much creation vs. evolution, but recent articles | recall
 included critiques of Philip Johnson's book _Darwin_On_Trial_, discussions of flood geology, and other
@@ -5490,8 +5482,8 @@ extremes of the controversy who are apt to practice bad science, and that one mu
 claims in the field, regardless of which position they advocate. -- Jim Huggins, Univ. of Michigan
 huggins@eecs.umich.edu ""You cannot pray to a personal computer no matter how user-friendly it is.""
 
--- W. Bingham Hunter",
-trec06_phishing_email_45.png,trec06_phishing,1,"Re: NEEDED: Bible Study Resource(s) on Creation vs. Evolution
+-- W. Bingham Hunter",,2026-11-11 20:00:08
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_45.png,trec06_phishing_email_45.png,trec06_phishing,1,"Re: NEEDED: Bible Study Resource(s) on Creation vs. Evolution
 
 From: timi@mendel.berkeley.edu
 
@@ -5514,8 +5506,8 @@ is based on first-hand accounts and interviews.
 
 Regards,
 Tim Ikeda
-timi@mendel.berkeley.edu",
-trec06_phishing_email_46.png,trec06_phishing,1,"Plan 9 Mods?
+timi@mendel.berkeley.edu",,2026-11-11 20:00:08
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_46.png,trec06_phishing_email_46.png,trec06_phishing,1,"Plan 9 Mods?
 
 From: Jerry W Johnson <jwjohn@ecst.csuchico.edu>
 
@@ -5526,8 +5518,8 @@ have there been other modifications to plan9, besides that long
 list from Rob Pike & the ALEF changes from Phil Winterbottom, that
 have been released by AT&T? Specifically, for the compilers or mail?
 ALSO, can someone explain what is required for us to have our
-""point of contact"" changed, please? TIA, --Jerry",
-trec06_phishing_email_47.png,trec06_phishing,1,"Possible Mailing List Problems
+""point of contact"" changed, please? TIA, --Jerry",,2026-11-11 20:00:08
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_47.png,trec06_phishing_email_47.png,trec06_phishing,1,"Possible Mailing List Problems
 
 From: Dan Ehrlich <ehrlich@cse.psu.edu>
 
@@ -5535,15 +5527,15 @@ Hi, | am the postmaster here and Scott Schwartz reported to me that there may be
 mailing list. Please ignore this test message. -- Dan Ehrlich -- Dan Ehrlich - Systems Analyst - PSU
 Computer Science and Engineering ""Universities should be safe havens where ruthless examination of
 realities will not be distorted by the aim to please or inhibited by the risk of displeasure."" - Kingman
-Brewster",
-trec06_phishing_email_48.png,trec06_phishing,1,"ALEF Installation?
+Brewster",,2026-11-11 20:00:08
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_48.png,trec06_phishing_email_48.png,trec06_phishing,1,"ALEF Installation?
 
 From: Jerry W Johnson <jwjohn@ecst.csuchico.edu>
 
 Hi 9'ers,
 I've run into some problems installing the new ALEF files.
 
-To get this far, I:
+To get this far, |:
 Copied the old alef tree to /sys/src/alef.old.
 Installed the new tree into /sys/src/alef.
 Copied back fcall.h and the conversions, convM2S & convS2M.
@@ -5552,7 +5544,7 @@ Installed the new sparc mkfile and mksyslib.
 Made the dirs /$objtype/lib/alef where not done.
 Made the new compilers (kal,val,8al) by running the mkfiles
 in /sys/src/alef/k
-Iv
+lv
 /8
 using ""objtype=architecture mk"" and copying the resulting binary
 to /Sobjtype/bin.
@@ -5580,9 +5572,9 @@ mk: mk $objtype.install : exit status=rc 8039:mk 8041:error
 
 If, instead, ""mk installall"" is executed from /sys/src/alef,
 
-the compile lists errors ""ar: *.8 cannot open"" for:
+the compile lists errors ""ar: *8 cannot open"" for:
 
-/sys/src/alef/lib/lipbio,
+/sys/src/alef/lib/libbio,
 
 /sys/src/alef/lib/p9, & ( announce.|:69 WARNING parameter
 INT nf declared but not used )
@@ -5595,18 +5587,18 @@ ALSO,
 
 once the installation is complete, will the example code which
 came on the 2nd rev cdrom, (/sys/src/alef/test, /sys/src/alef/test/Y),
-all compile correctly?",
-trec06_phishing_email_49.png,trec06_phishing,1,"ALEF Installation (REPOST)
+all compile correctly?",,2026-11-11 20:00:10
+rendered_email_screenshots/trec06_phishing/trec06_phishing_email_49.png,trec06_phishing_email_49.png,trec06_phishing,1,"ALEF Installation (REPOST)
 
 From: Jerry W Johnson <jwjohn@ecst.csuchico.edu>
 
-| think this had some problems getting out. Sorry, if you got
+I think this had some problems getting out. Sorry, if you got
 it twice. --JJ
 
 Hi 9'ers,
 I've run into some problems installing the new ALEF files.
 
-To get this far, I:
+To get this far, |:
 Copied the old alef tree to /sys/src/alef.old.
 Installed the new tree into /sys/src/alef.
 Copied back fcall.h and the conversions, convM2S & convS2M.
@@ -5615,21 +5607,21 @@ Installed the new sparc mkfile and mksyslib.
 Made the dirs /$objtype/lib/alef where not done.
 Made the new compilers (kal,val,8al) by running the mkfiles
 in /sys/src/alef/k
-Iv
-/8
+lv
+[8
 using ""objtype=architecture mk"" and copying the resulting binary
-to /Sobjtype/bin.
+to /$objtype/bin.
 
-Then from /sys/src/alef | ran ""objtype=architecture mk install"";
+Then from /sys/src/alef | ran “objtype=architecture mk install"";
 all the libraries (/$objtype/lib/alef/*.a) seem to compile fine,
 (assuming none generated for the 68020 & only libA.a, libbio.a for
 the 386), but $objtype=mips generates the error:
 
 val -w div64.|
 
-div64.1"":12: syntax error near symbol ‘lint’
+div64.|"":12: syntax error near symbol ‘lint’
 
-mk: val -w div64.| : exit status=rc 8989:val 8991 errors
+mk: val -w div64.I : exit status=rc 8989:val 8991 errors
 
 mk: for (iin... : exit status:=rc 8191:mk 8999:error
 
@@ -5643,9 +5635,9 @@ mk: mk $objtype.install : exit status=rc 8039:mk 8041:error
 
 If, instead, ""mk installall"" is executed from /sys/src/alef,
 
-the compile lists errors ""ar: *.8 cannot open"" for:
+the compile lists errors ""ar: *8 cannot open"" for:
 
-/sys/src/alef/lib/lipbio,
+/sys/src/alef/lib/libbio,
 
 /sys/src/alef/lib/p9, & ( announce.|:69 WARNING parameter
 INT nf declared but not used )
@@ -5658,4 +5650,4 @@ ALSO,
 
 once the installation is complete, will the example code which
 came on the 2nd rev cdrom, (/sys/src/alef/test, /sys/src/alef/test/Y),
-all compile correctly?",
+all compile correctly?",,2026-11-11 20:00:10
