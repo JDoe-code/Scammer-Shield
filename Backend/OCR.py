@@ -10,7 +10,6 @@ Install dependencies once from the terminal (not in this file):
 Run from anywhere:
     python Backend/OCR.py
 """
-
 import os
 
 # Tesseract uses several CPU threads per image by default. Since we run
