@@ -1,6 +1,10 @@
 # OS files
 *.DS_Store
 
+# Large email corpus files are kept locally and regenerated from raw data.
+data/done/archive_phishing_email_cleaned.csv
+data/not_done/raw/archive/phishing_email.csv
+
 # Logs
 logs
 *.log
