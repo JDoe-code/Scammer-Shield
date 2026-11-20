@@ -1,4 +1,4 @@
-# ScamShield
+# ScammerShield
 
 LABEL:
 0 = real email
