@@ -1,0 +1,59 @@
+.right-corder-container { 
+    position: fixed !important; 
+    right: 30px !important; 
+    bottom: 30px !important; 
+    z-index: 2147483647 !important; /* Forces the container to absolute top layer depth */
+    display: block !important;
+}
+
+.right-corder-container .right-corder-container-button { 
+    position: relative;
+    height: 62px; 
+    width: 62px; 
+    border: none; 
+    background-color: #3140b0; 
+    border-radius: 62px; 
+    transition: width 350ms cubic-bezier(.62,.1,.5,1), border-radius 350ms; 
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); 
+    cursor: pointer;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+
+.right-corder-container .right-corder-container-button .short-text { 
+    font-size: 34px; 
+    color: white; 
+    position: absolute; 
+    left: 22px; 
+    top: 50%;
+    transform: translateY(-50%);
+    line-height: 1; 
+}
+
+.right-corder-container .right-corder-container-button .long-text { 
+    transition: opacity 200ms ease, max-width 350ms cubic-bezier(.62,.1,.5,1);
+    opacity: 0; 
+    color: white; 
+    white-space: nowrap; 
+    font-size: 16px; 
+    font-family: 'Google Sans', Roboto, sans-serif;
+    font-weight: 500;
+    max-width: 0; 
+    margin-left: 55px; 
+    display: inline-block;
+}
+
+.right-corder-container .right-corder-container-button:hover { 
+    width: 175px; 
+    border-radius: 31px; 
+}
+
+.right-corder-container .right-corder-container-button:hover .long-text {
+    opacity: 1; 
+    max-width: 110px; 
+}
+.right-corder-container.scanner-hidden {
+  display: none !important;
+}

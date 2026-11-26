@@ -1,0 +1,19 @@
+{
+  "name": "ScammerShield Scanner",
+  "description": "Injects a floating scanner button directly into Gmail.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["storage"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://mail.google.com/*"],
+      "css": ["style.css"],
+      "js": ["index.js"],
+      "run_at": "document_end"
+    }
+  ]
+}

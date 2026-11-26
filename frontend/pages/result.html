@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Scan Result</title>
+  <link rel="stylesheet" href="result.css" />
+</head>
+<body>
+  <div class="screenshot-area">
+    <img id="screenshot" alt="Scan screenshot" />
+    <p id="empty" hidden>No screenshot found.</p>
+  </div>
+
+  <div class="result-banner">
+    <h2>Result</h2>
+    <svg
+      class="waves"
+      viewBox="0 24 150 28"
+      preserveAspectRatio="none"
+      shape-rendering="auto"
+    >
+      <defs>
+        <path
+          id="gentle-wave"
+          d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"
+        />
+      </defs>
+      <g class="parallax">
+        <use href="#gentle-wave" x="48" y="0" fill="rgba(19, 64, 92, 0.7)" />
+        <use href="#gentle-wave" x="48" y="3" fill="rgba(19, 64, 92, 0.5)" />
+        <use href="#gentle-wave" x="48" y="5" fill="rgba(19, 64, 92, 0.3)" />
+        <use href="#gentle-wave" x="48" y="7" fill="#13405c" />
+      </g>
+    </svg>
+  </div>
+
+  <div class="text-area">
+    <div id="result-text">Results will appear here…</div>
+  </div>
+
+  <script src="result.js"></script>
+</body>
+</html>
